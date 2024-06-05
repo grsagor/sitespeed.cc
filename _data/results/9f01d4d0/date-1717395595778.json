@@ -1,0 +1,67 @@
+{
+  "url": "https://stetson.com/",
+  "requestedUrl": "https://www.stetson.com/",
+  "timestamp": 1717399313002,
+  "ranks": {
+    "hundos": 6,
+    "performance": 4,
+    "accessibility": 16,
+    "cumulative": 6
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.37,
+    "accessibility": 0.84,
+    "bestPractices": 0.56,
+    "seo": 0.93,
+    "total": 270
+  },
+  "firstContentfulPaint": 3624.232100000001,
+  "firstMeaningfulPaint": 3673.657700000001,
+  "speedIndex": 12134.244559433986,
+  "largestContentfulPaint": 14265.573099999998,
+  "totalBlockingTime": 927,
+  "cumulativeLayoutShift": 0.00006705334088765886,
+  "timeToInteractive": 22620.411999999997,
+  "maxPotentialFirstInputDelay": 379,
+  "timeToFirstByte": 19.394000000000002,
+  "weight": {
+    "summary": "153 requests • 2.9 MiB",
+    "total": 2993040,
+    "image": 485683,
+    "imageCount": 41,
+    "script": 1166494,
+    "scriptCount": 37,
+    "document": 96592,
+    "font": 291123,
+    "fontCount": 5,
+    "stylesheet": 139680,
+    "stylesheetCount": 4,
+    "thirdParty": 1581009,
+    "thirdPartyCount": 37
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 4,
+    "+weight.total": 24,
+    "-weight.document": 7,
+    "+weight.document": 21,
+    "-weight.script": 1,
+    "+weight.script": 27,
+    "-weight.image": 4,
+    "+weight.image": 24,
+    "-weight.font": 22,
+    "+weight.font": 6,
+    "+weight.fontCount": 7,
+    "-timeToFirstByte": 10,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 18
+  },
+  "axe": {
+    "passes": 633,
+    "violations": 38
+  }
+}

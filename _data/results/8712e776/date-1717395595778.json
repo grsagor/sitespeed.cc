@@ -1,0 +1,67 @@
+{
+  "url": "https://www.proflowers.com/",
+  "requestedUrl": "https://www.proflowers.com/",
+  "timestamp": 1717409910201,
+  "ranks": {
+    "hundos": 2,
+    "performance": 2,
+    "accessibility": 2,
+    "cumulative": 2
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.46,
+    "accessibility": 0.91,
+    "bestPractices": 0.52,
+    "seo": 0.91,
+    "total": 280
+  },
+  "firstContentfulPaint": 2013.8710000000003,
+  "firstMeaningfulPaint": 2013.8710000000003,
+  "speedIndex": 13715.636664791231,
+  "largestContentfulPaint": 3964.0595,
+  "totalBlockingTime": 4924.500000000004,
+  "cumulativeLayoutShift": 0.0003110162799374992,
+  "timeToInteractive": 27593.987000000005,
+  "maxPotentialFirstInputDelay": 1565,
+  "timeToFirstByte": 1122.2649999999999,
+  "weight": {
+    "summary": "183 requests • 2.8 MiB",
+    "total": 2940224,
+    "image": 355945,
+    "imageCount": 41,
+    "script": 1650906,
+    "scriptCount": 73,
+    "document": 74895,
+    "font": 570648,
+    "fontCount": 7,
+    "stylesheet": 39900,
+    "stylesheetCount": 7,
+    "thirdParty": 1676227,
+    "thirdPartyCount": 25
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 2,
+    "+weight.total": 1,
+    "-weight.document": 1,
+    "+weight.document": 2,
+    "-weight.script": 2,
+    "+weight.script": 1,
+    "-weight.image": 1,
+    "+weight.image": 2,
+    "-weight.font": 2,
+    "+weight.font": 1,
+    "+weight.fontCount": 1,
+    "-timeToFirstByte": 2,
+    "-totalBlockingTime": 2,
+    "-largestContentfulPaint": 2
+  },
+  "axe": {
+    "passes": 2182,
+    "violations": 27
+  }
+}

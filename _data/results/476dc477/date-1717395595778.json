@@ -1,0 +1,67 @@
+{
+  "url": "https://www.wearfigs.com/",
+  "requestedUrl": "https://www.wearfigs.com/",
+  "timestamp": 1717399697976,
+  "ranks": {
+    "hundos": 5,
+    "performance": 24,
+    "accessibility": 9,
+    "cumulative": 4
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.21,
+    "accessibility": 0.89,
+    "bestPractices": 0.78,
+    "seo": 0.86,
+    "total": 274
+  },
+  "firstContentfulPaint": 2950.5075500000003,
+  "firstMeaningfulPaint": 3967.9596,
+  "speedIndex": 13653.193256492714,
+  "largestContentfulPaint": 5648.56391,
+  "totalBlockingTime": 3278,
+  "cumulativeLayoutShift": 0.2837808789559853,
+  "timeToInteractive": 26444.475609999998,
+  "maxPotentialFirstInputDelay": 967,
+  "timeToFirstByte": 168.89300000000003,
+  "weight": {
+    "summary": "167 requests • 2.8 MiB",
+    "total": 2912531,
+    "image": 590380,
+    "imageCount": 62,
+    "script": 1939925,
+    "scriptCount": 49,
+    "document": 84642,
+    "font": 186999,
+    "fontCount": 3,
+    "stylesheet": 0,
+    "stylesheetCount": 0,
+    "thirdParty": 1706816,
+    "thirdPartyCount": 29
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 2,
+    "+weight.total": 26,
+    "-weight.document": 6,
+    "+weight.document": 22,
+    "-weight.script": 9,
+    "+weight.script": 19,
+    "-weight.image": 5,
+    "+weight.image": 23,
+    "-weight.font": 17,
+    "+weight.font": 11,
+    "+weight.fontCount": 9,
+    "-timeToFirstByte": 17,
+    "-totalBlockingTime": 10,
+    "-largestContentfulPaint": 6
+  },
+  "axe": {
+    "passes": 2489,
+    "violations": 5
+  }
+}

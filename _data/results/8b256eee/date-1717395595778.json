@@ -1,0 +1,66 @@
+{
+  "url": "https://www.carhartt-wip.com/en",
+  "requestedUrl": "https://www.carhartt-wip.com/",
+  "timestamp": 1717397149413,
+  "ranks": {
+    "hundos": 21,
+    "performance": 17,
+    "accessibility": 22,
+    "cumulative": 21
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.28,
+    "accessibility": 0.76,
+    "bestPractices": 0.52,
+    "seo": 0.83,
+    "total": 239
+  },
+  "firstContentfulPaint": 5314.607949999999,
+  "firstMeaningfulPaint": 5321.607949999999,
+  "speedIndex": 17542.91663267934,
+  "largestContentfulPaint": 9617.968499999997,
+  "totalBlockingTime": 2161.5,
+  "cumulativeLayoutShift": 0.004887759206862902,
+  "timeToInteractive": 29829.19289999998,
+  "maxPotentialFirstInputDelay": 458,
+  "timeToFirstByte": 605.919,
+  "weight": {
+    "summary": "86 requests • 6.1 MiB",
+    "total": 6412731,
+    "image": 4844586,
+    "imageCount": 26,
+    "script": 1424686,
+    "scriptCount": 34,
+    "document": 45008,
+    "font": 24906,
+    "fontCount": 1,
+    "stylesheet": 69355,
+    "stylesheetCount": 3,
+    "thirdParty": 1177261,
+    "thirdPartyCount": 19
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 13,
+    "+weight.total": 15,
+    "-weight.document": 2,
+    "+weight.document": 26,
+    "-weight.script": 3,
+    "+weight.script": 25,
+    "-weight.image": 23,
+    "+weight.image": 5,
+    "-weight.font": 2,
+    "+weight.font": 26,
+    "+weight.fontCount": 11,
+    "-timeToFirstByte": 22,
+    "-totalBlockingTime": 4,
+    "-largestContentfulPaint": 12
+  },
+  "axe": {
+    "error": "{\"name\":\"TimeoutError\"}"
+  }
+}

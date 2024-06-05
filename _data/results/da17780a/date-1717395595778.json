@@ -1,0 +1,67 @@
+{
+  "url": "https://www.onepeloton.com/",
+  "requestedUrl": "https://www.onepeloton.com/",
+  "timestamp": 1717405393765,
+  "ranks": {
+    "hundos": 7,
+    "performance": 7,
+    "accessibility": 22,
+    "cumulative": 7
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.31,
+    "accessibility": 0.76,
+    "bestPractices": 0.74,
+    "seo": 0.92,
+    "total": 273
+  },
+  "firstContentfulPaint": 4645.026000000001,
+  "firstMeaningfulPaint": 4645.026000000001,
+  "speedIndex": 20129.245623769995,
+  "largestContentfulPaint": 5599.967500000001,
+  "totalBlockingTime": 10994.762999999994,
+  "cumulativeLayoutShift": 0.002460306876867729,
+  "timeToInteractive": 27618.826999999997,
+  "maxPotentialFirstInputDelay": 3432,
+  "timeToFirstByte": 274.07900000000006,
+  "weight": {
+    "summary": "178 requests • 4.4 MiB",
+    "total": 4631302,
+    "image": 1261262,
+    "imageCount": 57,
+    "script": 1988852,
+    "scriptCount": 86,
+    "document": 84672,
+    "font": 182978,
+    "fontCount": 2,
+    "stylesheet": 709,
+    "stylesheetCount": 2,
+    "thirdParty": 3065581,
+    "thirdPartyCount": 9
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 12,
+    "+weight.total": 15,
+    "-weight.document": 9,
+    "+weight.document": 18,
+    "-weight.script": 9,
+    "+weight.script": 18,
+    "-weight.image": 14,
+    "+weight.image": 13,
+    "-weight.font": 15,
+    "+weight.font": 12,
+    "+weight.fontCount": 14,
+    "-timeToFirstByte": 17,
+    "-totalBlockingTime": 16,
+    "-largestContentfulPaint": 4
+  },
+  "axe": {
+    "passes": 142,
+    "violations": 2
+  }
+}

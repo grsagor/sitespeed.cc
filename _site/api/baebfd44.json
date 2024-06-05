@@ -1,0 +1,73 @@
+{
+  "url": "https://au.fleshlight.com/",
+  "requestedUrl": "https://www.fleshlight.com/",
+  "timestamp": 1717490556552,
+  "ranks": {
+    "hundos": 1,
+    "performance": 1,
+    "accessibility": 1,
+    "cumulative": 1
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.04,
+    "accessibility": 0.7,
+    "bestPractices": 0.33,
+    "seo": 0.86,
+    "total": 193
+  },
+  "firstContentfulPaint": 19841.0234075,
+  "firstMeaningfulPaint": 23516.783157500002,
+  "speedIndex": 36863.669108501286,
+  "largestContentfulPaint": 41440.53064630128,
+  "totalBlockingTime": 14452.89599999999,
+  "cumulativeLayoutShift": 0.534882167425427,
+  "timeToInteractive": 54888.42504260251,
+  "maxPotentialFirstInputDelay": 3898.5,
+  "timeToFirstByte": 30.753000000000004,
+  "weight": {
+    "summary": "431 requests • 6.5 MiB",
+    "total": 6778342,
+    "image": 1419817,
+    "imageCount": 93,
+    "script": 3314832,
+    "scriptCount": 163,
+    "document": 238100,
+    "font": 350401,
+    "fontCount": 10,
+    "stylesheet": 347725,
+    "stylesheetCount": 61,
+    "thirdParty": 4754765,
+    "thirdPartyCount": 43
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 1,
+    "+weight.total": 1,
+    "-weight.document": 1,
+    "+weight.document": 1,
+    "-weight.script": 1,
+    "+weight.script": 1,
+    "-weight.image": 1,
+    "+weight.image": 1,
+    "-weight.font": 1,
+    "+weight.font": 1,
+    "+weight.fontCount": 1,
+    "-timeToFirstByte": 1,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 1
+  },
+  "axe": {
+    "passes": 4515,
+    "violations": 45
+  },
+  "previousRanks": {
+    "hundos": 1,
+    "performance": 1,
+    "accessibility": 1,
+    "cumulative": 1
+  }
+}

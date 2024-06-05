@@ -1,0 +1,67 @@
+{
+  "url": "https://www.elgato.com/ww/en",
+  "requestedUrl": "https://www.elgato.com/",
+  "timestamp": 1717406871426,
+  "ranks": {
+    "hundos": 8,
+    "performance": 15,
+    "accessibility": 15,
+    "cumulative": 8
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.27,
+    "accessibility": 0.82,
+    "bestPractices": 0.74,
+    "seo": 0.9,
+    "total": 273
+  },
+  "firstContentfulPaint": 3366.227,
+  "firstMeaningfulPaint": 12504.858000000002,
+  "speedIndex": 31107.888552966368,
+  "largestContentfulPaint": 20796.378000000004,
+  "totalBlockingTime": 29682.999999999996,
+  "cumulativeLayoutShift": 0.0916884090989784,
+  "timeToInteractive": 44343.159,
+  "maxPotentialFirstInputDelay": 3377.0000000000036,
+  "timeToFirstByte": 1018.405,
+  "weight": {
+    "summary": "170 requests • 5.8 MiB",
+    "total": 6056281,
+    "image": 1240397,
+    "imageCount": 30,
+    "script": 3008838,
+    "scriptCount": 60,
+    "document": 257577,
+    "font": 91246,
+    "fontCount": 3,
+    "stylesheet": 118261,
+    "stylesheetCount": 15,
+    "thirdParty": 3928363,
+    "thirdPartyCount": 21
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 17,
+    "+weight.total": 10,
+    "-weight.document": 24,
+    "+weight.document": 3,
+    "-weight.script": 21,
+    "+weight.script": 6,
+    "-weight.image": 13,
+    "+weight.image": 14,
+    "-weight.font": 5,
+    "+weight.font": 22,
+    "+weight.fontCount": 13,
+    "-timeToFirstByte": 24,
+    "-totalBlockingTime": 22,
+    "-largestContentfulPaint": 22
+  },
+  "axe": {
+    "passes": 114,
+    "violations": 12
+  }
+}

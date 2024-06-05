@@ -1,0 +1,72 @@
+{
+  "url": "https://rothys.com/",
+  "requestedUrl": "https://rothys.com/",
+  "timestamp": 1717498353802,
+  "ranks": {
+    "hundos": 12,
+    "performance": 9,
+    "accessibility": 19,
+    "cumulative": 12
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.34,
+    "accessibility": 0.8,
+    "bestPractices": 0.56,
+    "seo": 0.91,
+    "total": 261
+  },
+  "firstContentfulPaint": 1770.9045,
+  "firstMeaningfulPaint": 1770.9045,
+  "speedIndex": 21752.50755483495,
+  "largestContentfulPaint": 9783.617999999999,
+  "totalBlockingTime": 3477.198500000002,
+  "cumulativeLayoutShift": 0.06838457288693092,
+  "timeToInteractive": 26971.331049999993,
+  "maxPotentialFirstInputDelay": 740,
+  "timeToFirstByte": 14.24199999999999,
+  "weight": {
+    "summary": "231 requests • 4.5 MiB",
+    "total": 4690571,
+    "image": 1816700,
+    "imageCount": 42,
+    "script": 1655768,
+    "scriptCount": 72,
+    "document": 119478,
+    "font": 45113,
+    "fontCount": 3,
+    "stylesheet": 98013,
+    "stylesheetCount": 13,
+    "thirdParty": 2250123,
+    "thirdPartyCount": 25
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 6,
+    "+weight.total": 22,
+    "-weight.document": 14,
+    "+weight.document": 14,
+    "-weight.script": 7,
+    "+weight.script": 21,
+    "-weight.image": 16,
+    "+weight.image": 12,
+    "-weight.font": 3,
+    "+weight.font": 25,
+    "+weight.fontCount": 10,
+    "-timeToFirstByte": 3,
+    "-totalBlockingTime": 13,
+    "-largestContentfulPaint": 12
+  },
+  "axe": {
+    "error": "{\"name\":\"TimeoutError\"}"
+  },
+  "previousRanks": {
+    "hundos": 13,
+    "performance": 13,
+    "accessibility": 19,
+    "cumulative": 13
+  }
+}

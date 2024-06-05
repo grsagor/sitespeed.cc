@@ -1,0 +1,66 @@
+{
+  "url": "https://whitefoxboutique.com/",
+  "requestedUrl": "https://www.whitefoxboutique.com/",
+  "timestamp": 1717397578717,
+  "ranks": {
+    "hundos": 22,
+    "performance": 20,
+    "accessibility": 26,
+    "cumulative": 22
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.26,
+    "accessibility": 0.69,
+    "bestPractices": 0.52,
+    "seo": 0.92,
+    "total": 239
+  },
+  "firstContentfulPaint": 4377.0555,
+  "firstMeaningfulPaint": 4377.0555,
+  "speedIndex": 24908.879042928143,
+  "largestContentfulPaint": 22176.93875000001,
+  "totalBlockingTime": 12904.835499999997,
+  "cumulativeLayoutShift": 0.04319318972020982,
+  "timeToInteractive": 35009.083,
+  "maxPotentialFirstInputDelay": 2217.000000000002,
+  "timeToFirstByte": 995.5219999999999,
+  "weight": {
+    "summary": "291 requests • 4.6 MiB",
+    "total": 4835429,
+    "image": 1410868,
+    "imageCount": 100,
+    "script": 2158535,
+    "scriptCount": 65,
+    "document": 104367,
+    "font": 77852,
+    "fontCount": 5,
+    "stylesheet": 177458,
+    "stylesheetCount": 12,
+    "thirdParty": 2747495,
+    "thirdPartyCount": 37
+  },
+  "run": {
+    "number": 1,
+    "total": 2
+  },
+  "sidequests": {
+    "-weight.total": 7,
+    "+weight.total": 21,
+    "-weight.document": 8,
+    "+weight.document": 20,
+    "-weight.script": 12,
+    "+weight.script": 16,
+    "-weight.image": 11,
+    "+weight.image": 17,
+    "-weight.font": 7,
+    "+weight.font": 21,
+    "+weight.fontCount": 7,
+    "-timeToFirstByte": 24,
+    "-totalBlockingTime": 20,
+    "-largestContentfulPaint": 24
+  },
+  "axe": {
+    "error": "{\"name\":\"TimeoutError\"}"
+  }
+}

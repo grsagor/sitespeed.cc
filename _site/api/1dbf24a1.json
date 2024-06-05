@@ -1,0 +1,73 @@
+{
+  "url": "https://fearofgod.com/",
+  "requestedUrl": "https://fearofgod.com/",
+  "timestamp": 1717499454646,
+  "ranks": {
+    "hundos": 11,
+    "performance": 21,
+    "accessibility": 6,
+    "cumulative": 11
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.26,
+    "accessibility": 0.9,
+    "bestPractices": 0.52,
+    "seo": 0.93,
+    "total": 261
+  },
+  "firstContentfulPaint": 6457.526250000001,
+  "firstMeaningfulPaint": 10462.551,
+  "speedIndex": 15194.466811332937,
+  "largestContentfulPaint": 20462.011249999996,
+  "totalBlockingTime": 2894.000000000001,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 28644.444663803093,
+  "maxPotentialFirstInputDelay": 862.0000000000036,
+  "timeToFirstByte": 14.34699999999998,
+  "weight": {
+    "summary": "219 requests • 3.3 MiB",
+    "total": 3438109,
+    "image": 377176,
+    "imageCount": 34,
+    "script": 2118386,
+    "scriptCount": 66,
+    "document": 116336,
+    "font": 53160,
+    "fontCount": 5,
+    "stylesheet": 49478,
+    "stylesheetCount": 10,
+    "thirdParty": 2423809,
+    "thirdPartyCount": 25
+  },
+  "run": {
+    "number": 2,
+    "total": 2
+  },
+  "sidequests": {
+    "-weight.total": 5,
+    "+weight.total": 23,
+    "-weight.document": 13,
+    "+weight.document": 15,
+    "-weight.script": 11,
+    "+weight.script": 17,
+    "-weight.image": 3,
+    "+weight.image": 25,
+    "-weight.font": 4,
+    "+weight.font": 24,
+    "+weight.fontCount": 8,
+    "-timeToFirstByte": 4,
+    "-totalBlockingTime": 5,
+    "-largestContentfulPaint": 21
+  },
+  "axe": {
+    "passes": 762,
+    "violations": 8
+  },
+  "previousRanks": {
+    "hundos": 10,
+    "performance": 16,
+    "accessibility": 6,
+    "cumulative": 10
+  }
+}

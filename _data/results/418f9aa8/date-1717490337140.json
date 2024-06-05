@@ -1,0 +1,66 @@
+{
+  "url": "https://www.windsorstore.com/",
+  "requestedUrl": "https://www.windsorstore.com/",
+  "timestamp": 1717499298228,
+  "ranks": {
+    "hundos": 22,
+    "performance": 13,
+    "accessibility": 20,
+    "cumulative": 22
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.3,
+    "accessibility": 0.77,
+    "bestPractices": 0.48,
+    "seo": 0.86,
+    "total": 241
+  },
+  "firstContentfulPaint": 3785.3900000000003,
+  "firstMeaningfulPaint": 3870.7235,
+  "speedIndex": 34479.12607940688,
+  "largestContentfulPaint": 6655.1759999999995,
+  "totalBlockingTime": 11291.500000000007,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 50006.481189999984,
+  "maxPotentialFirstInputDelay": 1739.0000000000073,
+  "timeToFirstByte": 24.733000000000004,
+  "weight": {
+    "summary": "370 requests • 6.1 MiB",
+    "total": 6436034,
+    "image": 1717307,
+    "imageCount": 76,
+    "script": 2999982,
+    "scriptCount": 135,
+    "document": 123766,
+    "font": 284447,
+    "fontCount": 13,
+    "stylesheet": 174284,
+    "stylesheetCount": 10,
+    "thirdParty": 5056209,
+    "thirdPartyCount": 81
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 16,
+    "+weight.total": 12,
+    "-weight.document": 16,
+    "+weight.document": 12,
+    "-weight.script": 20,
+    "+weight.script": 8,
+    "-weight.image": 14,
+    "+weight.image": 14,
+    "-weight.font": 21,
+    "+weight.font": 7,
+    "+weight.fontCount": 2,
+    "-timeToFirstByte": 13,
+    "-totalBlockingTime": 24,
+    "-largestContentfulPaint": 7
+  },
+  "axe": {
+    "error": "{\"name\":\"TimeoutError\"}"
+  }
+}

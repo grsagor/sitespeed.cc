@@ -1,0 +1,67 @@
+{
+  "url": "https://kith.com/",
+  "requestedUrl": "https://kith.com/",
+  "timestamp": 1717400275870,
+  "ranks": {
+    "hundos": 4,
+    "performance": 11,
+    "accessibility": 4,
+    "cumulative": 5
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.33,
+    "accessibility": 0.96,
+    "bestPractices": 0.52,
+    "seo": 0.93,
+    "total": 274
+  },
+  "firstContentfulPaint": 3105.1956000000005,
+  "firstMeaningfulPaint": 3105.195600000001,
+  "speedIndex": 20067.00587790271,
+  "largestContentfulPaint": 8354.408800000001,
+  "totalBlockingTime": 1916.4999999999964,
+  "cumulativeLayoutShift": 0.00030953429337597866,
+  "timeToInteractive": 32983.56085744629,
+  "maxPotentialFirstInputDelay": 246,
+  "timeToFirstByte": 22.71700000000004,
+  "weight": {
+    "summary": "300 requests • 80.1 MiB",
+    "total": 83948047,
+    "image": 1131798,
+    "imageCount": 91,
+    "script": 2471753,
+    "scriptCount": 72,
+    "document": 108222,
+    "font": 206754,
+    "fontCount": 5,
+    "stylesheet": 72463,
+    "stylesheetCount": 17,
+    "thirdParty": 82170873,
+    "thirdPartyCount": 30
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 26,
+    "+weight.total": 2,
+    "-weight.document": 9,
+    "+weight.document": 19,
+    "-weight.script": 14,
+    "+weight.script": 14,
+    "-weight.image": 9,
+    "+weight.image": 19,
+    "-weight.font": 18,
+    "+weight.font": 10,
+    "+weight.fontCount": 7,
+    "-timeToFirstByte": 12,
+    "-totalBlockingTime": 3,
+    "-largestContentfulPaint": 11
+  },
+  "axe": {
+    "passes": 1712,
+    "violations": 8
+  }
+}

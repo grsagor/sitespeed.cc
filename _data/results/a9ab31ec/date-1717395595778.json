@@ -1,0 +1,66 @@
+{
+  "url": "https://www.ohpolly.com/",
+  "requestedUrl": "https://www.ohpolly.com/",
+  "timestamp": 1717400753551,
+  "ranks": {
+    "hundos": 14,
+    "performance": 12,
+    "accessibility": 21,
+    "cumulative": 14
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.33,
+    "accessibility": 0.77,
+    "bestPractices": 0.56,
+    "seo": 0.91,
+    "total": 257
+  },
+  "firstContentfulPaint": 2931.3769999999995,
+  "firstMeaningfulPaint": 10519.903159999998,
+  "speedIndex": 34834.37633041934,
+  "largestContentfulPaint": 6150.289000000001,
+  "totalBlockingTime": 12209.844749999953,
+  "cumulativeLayoutShift": 0.0000535799620803514,
+  "timeToInteractive": 64038.259249999996,
+  "maxPotentialFirstInputDelay": 2870.0000000000073,
+  "timeToFirstByte": 23.649,
+  "weight": {
+    "summary": "504 requests • 8.9 MiB",
+    "total": 9373154,
+    "image": 4483904,
+    "imageCount": 107,
+    "script": 3248678,
+    "scriptCount": 189,
+    "document": 158852,
+    "font": 162024,
+    "fontCount": 6,
+    "stylesheet": 140618,
+    "stylesheetCount": 61,
+    "thirdParty": 8040807,
+    "thirdPartyCount": 64
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 18,
+    "+weight.total": 10,
+    "-weight.document": 18,
+    "+weight.document": 10,
+    "-weight.script": 22,
+    "+weight.script": 6,
+    "-weight.image": 22,
+    "+weight.image": 6,
+    "-weight.font": 14,
+    "+weight.font": 14,
+    "+weight.fontCount": 6,
+    "-timeToFirstByte": 15,
+    "-totalBlockingTime": 19,
+    "-largestContentfulPaint": 7
+  },
+  "axe": {
+    "error": "{\"name\":\"TimeoutError\"}"
+  }
+}

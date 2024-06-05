@@ -1,0 +1,67 @@
+{
+  "url": "https://www.winchesterguns.com/",
+  "requestedUrl": "https://www.winchesterguns.com/",
+  "timestamp": 1717490604278,
+  "ranks": {
+    "hundos": 1,
+    "performance": 1,
+    "accessibility": 1,
+    "cumulative": 1
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.11,
+    "accessibility": 1,
+    "bestPractices": 0.96,
+    "seo": 0.92,
+    "total": 299
+  },
+  "firstContentfulPaint": 5059.362,
+  "firstMeaningfulPaint": 6517.92,
+  "speedIndex": 11154.041557081224,
+  "largestContentfulPaint": 6601.543999999999,
+  "totalBlockingTime": 1564.5,
+  "cumulativeLayoutShift": 0.5466206230650098,
+  "timeToInteractive": 14182.480999999996,
+  "maxPotentialFirstInputDelay": 1663,
+  "timeToFirstByte": 47.62900000000002,
+  "weight": {
+    "summary": "90 requests • 2.2 MiB",
+    "total": 2274649,
+    "image": 1024557,
+    "imageCount": 35,
+    "script": 719597,
+    "scriptCount": 16,
+    "document": 8900,
+    "font": 391995,
+    "fontCount": 10,
+    "stylesheet": 127053,
+    "stylesheetCount": 6,
+    "thirdParty": 0,
+    "thirdPartyCount": 0
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 1,
+    "+weight.total": 1,
+    "-weight.document": 1,
+    "+weight.document": 1,
+    "-weight.script": 1,
+    "+weight.script": 1,
+    "-weight.image": 1,
+    "+weight.image": 1,
+    "-weight.font": 1,
+    "+weight.font": 1,
+    "+weight.fontCount": 1,
+    "-timeToFirstByte": 1,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 1
+  },
+  "axe": {
+    "passes": 640,
+    "violations": 8
+  }
+}

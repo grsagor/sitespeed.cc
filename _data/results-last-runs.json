@@ -1,0 +1,32 @@
+{
+  "adult": {
+    "timestamp": 1717490589495
+  },
+  "antiques_collectibles": {
+    "timestamp": 1717490638721
+  },
+  "apparel": {
+    "timestamp": 1717500948900
+  },
+  "autos_vehicles": {
+    "timestamp": 1717501079309
+  },
+  "beauty_fitness": {
+    "timestamp": 1717407404242
+  },
+  "books_literature": {
+    "timestamp": 1717407619845
+  },
+  "computers": {
+    "timestamp": 1717407984592
+  },
+  "consumer_electronics": {
+    "timestamp": 1717408517370
+  },
+  "food_drink": {
+    "timestamp": 1717409824448
+  },
+  "gifts_special_events": {
+    "timestamp": 1717410026743
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "url": "https://www.pitviper.com/",
+  "requestedUrl": "https://www.pitviper.com/",
+  "timestamp": 1717492206261,
+  "ranks": {
+    "hundos": 16,
+    "performance": 22,
+    "accessibility": 17,
+    "cumulative": 16
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.25,
+    "accessibility": 0.82,
+    "bestPractices": 0.56,
+    "seo": 0.92,
+    "total": 255
+  },
+  "firstContentfulPaint": 6905.134250000001,
+  "firstMeaningfulPaint": 6905.134250000001,
+  "speedIndex": 26701.70500982416,
+  "largestContentfulPaint": 20479.208499999993,
+  "totalBlockingTime": 3534.6792500000006,
+  "cumulativeLayoutShift": 0.003277580023887948,
+  "timeToInteractive": 49618.91874999998,
+  "maxPotentialFirstInputDelay": 1529.5000000000023,
+  "timeToFirstByte": 638.818,
+  "weight": {
+    "summary": "381 requests • 11.6 MiB",
+    "total": 12190465,
+    "image": 5861158,
+    "imageCount": 100,
+    "script": 2742827,
+    "scriptCount": 93,
+    "document": 71198,
+    "font": 191681,
+    "fontCount": 12,
+    "stylesheet": 126719,
+    "stylesheetCount": 39,
+    "thirdParty": 5287450,
+    "thirdPartyCount": 38
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 20,
+    "+weight.total": 8,
+    "-weight.document": 4,
+    "+weight.document": 24,
+    "-weight.script": 17,
+    "+weight.script": 11,
+    "-weight.image": 24,
+    "+weight.image": 4,
+    "-weight.font": 18,
+    "+weight.font": 10,
+    "+weight.fontCount": 3,
+    "-timeToFirstByte": 25,
+    "-totalBlockingTime": 14,
+    "-largestContentfulPaint": 22
+  },
+  "axe": {
+    "error": "{\"name\":\"TimeoutError\"}"
+  },
+  "previousRanks": {
+    "hundos": 15,
+    "performance": 21,
+    "accessibility": 17,
+    "cumulative": 16
+  }
+}

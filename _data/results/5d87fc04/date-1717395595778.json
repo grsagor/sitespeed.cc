@@ -1,0 +1,66 @@
+{
+  "url": "https://liquiddeath.com/",
+  "requestedUrl": "https://liquiddeath.com/",
+  "timestamp": 1717408860185,
+  "ranks": {
+    "hundos": 5,
+    "performance": 7,
+    "accessibility": 2,
+    "cumulative": 5
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.28,
+    "accessibility": 0.96,
+    "bestPractices": 0.52,
+    "seo": 0.93,
+    "total": 269
+  },
+  "firstContentfulPaint": 3510.831,
+  "firstMeaningfulPaint": 15462.918519999997,
+  "speedIndex": 33595.249696576175,
+  "largestContentfulPaint": 16094.559599999997,
+  "totalBlockingTime": 4610.499999999982,
+  "cumulativeLayoutShift": 0.001504221959106735,
+  "timeToInteractive": 44932.687599999976,
+  "maxPotentialFirstInputDelay": 603.9999999999927,
+  "timeToFirstByte": 421.88599999999997,
+  "weight": {
+    "summary": "484 requests • 16.9 MiB",
+    "total": 17670479,
+    "image": 939150,
+    "imageCount": 54,
+    "script": 2936470,
+    "scriptCount": 151,
+    "document": 383332,
+    "font": 284899,
+    "fontCount": 3,
+    "stylesheet": 105934,
+    "stylesheetCount": 16,
+    "thirdParty": 15676494,
+    "thirdPartyCount": 53
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 8,
+    "+weight.total": 1,
+    "-weight.document": 8,
+    "+weight.document": 1,
+    "-weight.script": 8,
+    "+weight.script": 1,
+    "-weight.image": 5,
+    "+weight.image": 4,
+    "-weight.font": 6,
+    "+weight.font": 3,
+    "+weight.fontCount": 5,
+    "-timeToFirstByte": 5,
+    "-totalBlockingTime": 6,
+    "-largestContentfulPaint": 7
+  },
+  "axe": {
+    "error": "{\"name\":\"TimeoutError\"}"
+  }
+}

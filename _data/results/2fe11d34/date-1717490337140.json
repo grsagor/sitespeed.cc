@@ -1,0 +1,67 @@
+{
+  "url": "https://www.rainbowshops.com/",
+  "requestedUrl": "https://www.rainbowshops.com/",
+  "timestamp": 1717491278893,
+  "ranks": {
+    "hundos": 15,
+    "performance": 8,
+    "accessibility": 26,
+    "cumulative": 15
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.34,
+    "accessibility": 0.7,
+    "bestPractices": 0.74,
+    "seo": 0.79,
+    "total": 257
+  },
+  "firstContentfulPaint": 1972.2805000000003,
+  "firstMeaningfulPaint": 6723.4655,
+  "speedIndex": 20579.060544111886,
+  "largestContentfulPaint": 18982.519999999997,
+  "totalBlockingTime": 5403.469999999999,
+  "cumulativeLayoutShift": 0.004984283856146717,
+  "timeToInteractive": 29830.84925,
+  "maxPotentialFirstInputDelay": 2095.000000000001,
+  "timeToFirstByte": 23.67599999999993,
+  "weight": {
+    "summary": "132 requests • 76.9 MiB",
+    "total": 80642990,
+    "image": 993956,
+    "imageCount": 27,
+    "script": 1764741,
+    "scriptCount": 46,
+    "document": 38121,
+    "font": 14514,
+    "fontCount": 1,
+    "stylesheet": 40658,
+    "stylesheetCount": 6,
+    "thirdParty": 80438607,
+    "thirdPartyCount": 22
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 26,
+    "+weight.total": 2,
+    "-weight.document": 1,
+    "+weight.document": 27,
+    "-weight.script": 8,
+    "+weight.script": 20,
+    "-weight.image": 8,
+    "+weight.image": 20,
+    "-weight.font": 1,
+    "+weight.font": 27,
+    "+weight.fontCount": 12,
+    "-timeToFirstByte": 11,
+    "-totalBlockingTime": 17,
+    "-largestContentfulPaint": 19
+  },
+  "axe": {
+    "passes": 1225,
+    "violations": 59
+  }
+}

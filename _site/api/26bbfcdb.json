@@ -1,0 +1,67 @@
+{
+  "url": "https://www.opi.com/",
+  "requestedUrl": "https://www.opi.com/",
+  "timestamp": 1717404099989,
+  "ranks": {
+    "hundos": 4,
+    "performance": 23,
+    "accessibility": 8,
+    "cumulative": 4
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.11,
+    "accessibility": 0.93,
+    "bestPractices": 0.93,
+    "seo": 0.9,
+    "total": 287
+  },
+  "firstContentfulPaint": 2633.6214,
+  "firstMeaningfulPaint": 2633.6214,
+  "speedIndex": 11851.801389211565,
+  "largestContentfulPaint": 12750.164499999999,
+  "totalBlockingTime": 1474.0000000000027,
+  "cumulativeLayoutShift": 1.0936603824786528,
+  "timeToInteractive": 18061.091467356877,
+  "maxPotentialFirstInputDelay": 296,
+  "timeToFirstByte": 620.248,
+  "weight": {
+    "summary": "171 requests • 3.0 MiB",
+    "total": 3191403,
+    "image": 1480437,
+    "imageCount": 48,
+    "script": 1117215,
+    "scriptCount": 46,
+    "document": 55525,
+    "font": 319162,
+    "fontCount": 7,
+    "stylesheet": 35857,
+    "stylesheetCount": 9,
+    "thirdParty": 2351332,
+    "thirdPartyCount": 11
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 4,
+    "+weight.total": 23,
+    "-weight.document": 5,
+    "+weight.document": 22,
+    "-weight.script": 5,
+    "+weight.script": 22,
+    "-weight.image": 17,
+    "+weight.image": 10,
+    "-weight.font": 21,
+    "+weight.font": 6,
+    "+weight.fontCount": 9,
+    "-timeToFirstByte": 22,
+    "-totalBlockingTime": 4,
+    "-largestContentfulPaint": 12
+  },
+  "axe": {
+    "passes": 2248,
+    "violations": 5
+  }
+}

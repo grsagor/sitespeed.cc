@@ -1,0 +1,66 @@
+{
+  "url": "https://www.thespicehouse.com/",
+  "requestedUrl": "https://www.thespicehouse.com/",
+  "timestamp": 1717409556963,
+  "ranks": {
+    "hundos": 4,
+    "performance": 5,
+    "accessibility": 4,
+    "cumulative": 4
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.34,
+    "accessibility": 0.94,
+    "bestPractices": 0.74,
+    "seo": 0.76,
+    "total": 278
+  },
+  "firstContentfulPaint": 1708.3135,
+  "firstMeaningfulPaint": 2021.8135000000002,
+  "speedIndex": 19316.63033683295,
+  "largestContentfulPaint": 18766.5495,
+  "totalBlockingTime": 8657.000000000005,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 30360.083,
+  "maxPotentialFirstInputDelay": 4289.000000000002,
+  "timeToFirstByte": 22.442000000000007,
+  "weight": {
+    "summary": "249 requests • 4.3 MiB",
+    "total": 4559107,
+    "image": 1006400,
+    "imageCount": 77,
+    "script": 2076642,
+    "scriptCount": 74,
+    "document": 164092,
+    "font": 110387,
+    "fontCount": 6,
+    "stylesheet": 176378,
+    "stylesheetCount": 8,
+    "thirdParty": 2481756,
+    "thirdPartyCount": 27
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 7,
+    "+weight.total": 2,
+    "-weight.document": 7,
+    "+weight.document": 2,
+    "-weight.script": 5,
+    "+weight.script": 4,
+    "-weight.image": 6,
+    "+weight.image": 3,
+    "-weight.font": 1,
+    "+weight.font": 8,
+    "+weight.fontCount": 3,
+    "-timeToFirstByte": 1,
+    "-totalBlockingTime": 8,
+    "-largestContentfulPaint": 8
+  },
+  "axe": {
+    "error": "{\"name\":\"TimeoutError\"}"
+  }
+}

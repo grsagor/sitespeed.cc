@@ -1,0 +1,67 @@
+{
+  "url": "https://www.neweracap.com/",
+  "requestedUrl": "https://www.neweracap.com/",
+  "timestamp": 1717400473283,
+  "ranks": {
+    "hundos": 27,
+    "performance": 2,
+    "accessibility": 27,
+    "cumulative": 27
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.38,
+    "accessibility": null,
+    "bestPractices": 0.74,
+    "seo": 0.93,
+    "total": 205
+  },
+  "firstContentfulPaint": 2020.9079,
+  "firstMeaningfulPaint": 2497.0262,
+  "speedIndex": 20256.877210958555,
+  "largestContentfulPaint": 5527.598250000001,
+  "totalBlockingTime": 5371.973600000016,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 36161.507946935075,
+  "maxPotentialFirstInputDelay": 715,
+  "timeToFirstByte": 16.277000000000044,
+  "weight": {
+    "summary": "417 requests • 6.0 MiB",
+    "total": 6240631,
+    "image": 2203974,
+    "imageCount": 115,
+    "script": 2622129,
+    "scriptCount": 101,
+    "document": 256061,
+    "font": 94230,
+    "fontCount": 6,
+    "stylesheet": 118668,
+    "stylesheetCount": 41,
+    "thirdParty": 3539997,
+    "thirdPartyCount": 50
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 12,
+    "+weight.total": 16,
+    "-weight.document": 24,
+    "+weight.document": 4,
+    "-weight.script": 16,
+    "+weight.script": 12,
+    "-weight.image": 20,
+    "+weight.image": 8,
+    "-weight.font": 9,
+    "+weight.font": 19,
+    "+weight.fontCount": 6,
+    "-timeToFirstByte": 6,
+    "-totalBlockingTime": 14,
+    "-largestContentfulPaint": 5
+  },
+  "axe": {
+    "passes": 3168,
+    "violations": 66
+  }
+}

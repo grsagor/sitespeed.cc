@@ -1,0 +1,67 @@
+{
+  "url": "https://timex.com/",
+  "requestedUrl": "https://timex.com/",
+  "timestamp": 1717498194266,
+  "ranks": {
+    "hundos": 24,
+    "performance": 25,
+    "accessibility": 18,
+    "cumulative": 23
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.17,
+    "accessibility": 0.8,
+    "bestPractices": 0.56,
+    "seo": 0.83,
+    "total": 236
+  },
+  "firstContentfulPaint": 5680.69875,
+  "firstMeaningfulPaint": 5680.69875,
+  "speedIndex": 23798.633505332098,
+  "largestContentfulPaint": 13421.06075,
+  "totalBlockingTime": 8740,
+  "cumulativeLayoutShift": 0.18000417479444208,
+  "timeToInteractive": 43232.93100000002,
+  "maxPotentialFirstInputDelay": 977.9999999999964,
+  "timeToFirstByte": 18.543999999999983,
+  "weight": {
+    "summary": "457 requests • 31.9 MiB",
+    "total": 33439524,
+    "image": 1427531,
+    "imageCount": 80,
+    "script": 3177937,
+    "scriptCount": 156,
+    "document": 130787,
+    "font": 173894,
+    "fontCount": 7,
+    "stylesheet": 95136,
+    "stylesheetCount": 45,
+    "thirdParty": 31397720,
+    "thirdPartyCount": 48
+  },
+  "run": {
+    "number": 1,
+    "total": 2
+  },
+  "sidequests": {
+    "-weight.total": 25,
+    "+weight.total": 3,
+    "-weight.document": 17,
+    "+weight.document": 11,
+    "-weight.script": 23,
+    "+weight.script": 5,
+    "-weight.image": 11,
+    "+weight.image": 17,
+    "-weight.font": 16,
+    "+weight.font": 12,
+    "+weight.fontCount": 6,
+    "-timeToFirstByte": 6,
+    "-totalBlockingTime": 22,
+    "-largestContentfulPaint": 17
+  },
+  "axe": {
+    "passes": 1939,
+    "violations": 20
+  }
+}

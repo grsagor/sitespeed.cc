@@ -1,0 +1,143 @@
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<title>Speedlify</title>
+		<meta name="description" content="Benchmark web pages over time.">
+		<meta name="generator" content="Eleventy v2.0.1">
+		<link rel="stylesheet" href="/style.css">
+		<script>
+		document.documentElement.classList.add("js");
+		</script>
+	</head>
+	<body>
+		<header>
+			<h1 class="speedlify-hed"><a href="/">speedlify</a></h1>
+			<p class="speedlify-subhed">
+				Benchmark web pages over time.
+				Created by <a href="https://www.zachleat.com/">@zachleat</a>.
+			</p>
+			<p class="speedlify-subhed">
+				<a href="https://github.com/zachleat/speedlify/#deploy-to-netlify">Deploy your own instance of Speedlify and test your web sites</a>.
+			</p>
+		</header>
+
+		<main>
+			
+<div class="starter-message">
+	<style>
+	.starter-message {
+		background-color: hsla(0, 0%, 0%, .4);
+		border: 2px solid hsla(60, 100%, 2%, 1);
+		border-radius: .5em;
+		padding: 2rem;
+		margin: 2rem auto;
+		max-width: 40em;
+	}
+	.starter-message h3 {
+		margin-top: 0;
+	}
+	.starter-message ol {
+		margin: 0;
+	}
+	</style>
+	<h3>Quick Guide to Speedlify</h3>
+	<ol>
+		<li>Add your own URLs to test in a <code>_data/sites/*.js</code> configuration file. Look at the existing samples (Make sure you use <code>skip: false</code>). You can delete the existing ones after you’ve made your own</li>
+		<li>Remove this message from <code>index.njk</code></li>
+	</ol>
+</div>
+
+<table class="leaderboard leaderboard-list">
+	<caption>Choose a category</caption>
+	<thead data-sr-only>
+		<tr>
+			<th>Category</th>
+			<th>Site Count</th>
+			<th>Last Run Date</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td><a href="/aduit/">Adult web sites</a></td>
+			<td><span class="count">×1<span class="leaderboard-hide-sm"> site</span></span></td>
+			<td class="leaderboard-hide-sm"><span class="small"><timestamp-ago timestamp="1717490589495">Jun 04 <span class="leaderboard-hide-md">14:43</span></timestamp-ago></span></td>
+		</tr>
+		<tr>
+			<td><a href="/ac/">Antiques &amp; Collectibles web sites</a></td>
+			<td><span class="count">×1<span class="leaderboard-hide-sm"> site</span></span></td>
+			<td class="leaderboard-hide-sm"><span class="small"><timestamp-ago timestamp="1717490638721">Jun 04 <span class="leaderboard-hide-md">14:43</span></timestamp-ago></span></td>
+		</tr>
+		<tr>
+			<td><a href="/apparel/">Apparel webs ites</a></td>
+			<td><span class="count">×27<span class="leaderboard-hide-sm"> sites</span></span></td>
+			<td class="leaderboard-hide-sm"><span class="small"><timestamp-ago timestamp="1717500948900">Jun 04 <span class="leaderboard-hide-md">17:35</span></timestamp-ago></span></td>
+		</tr>
+		<tr>
+			<td><a href="/av/">Autos &amp; Vehicles web sites</a></td>
+			<td><span class="count">×1<span class="leaderboard-hide-sm"> site</span></span></td>
+			<td class="leaderboard-hide-sm"><span class="small"><timestamp-ago timestamp="1717501079309">Jun 04 <span class="leaderboard-hide-md">17:37</span></timestamp-ago></span></td>
+		</tr>
+		<tr>
+			<td><a href="/bf/">Beauty &amp; Fitness web sites</a></td>
+			<td><span class="count">×26<span class="leaderboard-hide-sm"> sites</span></span></td>
+			<td class="leaderboard-hide-sm"><span class="small"><timestamp-ago timestamp="1717407404242">Jun 03 <span class="leaderboard-hide-md">15:36</span></timestamp-ago></span></td>
+		</tr>
+		<tr>
+			<td><a href="/bl/">Book &amp; literature web sites</a></td>
+			<td><span class="count">×1<span class="leaderboard-hide-sm"> site</span></span></td>
+			<td class="leaderboard-hide-sm"><span class="small"><timestamp-ago timestamp="1717407619845">Jun 03 <span class="leaderboard-hide-md">15:40</span></timestamp-ago></span></td>
+		</tr>
+		<tr>
+			<td><a href="/computers/">Computers webs ites</a></td>
+			<td><span class="count">×2<span class="leaderboard-hide-sm"> sites</span></span></td>
+			<td class="leaderboard-hide-sm"><span class="small"><timestamp-ago timestamp="1717407984592">Jun 03 <span class="leaderboard-hide-md">15:46</span></timestamp-ago></span></td>
+		</tr>
+		<tr>
+			<td><a href="/ce/">Consumer &amp; Electronics web sites</a></td>
+			<td><span class="count">×4<span class="leaderboard-hide-sm"> sites</span></span></td>
+			<td class="leaderboard-hide-sm"><span class="small"><timestamp-ago timestamp="1717408517370">Jun 03 <span class="leaderboard-hide-md">15:55</span></timestamp-ago></span></td>
+		</tr>
+		<tr>
+			<td><a href="/fd/">Food &amp; Drink web sites</a></td>
+			<td><span class="count">×9<span class="leaderboard-hide-sm"> sites</span></span></td>
+			<td class="leaderboard-hide-sm"><span class="small"><timestamp-ago timestamp="1717409824448">Jun 03 <span class="leaderboard-hide-md">16:17</span></timestamp-ago></span></td>
+		</tr>
+		<tr>
+			<td><a href="/gse/">Gifts &amp; Special Events web sites</a></td>
+			<td><span class="count">×2<span class="leaderboard-hide-sm"> sites</span></span></td>
+			<td class="leaderboard-hide-sm"><span class="small"><timestamp-ago timestamp="1717410026743">Jun 03 <span class="leaderboard-hide-md">16:20</span></timestamp-ago></span></td>
+		</tr>
+		<tr>
+			<td><a href="/hg/">Home &amp; Garden web sites</a></td>
+			<td><span class="count">×13<span class="leaderboard-hide-sm"> sites</span></span></td>
+			<td class="leaderboard-hide-sm"></td>
+		</tr>
+		<tr>
+			<td><a href="/oc/">Other categories web sites</a></td>
+			<td><span class="count">×4<span class="leaderboard-hide-sm"> sites</span></span></td>
+			<td class="leaderboard-hide-sm"></td>
+		</tr>
+		<tr>
+			<td><a href="/sv/">Smoking &amp; Vaping web sites</a></td>
+			<td><span class="count">×1<span class="leaderboard-hide-sm"> site</span></span></td>
+			<td class="leaderboard-hide-sm"></td>
+		</tr>
+		<tr>
+			<td><a href="/th/">Toys &amp; Hobbies web sites</a></td>
+			<td><span class="count">×6<span class="leaderboard-hide-sm"> sites</span></span></td>
+			<td class="leaderboard-hide-sm"></td>
+		</tr>
+	</tbody>
+</table>
+		</main>
+
+		<footer>
+			MIT licensed. Read <a href="https://www.zachleat.com/web/speedlify/">the blog post</a>. Source code on <a href="https://github.com/zachleat/speedlify/">GitHub</a>. Created by <a href="https://www.zachleat.com/">@zachleat</a>.
+		</footer>
+
+		<script defer src="/chartist.js"></script>
+		<script defer src="/script.js"></script>
+	</body>
+</html>

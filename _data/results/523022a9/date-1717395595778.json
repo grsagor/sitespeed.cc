@@ -1,0 +1,66 @@
+{
+  "url": "https://www.heydude.com/",
+  "requestedUrl": "https://www.heydude.com/",
+  "timestamp": 1717398108574,
+  "ranks": {
+    "hundos": 9,
+    "performance": 6,
+    "accessibility": 11,
+    "cumulative": 9
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.35,
+    "accessibility": 0.88,
+    "bestPractices": 0.48,
+    "seo": 0.93,
+    "total": 264
+  },
+  "firstContentfulPaint": 3548.1247000000003,
+  "firstMeaningfulPaint": 3566.5356,
+  "speedIndex": 19759.279985997764,
+  "largestContentfulPaint": 5139.889200000001,
+  "totalBlockingTime": 3214.0000000000045,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 43951.49379815368,
+  "maxPotentialFirstInputDelay": 381,
+  "timeToFirstByte": 23.222,
+  "weight": {
+    "summary": "460 requests • 4.8 MiB",
+    "total": 5071782,
+    "image": 683134,
+    "imageCount": 82,
+    "script": 3054102,
+    "scriptCount": 165,
+    "document": 111191,
+    "font": 132775,
+    "fontCount": 7,
+    "stylesheet": 98199,
+    "stylesheetCount": 15,
+    "thirdParty": 4166235,
+    "thirdPartyCount": 92
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 9,
+    "+weight.total": 19,
+    "-weight.document": 10,
+    "+weight.document": 18,
+    "-weight.script": 21,
+    "+weight.script": 7,
+    "-weight.image": 6,
+    "+weight.image": 22,
+    "-weight.font": 12,
+    "+weight.font": 16,
+    "+weight.fontCount": 5,
+    "-timeToFirstByte": 14,
+    "-totalBlockingTime": 9,
+    "-largestContentfulPaint": 1
+  },
+  "axe": {
+    "error": "{\"name\":\"TimeoutError\"}"
+  }
+}

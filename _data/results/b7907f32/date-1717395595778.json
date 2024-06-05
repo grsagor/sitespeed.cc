@@ -1,0 +1,67 @@
+{
+  "url": "https://www.drsquatch.com/",
+  "requestedUrl": "https://www.drsquatch.com/",
+  "timestamp": 1717406417815,
+  "ranks": {
+    "hundos": 21,
+    "performance": 19,
+    "accessibility": 19,
+    "cumulative": 21
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.25,
+    "accessibility": 0.81,
+    "bestPractices": 0.52,
+    "seo": 0.86,
+    "total": 244
+  },
+  "firstContentfulPaint": 8586.0065,
+  "firstMeaningfulPaint": 10021.110499999999,
+  "speedIndex": 68592.34795743272,
+  "largestContentfulPaint": 19202.581000000013,
+  "totalBlockingTime": 40191.50000000001,
+  "cumulativeLayoutShift": 0.0035315186563693564,
+  "timeToInteractive": 96405.2278584534,
+  "maxPotentialFirstInputDelay": 3407.9999999999927,
+  "timeToFirstByte": 301.162,
+  "weight": {
+    "summary": "617 requests • 15.2 MiB",
+    "total": 15912992,
+    "image": 2814075,
+    "imageCount": 108,
+    "script": 4576643,
+    "scriptCount": 243,
+    "document": 286228,
+    "font": 237943,
+    "fontCount": 12,
+    "stylesheet": 269029,
+    "stylesheetCount": 28,
+    "thirdParty": 11233007,
+    "thirdPartyCount": 60
+  },
+  "run": {
+    "number": 2,
+    "total": 2
+  },
+  "sidequests": {
+    "-weight.total": 22,
+    "+weight.total": 5,
+    "-weight.document": 26,
+    "+weight.document": 1,
+    "-weight.script": 25,
+    "+weight.script": 2,
+    "-weight.image": 21,
+    "+weight.image": 6,
+    "-weight.font": 18,
+    "+weight.font": 9,
+    "+weight.fontCount": 4,
+    "-timeToFirstByte": 18,
+    "-totalBlockingTime": 25,
+    "-largestContentfulPaint": 20
+  },
+  "axe": {
+    "passes": 1692,
+    "violations": 45
+  }
+}

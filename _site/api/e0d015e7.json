@@ -1,0 +1,67 @@
+{
+  "url": "https://www.butcherbox.com/",
+  "requestedUrl": "https://www.butcherbox.com/",
+  "timestamp": 1717408680488,
+  "ranks": {
+    "hundos": 2,
+    "performance": 2,
+    "accessibility": 1,
+    "cumulative": 2
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.38,
+    "accessibility": 1,
+    "bestPractices": 0.56,
+    "seo": 1,
+    "total": 294
+  },
+  "firstContentfulPaint": 4951.579900000001,
+  "firstMeaningfulPaint": 4951.579900000001,
+  "speedIndex": 10859.304867503242,
+  "largestContentfulPaint": 11631.27215,
+  "totalBlockingTime": 758.5000000000014,
+  "cumulativeLayoutShift": 0.004959296357779524,
+  "timeToInteractive": 17536.2936,
+  "maxPotentialFirstInputDelay": 225,
+  "timeToFirstByte": 1959.8360000000002,
+  "weight": {
+    "summary": "118 requests • 1.9 MiB",
+    "total": 1941871,
+    "image": 343142,
+    "imageCount": 27,
+    "script": 1326488,
+    "scriptCount": 42,
+    "document": 51102,
+    "font": 120340,
+    "fontCount": 6,
+    "stylesheet": 17378,
+    "stylesheetCount": 3,
+    "thirdParty": 1891010,
+    "thirdPartyCount": 24
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 1,
+    "+weight.total": 8,
+    "-weight.document": 3,
+    "+weight.document": 6,
+    "-weight.script": 2,
+    "+weight.script": 7,
+    "-weight.image": 2,
+    "+weight.image": 7,
+    "-weight.font": 2,
+    "+weight.font": 7,
+    "+weight.fontCount": 3,
+    "-timeToFirstByte": 8,
+    "-totalBlockingTime": 2,
+    "-largestContentfulPaint": 5
+  },
+  "axe": {
+    "passes": 668,
+    "violations": 2
+  }
+}

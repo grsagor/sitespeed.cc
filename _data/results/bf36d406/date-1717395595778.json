@@ -1,0 +1,67 @@
+{
+  "url": "https://www.stussy.com/",
+  "requestedUrl": "https://www.stussy.com/",
+  "timestamp": 1717397605250,
+  "ranks": {
+    "hundos": 7,
+    "performance": 1,
+    "accessibility": 1,
+    "cumulative": 7
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.38,
+    "accessibility": 1,
+    "bestPractices": 0.56,
+    "seo": 0.76,
+    "total": 270
+  },
+  "firstContentfulPaint": 2429.1251630742854,
+  "firstMeaningfulPaint": 3373.9357446114286,
+  "speedIndex": 15172.240755575845,
+  "largestContentfulPaint": 5403.41607076,
+  "totalBlockingTime": 2821.4999999999964,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 21854.161525352138,
+  "maxPotentialFirstInputDelay": 896.9999999999964,
+  "timeToFirstByte": 260.27700000000004,
+  "weight": {
+    "summary": "178 requests • 2.8 MiB",
+    "total": 2888838,
+    "image": 221067,
+    "imageCount": 16,
+    "script": 1361926,
+    "scriptCount": 56,
+    "document": 111507,
+    "font": 77115,
+    "fontCount": 3,
+    "stylesheet": 28404,
+    "stylesheetCount": 8,
+    "thirdParty": 2166806,
+    "thirdPartyCount": 22
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 1,
+    "+weight.total": 27,
+    "-weight.document": 11,
+    "+weight.document": 17,
+    "-weight.script": 2,
+    "+weight.script": 26,
+    "-weight.image": 2,
+    "+weight.image": 26,
+    "-weight.font": 6,
+    "+weight.font": 22,
+    "+weight.fontCount": 9,
+    "-timeToFirstByte": 18,
+    "-totalBlockingTime": 6,
+    "-largestContentfulPaint": 3
+  },
+  "axe": {
+    "passes": 262,
+    "violations": 1
+  }
+}

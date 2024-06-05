@@ -1,0 +1,67 @@
+{
+  "url": "https://www.stevemadden.com/",
+  "requestedUrl": "https://www.stevemadden.com/",
+  "timestamp": 1717399659039,
+  "ranks": {
+    "hundos": 19,
+    "performance": 25,
+    "accessibility": 5,
+    "cumulative": 19
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.16,
+    "accessibility": 0.95,
+    "bestPractices": 0.52,
+    "seo": 0.84,
+    "total": 247
+  },
+  "firstContentfulPaint": 4188.6795,
+  "firstMeaningfulPaint": 12145.59375,
+  "speedIndex": 21043.0294745025,
+  "largestContentfulPaint": 5426.909999999999,
+  "totalBlockingTime": 18632.46074999999,
+  "cumulativeLayoutShift": 0.323167609373466,
+  "timeToInteractive": 55555.08825,
+  "maxPotentialFirstInputDelay": 2342,
+  "timeToFirstByte": 34.124,
+  "weight": {
+    "summary": "403 requests • 6.8 MiB",
+    "total": 7151673,
+    "image": 1061940,
+    "imageCount": 54,
+    "script": 3583411,
+    "scriptCount": 146,
+    "document": 430097,
+    "font": 423563,
+    "fontCount": 13,
+    "stylesheet": 99846,
+    "stylesheetCount": 11,
+    "thirdParty": 4938480,
+    "thirdPartyCount": 53
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 17,
+    "+weight.total": 11,
+    "-weight.document": 27,
+    "+weight.document": 1,
+    "-weight.script": 26,
+    "+weight.script": 2,
+    "-weight.image": 8,
+    "+weight.image": 20,
+    "-weight.font": 25,
+    "+weight.font": 3,
+    "+weight.fontCount": 2,
+    "-timeToFirstByte": 16,
+    "-totalBlockingTime": 27,
+    "-largestContentfulPaint": 4
+  },
+  "axe": {
+    "passes": 3098,
+    "violations": 6
+  }
+}

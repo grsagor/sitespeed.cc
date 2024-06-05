@@ -1,0 +1,66 @@
+{
+  "url": "https://loveamika.com/",
+  "requestedUrl": "https://loveamika.com/",
+  "timestamp": 1717406737196,
+  "ranks": {
+    "hundos": 18,
+    "performance": 20,
+    "accessibility": 7,
+    "cumulative": 18
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.23,
+    "accessibility": 0.94,
+    "bestPractices": 0.48,
+    "seo": 0.86,
+    "total": 251
+  },
+  "firstContentfulPaint": 10987.395700963105,
+  "firstMeaningfulPaint": 12719.060485644266,
+  "speedIndex": 28808.70945783193,
+  "largestContentfulPaint": 17658.10581667135,
+  "totalBlockingTime": 4076.374673510986,
+  "cumulativeLayoutShift": 0.10227795538463354,
+  "timeToInteractive": 35691.76226607771,
+  "maxPotentialFirstInputDelay": 615.9999999999982,
+  "timeToFirstByte": 2537.633,
+  "weight": {
+    "summary": "262 requests • 4.6 MiB",
+    "total": 4842043,
+    "image": 1266529,
+    "imageCount": 48,
+    "script": 2834982,
+    "scriptCount": 126,
+    "document": 230191,
+    "font": 105277,
+    "fontCount": 7,
+    "stylesheet": 185503,
+    "stylesheetCount": 16,
+    "thirdParty": 4603263,
+    "thirdPartyCount": 33
+  },
+  "run": {
+    "number": 2,
+    "total": 2
+  },
+  "sidequests": {
+    "-weight.total": 14,
+    "+weight.total": 13,
+    "-weight.document": 21,
+    "+weight.document": 6,
+    "-weight.script": 19,
+    "+weight.script": 8,
+    "-weight.image": 15,
+    "+weight.image": 12,
+    "-weight.font": 7,
+    "+weight.font": 20,
+    "+weight.fontCount": 9,
+    "-timeToFirstByte": 26,
+    "-totalBlockingTime": 9,
+    "-largestContentfulPaint": 18
+  },
+  "axe": {
+    "error": "{\"name\":\"TimeoutError\"}"
+  }
+}

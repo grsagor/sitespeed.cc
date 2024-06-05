@@ -1,0 +1,66 @@
+{
+  "url": "https://www.glowrecipe.com/",
+  "requestedUrl": "https://www.glowrecipe.com/",
+  "timestamp": 1717406497557,
+  "ranks": {
+    "hundos": 19,
+    "performance": 21,
+    "accessibility": 2,
+    "cumulative": 19
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.21,
+    "accessibility": 1,
+    "bestPractices": 0.52,
+    "seo": 0.77,
+    "total": 250
+  },
+  "firstContentfulPaint": 3122.633749999999,
+  "firstMeaningfulPaint": 3122.633749999999,
+  "speedIndex": 17002.615887532364,
+  "largestContentfulPaint": 29198.967449999996,
+  "totalBlockingTime": 3610.499999999997,
+  "cumulativeLayoutShift": 0.18486797036595218,
+  "timeToInteractive": 32568.39475,
+  "maxPotentialFirstInputDelay": 977,
+  "timeToFirstByte": 10.641000000000005,
+  "weight": {
+    "summary": "328 requests • 3.9 MiB",
+    "total": 4132509,
+    "image": 1022619,
+    "imageCount": 60,
+    "script": 2286634,
+    "scriptCount": 155,
+    "document": 116900,
+    "font": 329791,
+    "fontCount": 8,
+    "stylesheet": 127898,
+    "stylesheetCount": 34,
+    "thirdParty": 3024776,
+    "thirdPartyCount": 39
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 6,
+    "+weight.total": 21,
+    "-weight.document": 11,
+    "+weight.document": 16,
+    "-weight.script": 13,
+    "+weight.script": 14,
+    "-weight.image": 12,
+    "+weight.image": 15,
+    "-weight.font": 22,
+    "+weight.font": 5,
+    "+weight.fontCount": 8,
+    "-timeToFirstByte": 1,
+    "-totalBlockingTime": 8,
+    "-largestContentfulPaint": 23
+  },
+  "axe": {
+    "error": "{\"name\":\"TimeoutError\"}"
+  }
+}
