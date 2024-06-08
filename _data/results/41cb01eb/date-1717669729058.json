@@ -1,0 +1,67 @@
+{
+  "url": "https://www.browning.com/",
+  "requestedUrl": "https://www.browning.com/",
+  "timestamp": 1717679443355,
+  "ranks": {
+    "hundos": 3,
+    "performance": 14,
+    "accessibility": 2,
+    "cumulative": 3
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.25,
+    "accessibility": 0.98,
+    "bestPractices": 0.96,
+    "seo": 0.99,
+    "total": 318
+  },
+  "firstContentfulPaint": 4908.323399999999,
+  "firstMeaningfulPaint": 6555.287,
+  "speedIndex": 16519.231885957422,
+  "largestContentfulPaint": 12497.778799999998,
+  "totalBlockingTime": 2789.0000000000005,
+  "cumulativeLayoutShift": 0.08917022613395761,
+  "timeToInteractive": 18257.403,
+  "maxPotentialFirstInputDelay": 2894,
+  "timeToFirstByte": 54.92599999999993,
+  "weight": {
+    "summary": "110 requests • 3.0 MiB",
+    "total": 3104050,
+    "image": 1848511,
+    "imageCount": 52,
+    "script": 697885,
+    "scriptCount": 19,
+    "document": 13835,
+    "font": 391460,
+    "fontCount": 10,
+    "stylesheet": 148049,
+    "stylesheetCount": 8,
+    "thirdParty": 518465,
+    "thirdPartyCount": 9
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 3,
+    "+weight.total": 24,
+    "-weight.document": 1,
+    "+weight.document": 26,
+    "-weight.script": 3,
+    "+weight.script": 24,
+    "-weight.image": 19,
+    "+weight.image": 8,
+    "-weight.font": 24,
+    "+weight.font": 3,
+    "+weight.fontCount": 4,
+    "-timeToFirstByte": 12,
+    "-totalBlockingTime": 7,
+    "-largestContentfulPaint": 14
+  },
+  "axe": {
+    "passes": 959,
+    "violations": 9
+  }
+}

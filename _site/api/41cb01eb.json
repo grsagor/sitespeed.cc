@@ -1,67 +1,73 @@
 {
   "url": "https://www.browning.com/",
   "requestedUrl": "https://www.browning.com/",
-  "timestamp": 1717403460865,
+  "timestamp": 1717679443355,
   "ranks": {
     "hundos": 3,
-    "performance": 9,
-    "accessibility": 3,
+    "performance": 14,
+    "accessibility": 2,
     "cumulative": 3
   },
   "lighthouse": {
     "version": "11.7.1",
-    "performance": 0.3,
+    "performance": 0.25,
     "accessibility": 0.98,
     "bestPractices": 0.96,
     "seo": 0.99,
-    "total": 323
+    "total": 318
   },
-  "firstContentfulPaint": 5135.6153,
-  "firstMeaningfulPaint": 5973.592500000001,
-  "speedIndex": 14309.664765030559,
-  "largestContentfulPaint": 6085.831100000002,
-  "totalBlockingTime": 2314.999999999999,
-  "cumulativeLayoutShift": 0.00040250929704795476,
-  "timeToInteractive": 14621.432900000002,
-  "maxPotentialFirstInputDelay": 2739,
-  "timeToFirstByte": 46.835999999999956,
+  "firstContentfulPaint": 4908.323399999999,
+  "firstMeaningfulPaint": 6555.287,
+  "speedIndex": 16519.231885957422,
+  "largestContentfulPaint": 12497.778799999998,
+  "totalBlockingTime": 2789.0000000000005,
+  "cumulativeLayoutShift": 0.08917022613395761,
+  "timeToInteractive": 18257.403,
+  "maxPotentialFirstInputDelay": 2894,
+  "timeToFirstByte": 54.92599999999993,
   "weight": {
-    "summary": "102 requests • 1.8 MiB",
-    "total": 1905226,
-    "image": 662812,
-    "imageCount": 44,
-    "script": 697329,
+    "summary": "110 requests • 3.0 MiB",
+    "total": 3104050,
+    "image": 1848511,
+    "imageCount": 52,
+    "script": 697885,
     "scriptCount": 19,
-    "document": 12833,
-    "font": 380320,
-    "fontCount": 9,
-    "stylesheet": 147587,
+    "document": 13835,
+    "font": 391460,
+    "fontCount": 10,
+    "stylesheet": 148049,
     "stylesheetCount": 8,
-    "thirdParty": 482430,
+    "thirdParty": 518465,
     "thirdPartyCount": 9
   },
   "run": {
-    "number": 1,
+    "number": 3,
     "total": 3
   },
   "sidequests": {
-    "-weight.total": 2,
-    "+weight.total": 25,
+    "-weight.total": 3,
+    "+weight.total": 24,
     "-weight.document": 1,
     "+weight.document": 26,
     "-weight.script": 3,
     "+weight.script": 24,
-    "-weight.image": 9,
-    "+weight.image": 18,
+    "-weight.image": 19,
+    "+weight.image": 8,
     "-weight.font": 24,
     "+weight.font": 3,
-    "+weight.fontCount": 7,
-    "-timeToFirstByte": 14,
-    "-totalBlockingTime": 5,
-    "-largestContentfulPaint": 5
+    "+weight.fontCount": 4,
+    "-timeToFirstByte": 12,
+    "-totalBlockingTime": 7,
+    "-largestContentfulPaint": 14
   },
   "axe": {
-    "passes": 864,
-    "violations": 8
+    "passes": 959,
+    "violations": 9
+  },
+  "previousRanks": {
+    "hundos": 3,
+    "performance": 19,
+    "accessibility": 3,
+    "cumulative": 3
   }
 }

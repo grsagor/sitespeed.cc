@@ -1,72 +1,72 @@
 {
   "url": "https://www.alexandani.com/",
   "requestedUrl": "https://www.alexandani.com/",
-  "timestamp": 1717498824736,
+  "timestamp": 1717673514158,
   "ranks": {
-    "hundos": 26,
-    "performance": 10,
+    "hundos": 25,
+    "performance": 11,
     "accessibility": 25,
-    "cumulative": 26
+    "cumulative": 25
   },
   "lighthouse": {
     "version": "11.7.1",
-    "performance": 0.34,
+    "performance": 0.32,
     "accessibility": 0.71,
     "bestPractices": 0.41,
     "seo": 0.71,
-    "total": 217
+    "total": 215
   },
-  "firstContentfulPaint": 1677.6386000000002,
-  "firstMeaningfulPaint": 1725.6386000000002,
-  "speedIndex": 24491.453832916635,
-  "largestContentfulPaint": 10706.946049999999,
-  "totalBlockingTime": 3087.5069999999887,
-  "cumulativeLayoutShift": 0.06864357092343602,
-  "timeToInteractive": 34183.71864999998,
-  "maxPotentialFirstInputDelay": 857.9999999999854,
-  "timeToFirstByte": 585.2289999999999,
+  "firstContentfulPaint": 1993.3747999999998,
+  "firstMeaningfulPaint": 2124.8747999999996,
+  "speedIndex": 23195.488043792062,
+  "largestContentfulPaint": 10161.32245,
+  "totalBlockingTime": 6306.000000000011,
+  "cumulativeLayoutShift": 0.07133578904411829,
+  "timeToInteractive": 34370.283850000014,
+  "maxPotentialFirstInputDelay": 1851.0000000000218,
+  "timeToFirstByte": 491.622,
   "weight": {
-    "summary": "450 requests • 12.6 MiB",
-    "total": 13199113,
-    "image": 2017728,
-    "imageCount": 289,
-    "script": 1568368,
+    "summary": "465 requests • 4.7 MiB",
+    "total": 4929439,
+    "image": 2073638,
+    "imageCount": 298,
+    "script": 1575170,
     "scriptCount": 79,
-    "document": 171676,
-    "font": 660632,
+    "document": 180491,
+    "font": 660581,
     "fontCount": 9,
     "stylesheet": 5201,
     "stylesheetCount": 5,
-    "thirdParty": 10836185,
-    "thirdPartyCount": 62
+    "thirdParty": 2495770,
+    "thirdPartyCount": 63
   },
   "run": {
     "number": 2,
     "total": 3
   },
   "sidequests": {
-    "-weight.total": 22,
-    "+weight.total": 6,
+    "-weight.total": 9,
+    "+weight.total": 19,
     "-weight.document": 19,
     "+weight.document": 9,
-    "-weight.script": 6,
-    "+weight.script": 22,
-    "-weight.image": 18,
-    "+weight.image": 10,
+    "-weight.script": 5,
+    "+weight.script": 23,
+    "-weight.image": 19,
+    "+weight.image": 9,
     "-weight.font": 26,
     "+weight.font": 2,
     "+weight.fontCount": 4,
-    "-timeToFirstByte": 23,
-    "-totalBlockingTime": 8,
-    "-largestContentfulPaint": 15
+    "-timeToFirstByte": 22,
+    "-totalBlockingTime": 16,
+    "-largestContentfulPaint": 16
   },
   "axe": {
     "error": "{\"name\":\"TimeoutError\"}"
   },
   "previousRanks": {
     "hundos": 26,
-    "performance": 8,
-    "accessibility": 24,
+    "performance": 10,
+    "accessibility": 25,
     "cumulative": 26
   }
 }

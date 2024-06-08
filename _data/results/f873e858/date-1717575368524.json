@@ -1,0 +1,67 @@
+{
+  "url": "https://www.glossier.com/en-bd/",
+  "requestedUrl": "https://www.glossier.com/",
+  "timestamp": 1717577215633,
+  "ranks": {
+    "hundos": 15,
+    "performance": 21,
+    "accessibility": 13,
+    "cumulative": 15
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.2,
+    "accessibility": 0.87,
+    "bestPractices": 0.52,
+    "seo": 0.98,
+    "total": 257
+  },
+  "firstContentfulPaint": 5020.743353424073,
+  "firstMeaningfulPaint": 5595.168853424073,
+  "speedIndex": 11357.91102229301,
+  "largestContentfulPaint": 16071.832499999999,
+  "totalBlockingTime": 3856.459146575926,
+  "cumulativeLayoutShift": 0.15656866899246893,
+  "timeToInteractive": 28398.358574142454,
+  "maxPotentialFirstInputDelay": 439,
+  "timeToFirstByte": 40.95099999999999,
+  "weight": {
+    "summary": "329 requests • 24.9 MiB",
+    "total": 26134542,
+    "image": 499222,
+    "imageCount": 31,
+    "script": 1816662,
+    "scriptCount": 107,
+    "document": 128560,
+    "font": 134138,
+    "fontCount": 16,
+    "stylesheet": 45760,
+    "stylesheetCount": 8,
+    "thirdParty": 25414912,
+    "thirdPartyCount": 31
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 24,
+    "+weight.total": 3,
+    "-weight.document": 13,
+    "+weight.document": 14,
+    "-weight.script": 7,
+    "+weight.script": 20,
+    "-weight.image": 3,
+    "+weight.image": 24,
+    "-weight.font": 13,
+    "+weight.font": 14,
+    "+weight.fontCount": 2,
+    "-timeToFirstByte": 11,
+    "-totalBlockingTime": 9,
+    "-largestContentfulPaint": 18
+  },
+  "axe": {
+    "passes": 1168,
+    "violations": 9
+  }
+}

@@ -1,67 +1,73 @@
 {
   "url": "https://jenis.com/",
   "requestedUrl": "https://jenis.com/",
-  "timestamp": 1717409040854,
+  "timestamp": 1717681939329,
   "ranks": {
-    "hundos": 7,
-    "performance": 6,
+    "hundos": 6,
+    "performance": 5,
     "accessibility": 7,
-    "cumulative": 7
+    "cumulative": 6
   },
   "lighthouse": {
     "version": "11.7.1",
-    "performance": 0.34,
+    "performance": 0.31,
     "accessibility": 0.75,
-    "bestPractices": 0.52,
-    "seo": 0.91,
-    "total": 253
+    "bestPractices": 0.7,
+    "seo": 0.92,
+    "total": 268
   },
-  "firstContentfulPaint": 2510.277,
-  "firstMeaningfulPaint": 5081.6905,
-  "speedIndex": 29937.196363271374,
-  "largestContentfulPaint": 13465.357,
-  "totalBlockingTime": 1834.9999999999986,
-  "cumulativeLayoutShift": 0.02046248308712232,
-  "timeToInteractive": 23975.843999999997,
-  "maxPotentialFirstInputDelay": 767,
-  "timeToFirstByte": 50.466999999999985,
+  "firstContentfulPaint": 3351.915,
+  "firstMeaningfulPaint": 4720.00025,
+  "speedIndex": 16704.64538613141,
+  "largestContentfulPaint": 14899.249268386837,
+  "totalBlockingTime": 2126.000000000002,
+  "cumulativeLayoutShift": 0.0005763644396069902,
+  "timeToInteractive": 24932.567080108634,
+  "maxPotentialFirstInputDelay": 1107.0000000000018,
+  "timeToFirstByte": 14.925999999999988,
   "weight": {
-    "summary": "267 requests • 4.3 MiB",
-    "total": 4505577,
-    "image": 1435076,
-    "imageCount": 65,
-    "script": 1713659,
-    "scriptCount": 103,
-    "document": 86548,
-    "font": 221416,
-    "fontCount": 6,
-    "stylesheet": 55053,
-    "stylesheetCount": 12,
-    "thirdParty": 2573989,
-    "thirdPartyCount": 27
+    "summary": "243 requests • 3.9 MiB",
+    "total": 4099943,
+    "image": 1362313,
+    "imageCount": 64,
+    "script": 1597079,
+    "scriptCount": 93,
+    "document": 86573,
+    "font": 110764,
+    "fontCount": 2,
+    "stylesheet": 35335,
+    "stylesheetCount": 11,
+    "thirdParty": 2157716,
+    "thirdPartyCount": 26
   },
   "run": {
-    "number": 2,
+    "number": 3,
     "total": 3
   },
   "sidequests": {
-    "-weight.total": 6,
-    "+weight.total": 3,
+    "-weight.total": 5,
+    "+weight.total": 4,
     "-weight.document": 4,
     "+weight.document": 5,
     "-weight.script": 4,
     "+weight.script": 5,
     "-weight.image": 8,
     "+weight.image": 1,
-    "-weight.font": 4,
-    "+weight.font": 5,
-    "+weight.fontCount": 3,
-    "-timeToFirstByte": 3,
+    "-weight.font": 2,
+    "+weight.font": 7,
+    "+weight.fontCount": 5,
+    "-timeToFirstByte": 1,
     "-totalBlockingTime": 4,
-    "-largestContentfulPaint": 6
+    "-largestContentfulPaint": 7
   },
   "axe": {
-    "passes": 1871,
-    "violations": 35
+    "passes": 1949,
+    "violations": 37
+  },
+  "previousRanks": {
+    "hundos": 5,
+    "performance": 4,
+    "accessibility": 7,
+    "cumulative": 5
   }
 }

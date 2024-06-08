@@ -1,73 +1,73 @@
 {
   "url": "https://spanx.com/",
   "requestedUrl": "https://spanx.com/",
-  "timestamp": 1717499433623,
+  "timestamp": 1717670748639,
   "ranks": {
-    "hundos": 14,
-    "performance": 18,
+    "hundos": 22,
+    "performance": 25,
     "accessibility": 8,
-    "cumulative": 14
+    "cumulative": 22
   },
   "lighthouse": {
     "version": "11.7.1",
-    "performance": 0.28,
+    "performance": 0.08,
     "accessibility": 0.9,
     "bestPractices": 0.56,
     "seo": 0.84,
-    "total": 258
+    "total": 238
   },
-  "firstContentfulPaint": 3891.954399999999,
-  "firstMeaningfulPaint": 6160.624949999999,
-  "speedIndex": 21280.24984704629,
-  "largestContentfulPaint": 11195.039479999998,
-  "totalBlockingTime": 3327.9999999999964,
-  "cumulativeLayoutShift": 0,
-  "timeToInteractive": 39374.86025,
-  "maxPotentialFirstInputDelay": 783,
-  "timeToFirstByte": 13.744999999999997,
+  "firstContentfulPaint": 3855.898399999999,
+  "firstMeaningfulPaint": 3953.398399999999,
+  "speedIndex": 19142.351533576915,
+  "largestContentfulPaint": 6269.19975,
+  "totalBlockingTime": 5186.320000000003,
+  "cumulativeLayoutShift": 0.5670978625232347,
+  "timeToInteractive": 40718.629430184934,
+  "maxPotentialFirstInputDelay": 946,
+  "timeToFirstByte": 593.286,
   "weight": {
-    "summary": "293 requests • 6.0 MiB",
-    "total": 6257341,
-    "image": 2026142,
+    "summary": "298 requests • 5.9 MiB",
+    "total": 6229267,
+    "image": 2026046,
     "imageCount": 57,
-    "script": 2952308,
+    "script": 2958568,
     "scriptCount": 85,
-    "document": 223788,
-    "font": 82528,
+    "document": 249927,
+    "font": 82526,
     "fontCount": 2,
-    "stylesheet": 181526,
+    "stylesheet": 181544,
     "stylesheetCount": 9,
-    "thirdParty": 3283279,
+    "thirdParty": 3228246,
     "thirdPartyCount": 42
   },
   "run": {
-    "number": 3,
+    "number": 1,
     "total": 3
   },
   "sidequests": {
     "-weight.total": 14,
     "+weight.total": 14,
-    "-weight.document": 22,
-    "+weight.document": 6,
+    "-weight.document": 23,
+    "+weight.document": 5,
     "-weight.script": 18,
     "+weight.script": 10,
-    "-weight.image": 19,
-    "+weight.image": 9,
+    "-weight.image": 18,
+    "+weight.image": 10,
     "-weight.font": 8,
     "+weight.font": 20,
     "+weight.fontCount": 11,
-    "-timeToFirstByte": 2,
-    "-totalBlockingTime": 11,
-    "-largestContentfulPaint": 16
+    "-timeToFirstByte": 24,
+    "-totalBlockingTime": 13,
+    "-largestContentfulPaint": 5
   },
   "axe": {
     "passes": 972,
     "violations": 34
   },
   "previousRanks": {
-    "hundos": 12,
+    "hundos": 14,
     "performance": 18,
     "accessibility": 8,
-    "cumulative": 12
+    "cumulative": 14
   }
 }

@@ -1,0 +1,66 @@
+{
+  "url": "https://www.ftd.com/",
+  "requestedUrl": "https://www.ftd.com/",
+  "timestamp": 1717682453186,
+  "ranks": {
+    "hundos": 1,
+    "performance": 1,
+    "accessibility": 1,
+    "cumulative": 1
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.53,
+    "accessibility": 1,
+    "bestPractices": 0.52,
+    "seo": 0.91,
+    "total": 296
+  },
+  "firstContentfulPaint": 1835.9226,
+  "firstMeaningfulPaint": 1835.9226,
+  "speedIndex": 9819.066817081128,
+  "largestContentfulPaint": 3232.6312,
+  "totalBlockingTime": 3907.499999999999,
+  "cumulativeLayoutShift": 0.0008147555392012603,
+  "timeToInteractive": 24290.663800000006,
+  "maxPotentialFirstInputDelay": 876,
+  "timeToFirstByte": 639.732,
+  "weight": {
+    "summary": "177 requests • 2.8 MiB",
+    "total": 2924319,
+    "image": 479181,
+    "imageCount": 36,
+    "script": 1615473,
+    "scriptCount": 70,
+    "document": 85337,
+    "font": 440256,
+    "fontCount": 9,
+    "stylesheet": 39926,
+    "stylesheetCount": 7,
+    "thirdParty": 1781545,
+    "thirdPartyCount": 24
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 2,
+    "+weight.total": 1,
+    "-weight.document": 2,
+    "+weight.document": 1,
+    "-weight.script": 2,
+    "+weight.script": 1,
+    "-weight.image": 2,
+    "+weight.image": 1,
+    "-weight.font": 1,
+    "+weight.font": 2,
+    "+weight.fontCount": 1,
+    "-timeToFirstByte": 1,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 1
+  },
+  "axe": {
+    "error": "{\"name\":\"TimeoutError\"}"
+  }
+}

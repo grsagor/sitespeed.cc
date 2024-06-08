@@ -1,0 +1,66 @@
+{
+  "url": "https://www.peets.com/",
+  "requestedUrl": "https://www.peets.com/",
+  "timestamp": 1717581194491,
+  "ranks": {
+    "hundos": 8,
+    "performance": 8,
+    "accessibility": 8,
+    "cumulative": 8
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.07,
+    "accessibility": 0.75,
+    "bestPractices": 0.74,
+    "seo": 0.86,
+    "total": 242
+  },
+  "firstContentfulPaint": 4251.2826000000005,
+  "firstMeaningfulPaint": 4251.2826000000005,
+  "speedIndex": 16496.3958945697,
+  "largestContentfulPaint": 8270.7321,
+  "totalBlockingTime": 1552.4999999999982,
+  "cumulativeLayoutShift": 0.8661681922969897,
+  "timeToInteractive": 33466.05835000001,
+  "maxPotentialFirstInputDelay": 556,
+  "timeToFirstByte": 482.78999999999996,
+  "weight": {
+    "summary": "245 requests • 4.0 MiB",
+    "total": 4158866,
+    "image": 639724,
+    "imageCount": 42,
+    "script": 2124971,
+    "scriptCount": 84,
+    "document": 91110,
+    "font": 461198,
+    "fontCount": 13,
+    "stylesheet": 53622,
+    "stylesheetCount": 5,
+    "thirdParty": 3045652,
+    "thirdPartyCount": 51
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 6,
+    "+weight.total": 3,
+    "-weight.document": 5,
+    "+weight.document": 4,
+    "-weight.script": 6,
+    "+weight.script": 3,
+    "-weight.image": 3,
+    "+weight.image": 6,
+    "-weight.font": 8,
+    "+weight.font": 1,
+    "+weight.fontCount": 1,
+    "-timeToFirstByte": 6,
+    "-totalBlockingTime": 5,
+    "-largestContentfulPaint": 5
+  },
+  "axe": {
+    "error": "{\"name\":\"TimeoutError\"}"
+  }
+}

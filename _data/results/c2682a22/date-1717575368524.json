@@ -1,0 +1,67 @@
+{
+  "url": "https://www.benchmade.com/",
+  "requestedUrl": "https://www.benchmade.com/",
+  "timestamp": 1717577861443,
+  "ranks": {
+    "hundos": 16,
+    "performance": 5,
+    "accessibility": 17,
+    "cumulative": 16
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.35,
+    "accessibility": 0.82,
+    "bestPractices": 0.52,
+    "seo": 0.86,
+    "total": 255
+  },
+  "firstContentfulPaint": 1358.461,
+  "firstMeaningfulPaint": 1358.461,
+  "speedIndex": 25163.56575939471,
+  "largestContentfulPaint": 10325.961,
+  "totalBlockingTime": 3468.98650000001,
+  "cumulativeLayoutShift": 0.0003646560410826724,
+  "timeToInteractive": 40017.25749999999,
+  "maxPotentialFirstInputDelay": 469,
+  "timeToFirstByte": 20.410000000000025,
+  "weight": {
+    "summary": "356 requests • 22.8 MiB",
+    "total": 23866626,
+    "image": 3858191,
+    "imageCount": 66,
+    "script": 2787076,
+    "scriptCount": 137,
+    "document": 229798,
+    "font": 357332,
+    "fontCount": 9,
+    "stylesheet": 73340,
+    "stylesheetCount": 7,
+    "thirdParty": 20186515,
+    "thirdPartyCount": 43
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 23,
+    "+weight.total": 4,
+    "-weight.document": 22,
+    "+weight.document": 5,
+    "-weight.script": 17,
+    "+weight.script": 10,
+    "-weight.image": 23,
+    "+weight.image": 4,
+    "-weight.font": 22,
+    "+weight.font": 5,
+    "+weight.fontCount": 7,
+    "-timeToFirstByte": 5,
+    "-totalBlockingTime": 8,
+    "-largestContentfulPaint": 10
+  },
+  "axe": {
+    "passes": 1625,
+    "violations": 42
+  }
+}

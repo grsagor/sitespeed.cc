@@ -1,52 +1,52 @@
 {
   "url": "https://hasbropulse.com/",
   "requestedUrl": "https://hasbropulse.com/",
-  "timestamp": 1717407758647,
+  "timestamp": 1717680415376,
   "ranks": {
     "hundos": 2,
-    "performance": 1,
+    "performance": 2,
     "accessibility": 2,
     "cumulative": 2
   },
   "lighthouse": {
     "version": "11.7.1",
-    "performance": 0.22,
+    "performance": 0.26,
     "accessibility": 0.81,
     "bestPractices": 0.48,
     "seo": 0.91,
-    "total": 242
+    "total": 246
   },
-  "firstContentfulPaint": 2818.143,
-  "firstMeaningfulPaint": 6273.648000000001,
-  "speedIndex": 17238.26799602519,
-  "largestContentfulPaint": 13972.080000000002,
-  "totalBlockingTime": 14223.022999999981,
-  "cumulativeLayoutShift": 0.1878535441654195,
-  "timeToInteractive": 37151.74399999999,
-  "maxPotentialFirstInputDelay": 776,
-  "timeToFirstByte": 620.6489999999999,
+  "firstContentfulPaint": 2728.0469999999996,
+  "firstMeaningfulPaint": 5846.278999999997,
+  "speedIndex": 21033.110103833737,
+  "largestContentfulPaint": 6954.022000000002,
+  "totalBlockingTime": 20488.406499999997,
+  "cumulativeLayoutShift": 0.1539418676332121,
+  "timeToInteractive": 43905.20849999999,
+  "maxPotentialFirstInputDelay": 785,
+  "timeToFirstByte": 19.374000000000024,
   "weight": {
-    "summary": "355 requests • 9.5 MiB",
-    "total": 9924240,
-    "image": 5329038,
-    "imageCount": 60,
-    "script": 1892907,
+    "summary": "348 requests • 9.9 MiB",
+    "total": 10341167,
+    "image": 5832079,
+    "imageCount": 53,
+    "script": 1898642,
     "scriptCount": 57,
-    "document": 134760,
-    "font": 287661,
+    "document": 134084,
+    "font": 287679,
     "fontCount": 10,
-    "stylesheet": 95653,
+    "stylesheet": 95579,
     "stylesheetCount": 8,
-    "thirdParty": 7008449,
+    "thirdParty": 7410852,
     "thirdPartyCount": 19
   },
   "run": {
-    "number": 1,
+    "number": 2,
     "total": 3
   },
   "sidequests": {
-    "-weight.total": 1,
-    "+weight.total": 2,
+    "-weight.total": 2,
+    "+weight.total": 1,
     "-weight.document": 1,
     "+weight.document": 2,
     "-weight.script": 1,
@@ -56,12 +56,18 @@
     "-weight.font": 2,
     "+weight.font": 1,
     "+weight.fontCount": 1,
-    "-timeToFirstByte": 2,
+    "-timeToFirstByte": 1,
     "-totalBlockingTime": 2,
     "-largestContentfulPaint": 1
   },
   "axe": {
-    "passes": 1902,
-    "violations": 17
+    "passes": 1831,
+    "violations": 18
+  },
+  "previousRanks": {
+    "hundos": 2,
+    "performance": 2,
+    "accessibility": 2,
+    "cumulative": 2
   }
 }

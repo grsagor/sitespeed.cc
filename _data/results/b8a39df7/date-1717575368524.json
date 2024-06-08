@@ -1,0 +1,67 @@
+{
+  "url": "https://www.rarebeauty.com/",
+  "requestedUrl": "https://www.rarebeauty.com/",
+  "timestamp": 1717575670139,
+  "ranks": {
+    "hundos": 20,
+    "performance": 7,
+    "accessibility": 22,
+    "cumulative": 19
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.32,
+    "accessibility": 0.78,
+    "bestPractices": 0.56,
+    "seo": 0.82,
+    "total": 248
+  },
+  "firstContentfulPaint": 2507.9705,
+  "firstMeaningfulPaint": 6145.452499999999,
+  "speedIndex": 19861.95915201863,
+  "largestContentfulPaint": 12881.719500000003,
+  "totalBlockingTime": 3239.7304999999815,
+  "cumulativeLayoutShift": 0.0646559639038045,
+  "timeToInteractive": 34692.35549999999,
+  "maxPotentialFirstInputDelay": 557,
+  "timeToFirstByte": 19.255999999999972,
+  "weight": {
+    "summary": "244 requests • 4.7 MiB",
+    "total": 4892243,
+    "image": 525561,
+    "imageCount": 34,
+    "script": 2832769,
+    "scriptCount": 79,
+    "document": 55834,
+    "font": 489548,
+    "fontCount": 10,
+    "stylesheet": 30000,
+    "stylesheetCount": 5,
+    "thirdParty": 3995530,
+    "thirdPartyCount": 42
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 13,
+    "+weight.total": 14,
+    "-weight.document": 6,
+    "+weight.document": 21,
+    "-weight.script": 20,
+    "+weight.script": 7,
+    "-weight.image": 4,
+    "+weight.image": 23,
+    "-weight.font": 26,
+    "+weight.font": 1,
+    "+weight.fontCount": 6,
+    "-timeToFirstByte": 4,
+    "-totalBlockingTime": 7,
+    "-largestContentfulPaint": 14
+  },
+  "axe": {
+    "passes": 967,
+    "violations": 31
+  }
+}

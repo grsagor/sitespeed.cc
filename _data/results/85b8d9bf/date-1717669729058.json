@@ -1,0 +1,67 @@
+{
+  "url": "https://www.goodamerican.com/en-bd/",
+  "requestedUrl": "https://www.goodamerican.com/",
+  "timestamp": 1717674853208,
+  "ranks": {
+    "hundos": 4,
+    "performance": 14,
+    "accessibility": 10,
+    "cumulative": 4
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.29,
+    "accessibility": 0.89,
+    "bestPractices": 0.78,
+    "seo": 0.82,
+    "total": 278
+  },
+  "firstContentfulPaint": 6697,
+  "firstMeaningfulPaint": 6697,
+  "speedIndex": 14385.784595282144,
+  "largestContentfulPaint": 9482.3775,
+  "totalBlockingTime": 1523.5,
+  "cumulativeLayoutShift": 0.000044262954227962845,
+  "timeToInteractive": 26207.215500000006,
+  "maxPotentialFirstInputDelay": 206,
+  "timeToFirstByte": 1370.455,
+  "weight": {
+    "summary": "153 requests • 28.9 MiB",
+    "total": 30295657,
+    "image": 511777,
+    "imageCount": 29,
+    "script": 1829889,
+    "scriptCount": 79,
+    "document": 270432,
+    "font": 53998,
+    "fontCount": 2,
+    "stylesheet": 29409,
+    "stylesheetCount": 10,
+    "thirdParty": 30015525,
+    "thirdPartyCount": 25
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 24,
+    "+weight.total": 4,
+    "-weight.document": 25,
+    "+weight.document": 3,
+    "-weight.script": 8,
+    "+weight.script": 20,
+    "-weight.image": 4,
+    "+weight.image": 24,
+    "-weight.font": 5,
+    "+weight.font": 23,
+    "+weight.fontCount": 11,
+    "-timeToFirstByte": 27,
+    "-totalBlockingTime": 2,
+    "-largestContentfulPaint": 14
+  },
+  "axe": {
+    "passes": 695,
+    "violations": 8
+  }
+}

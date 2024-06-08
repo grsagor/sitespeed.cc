@@ -1,43 +1,43 @@
 {
   "url": "https://www.stussy.com/",
   "requestedUrl": "https://www.stussy.com/",
-  "timestamp": 1717492049293,
+  "timestamp": 1717671721577,
   "ranks": {
     "hundos": 6,
-    "performance": 3,
+    "performance": 2,
     "accessibility": 1,
     "cumulative": 6
   },
   "lighthouse": {
     "version": "11.7.1",
-    "performance": 0.4,
+    "performance": 0.38,
     "accessibility": 1,
     "bestPractices": 0.56,
     "seo": 0.76,
-    "total": 272
+    "total": 270
   },
-  "firstContentfulPaint": 2398.2626,
-  "firstMeaningfulPaint": 2854,
-  "speedIndex": 13199.856418825197,
-  "largestContentfulPaint": 6007.879900000002,
-  "totalBlockingTime": 1369,
+  "firstContentfulPaint": 2382.5029999999997,
+  "firstMeaningfulPaint": 2890.8565,
+  "speedIndex": 11619.831644062288,
+  "largestContentfulPaint": 6133.9765,
+  "totalBlockingTime": 1830.499999999999,
   "cumulativeLayoutShift": 0,
-  "timeToInteractive": 22095.682,
-  "maxPotentialFirstInputDelay": 224,
-  "timeToFirstByte": 168.435,
+  "timeToInteractive": 20888.82825,
+  "maxPotentialFirstInputDelay": 419.9999999999991,
+  "timeToFirstByte": 220.60700000000003,
   "weight": {
-    "summary": "172 requests • 2.8 MiB",
-    "total": 2896471,
-    "image": 221115,
+    "summary": "174 requests • 2.7 MiB",
+    "total": 2804432,
+    "image": 221098,
     "imageCount": 16,
-    "script": 1370867,
+    "script": 1367482,
     "scriptCount": 55,
-    "document": 111419,
-    "font": 77114,
+    "document": 111580,
+    "font": 77124,
     "fontCount": 3,
-    "stylesheet": 28431,
+    "stylesheet": 28666,
     "stylesheetCount": 8,
-    "thirdParty": 2175663,
+    "thirdParty": 2080622,
     "thirdPartyCount": 22
   },
   "run": {
@@ -45,10 +45,10 @@
     "total": 3
   },
   "sidequests": {
-    "-weight.total": 3,
-    "+weight.total": 25,
-    "-weight.document": 10,
-    "+weight.document": 18,
+    "-weight.total": 2,
+    "+weight.total": 26,
+    "-weight.document": 11,
+    "+weight.document": 17,
     "-weight.script": 3,
     "+weight.script": 25,
     "-weight.image": 2,
@@ -56,18 +56,18 @@
     "-weight.font": 6,
     "+weight.font": 22,
     "+weight.fontCount": 10,
-    "-timeToFirstByte": 17,
-    "-totalBlockingTime": 2,
-    "-largestContentfulPaint": 5
+    "-timeToFirstByte": 16,
+    "-totalBlockingTime": 3,
+    "-largestContentfulPaint": 4
   },
   "axe": {
     "passes": 262,
     "violations": 1
   },
   "previousRanks": {
-    "hundos": 7,
-    "performance": 1,
+    "hundos": 6,
+    "performance": 3,
     "accessibility": 1,
-    "cumulative": 7
+    "cumulative": 6
   }
 }

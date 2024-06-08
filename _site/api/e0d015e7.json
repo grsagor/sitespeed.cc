@@ -1,47 +1,47 @@
 {
   "url": "https://www.butcherbox.com/",
   "requestedUrl": "https://www.butcherbox.com/",
-  "timestamp": 1717408680488,
+  "timestamp": 1717681633630,
   "ranks": {
     "hundos": 2,
-    "performance": 2,
+    "performance": 4,
     "accessibility": 1,
     "cumulative": 2
   },
   "lighthouse": {
     "version": "11.7.1",
-    "performance": 0.38,
+    "performance": 0.33,
     "accessibility": 1,
     "bestPractices": 0.56,
     "seo": 1,
-    "total": 294
+    "total": 289
   },
-  "firstContentfulPaint": 4951.579900000001,
-  "firstMeaningfulPaint": 4951.579900000001,
-  "speedIndex": 10859.304867503242,
-  "largestContentfulPaint": 11631.27215,
-  "totalBlockingTime": 758.5000000000014,
-  "cumulativeLayoutShift": 0.004959296357779524,
-  "timeToInteractive": 17536.2936,
-  "maxPotentialFirstInputDelay": 225,
-  "timeToFirstByte": 1959.8360000000002,
+  "firstContentfulPaint": 4553.252399999999,
+  "firstMeaningfulPaint": 5457.6438,
+  "speedIndex": 16611.02299884556,
+  "largestContentfulPaint": 6437.40115,
+  "totalBlockingTime": 1028,
+  "cumulativeLayoutShift": 0.11037020342279771,
+  "timeToInteractive": 18876.389650000005,
+  "maxPotentialFirstInputDelay": 272,
+  "timeToFirstByte": 2363.192,
   "weight": {
-    "summary": "118 requests • 1.9 MiB",
-    "total": 1941871,
-    "image": 343142,
-    "imageCount": 27,
-    "script": 1326488,
-    "scriptCount": 42,
-    "document": 51102,
-    "font": 120340,
+    "summary": "141 requests • 2.0 MiB",
+    "total": 2144010,
+    "image": 496950,
+    "imageCount": 32,
+    "script": 1366819,
+    "scriptCount": 46,
+    "document": 51712,
+    "font": 120354,
     "fontCount": 6,
-    "stylesheet": 17378,
-    "stylesheetCount": 3,
-    "thirdParty": 1891010,
-    "thirdPartyCount": 24
+    "stylesheet": 26861,
+    "stylesheetCount": 4,
+    "thirdParty": 2092597,
+    "thirdPartyCount": 25
   },
   "run": {
-    "number": 1,
+    "number": 2,
     "total": 3
   },
   "sidequests": {
@@ -53,15 +53,20 @@
     "+weight.script": 7,
     "-weight.image": 2,
     "+weight.image": 7,
-    "-weight.font": 2,
-    "+weight.font": 7,
+    "-weight.font": 3,
+    "+weight.font": 6,
     "+weight.fontCount": 3,
     "-timeToFirstByte": 8,
     "-totalBlockingTime": 2,
-    "-largestContentfulPaint": 5
+    "-largestContentfulPaint": 3
   },
   "axe": {
-    "passes": 668,
-    "violations": 2
+    "error": "{\"name\":\"TimeoutError\"}"
+  },
+  "previousRanks": {
+    "hundos": 2,
+    "performance": 2,
+    "accessibility": 1,
+    "cumulative": 2
   }
 }

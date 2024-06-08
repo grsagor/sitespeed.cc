@@ -1,10 +1,10 @@
 {
   "url": "https://www.thespicehouse.com/",
   "requestedUrl": "https://www.thespicehouse.com/",
-  "timestamp": 1717409556963,
+  "timestamp": 1717681702133,
   "ranks": {
     "hundos": 4,
-    "performance": 5,
+    "performance": 2,
     "accessibility": 4,
     "cumulative": 4
   },
@@ -16,32 +16,32 @@
     "seo": 0.76,
     "total": 278
   },
-  "firstContentfulPaint": 1708.3135,
-  "firstMeaningfulPaint": 2021.8135000000002,
-  "speedIndex": 19316.63033683295,
-  "largestContentfulPaint": 18766.5495,
-  "totalBlockingTime": 8657.000000000005,
-  "cumulativeLayoutShift": 0,
-  "timeToInteractive": 30360.083,
-  "maxPotentialFirstInputDelay": 4289.000000000002,
-  "timeToFirstByte": 22.442000000000007,
+  "firstContentfulPaint": 1758.9649999999997,
+  "firstMeaningfulPaint": 1917.1029999999996,
+  "speedIndex": 15629.500380755784,
+  "largestContentfulPaint": 18802.971250000006,
+  "totalBlockingTime": 6711.086000000015,
+  "cumulativeLayoutShift": 0.0055460223291661035,
+  "timeToInteractive": 29557.247250000015,
+  "maxPotentialFirstInputDelay": 4419.000000000013,
+  "timeToFirstByte": 18.379999999999995,
   "weight": {
     "summary": "249 requests • 4.3 MiB",
-    "total": 4559107,
-    "image": 1006400,
+    "total": 4468851,
+    "image": 1005370,
     "imageCount": 77,
-    "script": 2076642,
+    "script": 2091538,
     "scriptCount": 74,
-    "document": 164092,
-    "font": 110387,
+    "document": 164303,
+    "font": 110392,
     "fontCount": 6,
-    "stylesheet": 176378,
+    "stylesheet": 178085,
     "stylesheetCount": 8,
-    "thirdParty": 2481756,
+    "thirdParty": 2381457,
     "thirdPartyCount": 27
   },
   "run": {
-    "number": 3,
+    "number": 2,
     "total": 3
   },
   "sidequests": {
@@ -56,11 +56,17 @@
     "-weight.font": 1,
     "+weight.font": 8,
     "+weight.fontCount": 3,
-    "-timeToFirstByte": 1,
-    "-totalBlockingTime": 8,
+    "-timeToFirstByte": 3,
+    "-totalBlockingTime": 7,
     "-largestContentfulPaint": 8
   },
   "axe": {
     "error": "{\"name\":\"TimeoutError\"}"
+  },
+  "previousRanks": {
+    "hundos": 4,
+    "performance": 5,
+    "accessibility": 4,
+    "cumulative": 4
   }
 }

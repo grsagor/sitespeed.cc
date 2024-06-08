@@ -1,66 +1,72 @@
 {
   "url": "https://loveamika.com/",
   "requestedUrl": "https://loveamika.com/",
-  "timestamp": 1717406737196,
+  "timestamp": 1717679307974,
   "ranks": {
     "hundos": 18,
-    "performance": 20,
-    "accessibility": 7,
+    "performance": 19,
+    "accessibility": 6,
     "cumulative": 18
   },
   "lighthouse": {
     "version": "11.7.1",
-    "performance": 0.23,
+    "performance": 0.22,
     "accessibility": 0.94,
     "bestPractices": 0.48,
     "seo": 0.86,
-    "total": 251
+    "total": 250
   },
-  "firstContentfulPaint": 10987.395700963105,
-  "firstMeaningfulPaint": 12719.060485644266,
-  "speedIndex": 28808.70945783193,
-  "largestContentfulPaint": 17658.10581667135,
-  "totalBlockingTime": 4076.374673510986,
-  "cumulativeLayoutShift": 0.10227795538463354,
-  "timeToInteractive": 35691.76226607771,
-  "maxPotentialFirstInputDelay": 615.9999999999982,
-  "timeToFirstByte": 2537.633,
+  "firstContentfulPaint": 9016.572499999998,
+  "firstMeaningfulPaint": 9741.997,
+  "speedIndex": 23246.276482871657,
+  "largestContentfulPaint": 13927.708999999999,
+  "totalBlockingTime": 3509.105490000007,
+  "cumulativeLayoutShift": 0.11094394145813899,
+  "timeToInteractive": 33250.353409999996,
+  "maxPotentialFirstInputDelay": 408,
+  "timeToFirstByte": 3277.649,
   "weight": {
-    "summary": "262 requests • 4.6 MiB",
-    "total": 4842043,
-    "image": 1266529,
-    "imageCount": 48,
-    "script": 2834982,
+    "summary": "264 requests • 4.6 MiB",
+    "total": 4824010,
+    "image": 1266260,
+    "imageCount": 47,
+    "script": 2814759,
     "scriptCount": 126,
-    "document": 230191,
-    "font": 105277,
-    "fontCount": 7,
-    "stylesheet": 185503,
-    "stylesheetCount": 16,
-    "thirdParty": 4603263,
+    "document": 230415,
+    "font": 105328,
+    "fontCount": 6,
+    "stylesheet": 187676,
+    "stylesheetCount": 17,
+    "thirdParty": 4585018,
     "thirdPartyCount": 33
   },
   "run": {
-    "number": 2,
-    "total": 2
+    "number": 3,
+    "total": 3
   },
   "sidequests": {
     "-weight.total": 14,
     "+weight.total": 13,
-    "-weight.document": 21,
-    "+weight.document": 6,
+    "-weight.document": 23,
+    "+weight.document": 4,
     "-weight.script": 19,
     "+weight.script": 8,
-    "-weight.image": 15,
-    "+weight.image": 12,
+    "-weight.image": 13,
+    "+weight.image": 14,
     "-weight.font": 7,
     "+weight.font": 20,
-    "+weight.fontCount": 9,
+    "+weight.fontCount": 8,
     "-timeToFirstByte": 26,
-    "-totalBlockingTime": 9,
-    "-largestContentfulPaint": 18
+    "-totalBlockingTime": 10,
+    "-largestContentfulPaint": 16
   },
   "axe": {
     "error": "{\"name\":\"TimeoutError\"}"
+  },
+  "previousRanks": {
+    "hundos": 18,
+    "performance": 20,
+    "accessibility": 7,
+    "cumulative": 18
   }
 }

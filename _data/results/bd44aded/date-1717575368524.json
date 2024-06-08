@@ -1,0 +1,66 @@
+{
+  "url": "https://inkbox.com/",
+  "requestedUrl": "https://inkbox.com/",
+  "timestamp": 1717575955569,
+  "ranks": {
+    "hundos": 22,
+    "performance": 15,
+    "accessibility": 23,
+    "cumulative": 22
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.26,
+    "accessibility": 0.73,
+    "bestPractices": 0.59,
+    "seo": 0.85,
+    "total": 243
+  },
+  "firstContentfulPaint": 4991.762000000001,
+  "firstMeaningfulPaint": 8322.898500000001,
+  "speedIndex": 23748.98418077208,
+  "largestContentfulPaint": 12014.670000000002,
+  "totalBlockingTime": 5014.5,
+  "cumulativeLayoutShift": 0.03115339382689748,
+  "timeToInteractive": 30668.80450000001,
+  "maxPotentialFirstInputDelay": 1107,
+  "timeToFirstByte": 1290.3019999999997,
+  "weight": {
+    "summary": "203 requests • 3.5 MiB",
+    "total": 3630209,
+    "image": 1271217,
+    "imageCount": 51,
+    "script": 1936583,
+    "scriptCount": 53,
+    "document": 203567,
+    "font": 54043,
+    "fontCount": 6,
+    "stylesheet": 52368,
+    "stylesheetCount": 10,
+    "thirdParty": 2883739,
+    "thirdPartyCount": 40
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 5,
+    "+weight.total": 22,
+    "-weight.document": 20,
+    "+weight.document": 7,
+    "-weight.script": 8,
+    "+weight.script": 19,
+    "-weight.image": 13,
+    "+weight.image": 14,
+    "-weight.font": 1,
+    "+weight.font": 26,
+    "+weight.fontCount": 10,
+    "-timeToFirstByte": 24,
+    "-totalBlockingTime": 12,
+    "-largestContentfulPaint": 12
+  },
+  "axe": {
+    "error": "{\"name\":\"TimeoutError\"}"
+  }
+}

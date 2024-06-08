@@ -1,0 +1,67 @@
+{
+  "url": "https://olaplex.com/",
+  "requestedUrl": "https://olaplex.com/",
+  "timestamp": 1717577367518,
+  "ranks": {
+    "hundos": 24,
+    "performance": 25,
+    "accessibility": 18,
+    "cumulative": 24
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.04,
+    "accessibility": 0.82,
+    "bestPractices": 0.52,
+    "seo": 0.86,
+    "total": 224
+  },
+  "firstContentfulPaint": 5713.1227,
+  "firstMeaningfulPaint": 5713.1227,
+  "speedIndex": 26253.52361195784,
+  "largestContentfulPaint": 9967.997999999996,
+  "totalBlockingTime": 16255.486264999992,
+  "cumulativeLayoutShift": 0.5090989016258279,
+  "timeToInteractive": 44712.31617999998,
+  "maxPotentialFirstInputDelay": 3802.0000000000036,
+  "timeToFirstByte": 1042.5849999999998,
+  "weight": {
+    "summary": "325 requests • 4.9 MiB",
+    "total": 5155412,
+    "image": 615378,
+    "imageCount": 72,
+    "script": 3269875,
+    "scriptCount": 106,
+    "document": 84994,
+    "font": 116545,
+    "fontCount": 5,
+    "stylesheet": 199101,
+    "stylesheetCount": 8,
+    "thirdParty": 3811123,
+    "thirdPartyCount": 56
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 14,
+    "+weight.total": 13,
+    "-weight.document": 9,
+    "+weight.document": 18,
+    "-weight.script": 23,
+    "+weight.script": 4,
+    "-weight.image": 8,
+    "+weight.image": 19,
+    "-weight.font": 9,
+    "+weight.font": 18,
+    "+weight.fontCount": 11,
+    "-timeToFirstByte": 23,
+    "-totalBlockingTime": 22,
+    "-largestContentfulPaint": 9
+  },
+  "axe": {
+    "passes": 2944,
+    "violations": 90
+  }
+}

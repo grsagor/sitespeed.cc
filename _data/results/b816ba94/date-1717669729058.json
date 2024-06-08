@@ -1,0 +1,67 @@
+{
+  "url": "https://global.dcshoes.com/",
+  "requestedUrl": "https://www.dcshoes.com/",
+  "timestamp": 1717678179201,
+  "ranks": {
+    "hundos": 6,
+    "performance": 2,
+    "accessibility": 26,
+    "cumulative": 6
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.78,
+    "accessibility": 0.58,
+    "bestPractices": 0.56,
+    "seo": 0.75,
+    "total": 267
+  },
+  "firstContentfulPaint": 3339.206,
+  "firstMeaningfulPaint": 4148.899000000001,
+  "speedIndex": 3767.747594791208,
+  "largestContentfulPaint": 4303.592999999999,
+  "totalBlockingTime": 28.5,
+  "cumulativeLayoutShift": 0.0005941670915341696,
+  "timeToInteractive": 4261.676,
+  "maxPotentialFirstInputDelay": 107,
+  "timeToFirstByte": 27.161999999999978,
+  "weight": {
+    "summary": "92 requests • 547.2 KiB",
+    "total": 560371,
+    "image": 280965,
+    "imageCount": 40,
+    "script": 117170,
+    "scriptCount": 29,
+    "document": 81506,
+    "font": 64592,
+    "fontCount": 4,
+    "stylesheet": 8125,
+    "stylesheetCount": 9,
+    "thirdParty": 179819,
+    "thirdPartyCount": 19
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 1,
+    "+weight.total": 26,
+    "-weight.document": 8,
+    "+weight.document": 19,
+    "-weight.script": 1,
+    "+weight.script": 26,
+    "-weight.image": 2,
+    "+weight.image": 25,
+    "-weight.font": 3,
+    "+weight.font": 24,
+    "+weight.fontCount": 10,
+    "-timeToFirstByte": 8,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 3
+  },
+  "axe": {
+    "passes": 36,
+    "violations": 6
+  }
+}

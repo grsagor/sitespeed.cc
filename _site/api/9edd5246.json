@@ -1,12 +1,12 @@
 {
   "url": "https://whitefoxboutique.com/",
   "requestedUrl": "https://www.whitefoxboutique.com/",
-  "timestamp": 1717500149876,
+  "timestamp": 1717673382946,
   "ranks": {
-    "hundos": 21,
-    "performance": 20,
+    "hundos": 20,
+    "performance": 17,
     "accessibility": 24,
-    "cumulative": 21
+    "cumulative": 20
   },
   "lighthouse": {
     "version": "11.7.1",
@@ -16,32 +16,32 @@
     "seo": 0.92,
     "total": 243
   },
-  "firstContentfulPaint": 4035.0535,
-  "firstMeaningfulPaint": 4147.7165,
-  "speedIndex": 20991.1864215101,
-  "largestContentfulPaint": 20863.803,
-  "totalBlockingTime": 4801.500000000002,
-  "cumulativeLayoutShift": 0.0015522135082079328,
-  "timeToInteractive": 31598.624760000006,
-  "maxPotentialFirstInputDelay": 1274,
-  "timeToFirstByte": 40.344,
+  "firstContentfulPaint": 4004.7405,
+  "firstMeaningfulPaint": 4941.123250000001,
+  "speedIndex": 23495.616730530106,
+  "largestContentfulPaint": 21591.61801155853,
+  "totalBlockingTime": 6651.999999999998,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 33041.64276155853,
+  "maxPotentialFirstInputDelay": 1526,
+  "timeToFirstByte": 17.613999999999997,
   "weight": {
-    "summary": "293 requests • 4.7 MiB",
-    "total": 4968755,
-    "image": 1536314,
+    "summary": "296 requests • 4.6 MiB",
+    "total": 4866597,
+    "image": 1492150,
     "imageCount": 103,
-    "script": 2165018,
-    "scriptCount": 65,
-    "document": 104654,
-    "font": 77896,
+    "script": 2197428,
+    "scriptCount": 66,
+    "document": 105243,
+    "font": 78143,
     "fontCount": 5,
-    "stylesheet": 177394,
+    "stylesheet": 177565,
     "stylesheetCount": 12,
-    "thirdParty": 2755000,
-    "thirdPartyCount": 37
+    "thirdParty": 2693839,
+    "thirdPartyCount": 38
   },
   "run": {
-    "number": 3,
+    "number": 2,
     "total": 3
   },
   "sidequests": {
@@ -49,24 +49,24 @@
     "+weight.total": 21,
     "-weight.document": 8,
     "+weight.document": 20,
-    "-weight.script": 12,
-    "+weight.script": 16,
-    "-weight.image": 12,
-    "+weight.image": 16,
+    "-weight.script": 11,
+    "+weight.script": 17,
+    "-weight.image": 13,
+    "+weight.image": 15,
     "-weight.font": 7,
     "+weight.font": 21,
     "+weight.fontCount": 8,
-    "-timeToFirstByte": 15,
-    "-totalBlockingTime": 16,
-    "-largestContentfulPaint": 24
+    "-timeToFirstByte": 5,
+    "-totalBlockingTime": 17,
+    "-largestContentfulPaint": 25
   },
   "axe": {
     "error": "{\"name\":\"TimeoutError\"}"
   },
   "previousRanks": {
-    "hundos": 22,
+    "hundos": 21,
     "performance": 20,
-    "accessibility": 26,
-    "cumulative": 22
+    "accessibility": 24,
+    "cumulative": 21
   }
 }

@@ -1,7 +1,7 @@
 {
   "url": "https://www.harpercollins.com/",
   "requestedUrl": "https://www.harpercollins.com/",
-  "timestamp": 1717407476477,
+  "timestamp": 1717680150583,
   "ranks": {
     "hundos": 1,
     "performance": 1,
@@ -10,39 +10,39 @@
   },
   "lighthouse": {
     "version": "11.7.1",
-    "performance": 0.14,
+    "performance": 0.18,
     "accessibility": 0.8,
     "bestPractices": 0.7,
-    "seo": 0.62,
-    "total": 226
+    "seo": 0.69,
+    "total": 237
   },
-  "firstContentfulPaint": 2525.8405000000002,
-  "firstMeaningfulPaint": 2525.8405000000002,
-  "speedIndex": 20351.251774693206,
-  "largestContentfulPaint": 28129.613250000013,
-  "totalBlockingTime": 1414.5,
-  "cumulativeLayoutShift": 0.5771502960722922,
-  "timeToInteractive": 18347.811000000005,
-  "maxPotentialFirstInputDelay": 256,
-  "timeToFirstByte": 881.2169999999996,
+  "firstContentfulPaint": 2466.4867,
+  "firstMeaningfulPaint": 2499.59925,
+  "speedIndex": 15549.538822210943,
+  "largestContentfulPaint": 10157.933499999997,
+  "totalBlockingTime": 1296,
+  "cumulativeLayoutShift": 0.4327032755747171,
+  "timeToInteractive": 17358.84289999999,
+  "maxPotentialFirstInputDelay": 283,
+  "timeToFirstByte": 861.775,
   "weight": {
-    "summary": "428 requests • 4.5 MiB",
-    "total": 4756656,
-    "image": 1407203,
-    "imageCount": 58,
-    "script": 1221364,
+    "summary": "439 requests • 4.7 MiB",
+    "total": 4971714,
+    "image": 1687959,
+    "imageCount": 62,
+    "script": 1225495,
     "scriptCount": 59,
-    "document": 73626,
-    "font": 242215,
+    "document": 73047,
+    "font": 242236,
     "fontCount": 8,
-    "stylesheet": 56472,
+    "stylesheet": 56169,
     "stylesheetCount": 9,
-    "thirdParty": 1841757,
-    "thirdPartyCount": 35
+    "thirdParty": 1759725,
+    "thirdPartyCount": 37
   },
   "run": {
     "number": 1,
-    "total": 3
+    "total": 2
   },
   "sidequests": {
     "-weight.total": 1,
@@ -63,5 +63,11 @@
   "axe": {
     "passes": 127,
     "violations": 1
+  },
+  "previousRanks": {
+    "hundos": 1,
+    "performance": 1,
+    "accessibility": 1,
+    "cumulative": 1
   }
 }

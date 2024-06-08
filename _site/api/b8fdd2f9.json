@@ -1,73 +1,72 @@
 {
   "url": "https://timex.com/",
   "requestedUrl": "https://timex.com/",
-  "timestamp": 1717498194266,
+  "timestamp": 1717671039831,
   "ranks": {
-    "hundos": 24,
-    "performance": 25,
+    "hundos": 21,
+    "performance": 20,
     "accessibility": 18,
-    "cumulative": 23
+    "cumulative": 21
   },
   "lighthouse": {
     "version": "11.7.1",
-    "performance": 0.17,
+    "performance": 0.25,
     "accessibility": 0.8,
-    "bestPractices": 0.56,
+    "bestPractices": 0.52,
     "seo": 0.83,
-    "total": 236
+    "total": 240
   },
-  "firstContentfulPaint": 5680.69875,
-  "firstMeaningfulPaint": 5680.69875,
-  "speedIndex": 23798.633505332098,
-  "largestContentfulPaint": 13421.06075,
-  "totalBlockingTime": 8740,
-  "cumulativeLayoutShift": 0.18000417479444208,
-  "timeToInteractive": 43232.93100000002,
-  "maxPotentialFirstInputDelay": 977.9999999999964,
-  "timeToFirstByte": 18.543999999999983,
+  "firstContentfulPaint": 5819.33725,
+  "firstMeaningfulPaint": 5819.33725,
+  "speedIndex": 28965.08925935358,
+  "largestContentfulPaint": 13410.892,
+  "totalBlockingTime": 18317.265750000006,
+  "cumulativeLayoutShift": 0.010654418416459272,
+  "timeToInteractive": 49930.75375,
+  "maxPotentialFirstInputDelay": 1668.999999999991,
+  "timeToFirstByte": 28.662000000000035,
   "weight": {
-    "summary": "457 requests • 31.9 MiB",
-    "total": 33439524,
-    "image": 1427531,
-    "imageCount": 80,
-    "script": 3177937,
-    "scriptCount": 156,
-    "document": 130787,
-    "font": 173894,
+    "summary": "520 requests • 32.0 MiB",
+    "total": 33599913,
+    "image": 1462140,
+    "imageCount": 86,
+    "script": 3276434,
+    "scriptCount": 159,
+    "document": 131234,
+    "font": 173874,
     "fontCount": 7,
-    "stylesheet": 95136,
+    "stylesheet": 96907,
     "stylesheetCount": 45,
-    "thirdParty": 31397720,
+    "thirdParty": 31366054,
     "thirdPartyCount": 48
   },
   "run": {
     "number": 1,
-    "total": 2
+    "total": 3
   },
   "sidequests": {
     "-weight.total": 25,
     "+weight.total": 3,
-    "-weight.document": 17,
-    "+weight.document": 11,
-    "-weight.script": 23,
-    "+weight.script": 5,
-    "-weight.image": 11,
-    "+weight.image": 17,
-    "-weight.font": 16,
-    "+weight.font": 12,
+    "-weight.document": 15,
+    "+weight.document": 13,
+    "-weight.script": 24,
+    "+weight.script": 4,
+    "-weight.image": 12,
+    "+weight.image": 16,
+    "-weight.font": 15,
+    "+weight.font": 13,
     "+weight.fontCount": 6,
-    "-timeToFirstByte": 6,
-    "-totalBlockingTime": 22,
-    "-largestContentfulPaint": 17
+    "-timeToFirstByte": 11,
+    "-totalBlockingTime": 24,
+    "-largestContentfulPaint": 19
   },
   "axe": {
-    "passes": 1939,
-    "violations": 20
+    "error": "{\"name\":\"TimeoutError\"}"
   },
   "previousRanks": {
-    "hundos": 20,
-    "performance": 22,
+    "hundos": 24,
+    "performance": 25,
     "accessibility": 18,
-    "cumulative": 20
+    "cumulative": 23
   }
 }

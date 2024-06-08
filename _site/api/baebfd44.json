@@ -1,7 +1,7 @@
 {
   "url": "https://au.fleshlight.com/",
   "requestedUrl": "https://www.fleshlight.com/",
-  "timestamp": 1717490556552,
+  "timestamp": 1717669917621,
   "ranks": {
     "hundos": 1,
     "performance": 1,
@@ -16,32 +16,32 @@
     "seo": 0.86,
     "total": 193
   },
-  "firstContentfulPaint": 19841.0234075,
-  "firstMeaningfulPaint": 23516.783157500002,
-  "speedIndex": 36863.669108501286,
-  "largestContentfulPaint": 41440.53064630128,
-  "totalBlockingTime": 14452.89599999999,
+  "firstContentfulPaint": 20254.9592,
+  "firstMeaningfulPaint": 24086.636699999995,
+  "speedIndex": 45510.288246910466,
+  "largestContentfulPaint": 49027.7896456421,
+  "totalBlockingTime": 22491.635349999997,
   "cumulativeLayoutShift": 0.534882167425427,
-  "timeToInteractive": 54888.42504260251,
-  "maxPotentialFirstInputDelay": 3898.5,
-  "timeToFirstByte": 30.753000000000004,
+  "timeToInteractive": 61784.73149564209,
+  "maxPotentialFirstInputDelay": 6453.000000000002,
+  "timeToFirstByte": 33.498,
   "weight": {
-    "summary": "431 requests • 6.5 MiB",
-    "total": 6778342,
-    "image": 1419817,
-    "imageCount": 93,
-    "script": 3314832,
-    "scriptCount": 163,
-    "document": 238100,
-    "font": 350401,
+    "summary": "447 requests • 6.5 MiB",
+    "total": 6811310,
+    "image": 1407677,
+    "imageCount": 95,
+    "script": 3424213,
+    "scriptCount": 168,
+    "document": 237552,
+    "font": 350146,
     "fontCount": 10,
-    "stylesheet": 347725,
-    "stylesheetCount": 61,
-    "thirdParty": 4754765,
-    "thirdPartyCount": 43
+    "stylesheet": 349252,
+    "stylesheetCount": 63,
+    "thirdParty": 4760934,
+    "thirdPartyCount": 41
   },
   "run": {
-    "number": 3,
+    "number": 2,
     "total": 3
   },
   "sidequests": {
@@ -61,8 +61,8 @@
     "-largestContentfulPaint": 1
   },
   "axe": {
-    "passes": 4515,
-    "violations": 45
+    "passes": 4498,
+    "violations": 43
   },
   "previousRanks": {
     "hundos": 1,

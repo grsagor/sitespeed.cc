@@ -1,12 +1,12 @@
 {
   "url": "https://www.puravidabracelets.com/",
   "requestedUrl": "https://www.puravidabracelets.com/",
-  "timestamp": 1717491804868,
+  "timestamp": 1717673120320,
   "ranks": {
-    "hundos": 18,
-    "performance": 16,
-    "accessibility": 22,
-    "cumulative": 18
+    "hundos": 17,
+    "performance": 15,
+    "accessibility": 23,
+    "cumulative": 17
   },
   "lighthouse": {
     "version": "11.7.1",
@@ -16,57 +16,57 @@
     "seo": 0.86,
     "total": 247
   },
-  "firstContentfulPaint": 3420.5298,
-  "firstMeaningfulPaint": 4345.614381063246,
-  "speedIndex": 41837.14711954612,
-  "largestContentfulPaint": 17694.411019329837,
-  "totalBlockingTime": 12656.999999999978,
-  "cumulativeLayoutShift": 0,
-  "timeToInteractive": 60075.906366067466,
-  "maxPotentialFirstInputDelay": 3612.9999999999964,
-  "timeToFirstByte": 585.9389999999999,
+  "firstContentfulPaint": 3287.0735,
+  "firstMeaningfulPaint": 3850.3415000000014,
+  "speedIndex": 35148.71874222945,
+  "largestContentfulPaint": 16303.405499999988,
+  "totalBlockingTime": 11560,
+  "cumulativeLayoutShift": 0.007114249500611962,
+  "timeToInteractive": 55717.54721932984,
+  "maxPotentialFirstInputDelay": 3450.0000000000146,
+  "timeToFirstByte": 19.921000000000003,
   "weight": {
-    "summary": "517 requests • 13.7 MiB",
-    "total": 14382316,
-    "image": 9643169,
-    "imageCount": 131,
-    "script": 3299663,
-    "scriptCount": 155,
-    "document": 225599,
+    "summary": "509 requests • 13.4 MiB",
+    "total": 14008040,
+    "image": 9627593,
+    "imageCount": 134,
+    "script": 3091411,
+    "scriptCount": 150,
+    "document": 226463,
     "font": 113969,
     "fontCount": 4,
-    "stylesheet": 74015,
-    "stylesheetCount": 15,
-    "thirdParty": 9940311,
-    "thirdPartyCount": 46
+    "stylesheet": 50725,
+    "stylesheetCount": 12,
+    "thirdParty": 9564850,
+    "thirdPartyCount": 45
   },
   "run": {
-    "number": 1,
+    "number": 2,
     "total": 3
   },
   "sidequests": {
     "-weight.total": 23,
     "+weight.total": 5,
-    "-weight.document": 23,
-    "+weight.document": 5,
-    "-weight.script": 24,
-    "+weight.script": 4,
+    "-weight.document": 22,
+    "+weight.document": 6,
+    "-weight.script": 21,
+    "+weight.script": 7,
     "-weight.image": 27,
     "+weight.image": 1,
     "-weight.font": 11,
     "+weight.font": 17,
     "+weight.fontCount": 9,
-    "-timeToFirstByte": 24,
-    "-totalBlockingTime": 25,
-    "-largestContentfulPaint": 18
+    "-timeToFirstByte": 9,
+    "-totalBlockingTime": 20,
+    "-largestContentfulPaint": 21
   },
   "axe": {
     "error": "{\"name\":\"TimeoutError\"}"
   },
   "previousRanks": {
     "hundos": 18,
-    "performance": 15,
-    "accessibility": 23,
+    "performance": 16,
+    "accessibility": 22,
     "cumulative": 18
   }
 }

@@ -1,0 +1,66 @@
+{
+  "url": "https://www.quince.com/",
+  "requestedUrl": "https://www.quince.com/",
+  "timestamp": 1717581413218,
+  "ranks": {
+    "hundos": 7,
+    "performance": 7,
+    "accessibility": 5,
+    "cumulative": 7
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.31,
+    "accessibility": 0.91,
+    "bestPractices": 0.52,
+    "seo": 0.85,
+    "total": 259
+  },
+  "firstContentfulPaint": 3283.8273,
+  "firstMeaningfulPaint": 3283.8273,
+  "speedIndex": 15407.347139840753,
+  "largestContentfulPaint": 6535.741199999999,
+  "totalBlockingTime": 8461.999999999989,
+  "cumulativeLayoutShift": 0.00008696497369084822,
+  "timeToInteractive": 30986.052249999986,
+  "maxPotentialFirstInputDelay": 2691.9999999999964,
+  "timeToFirstByte": 160.24300000000005,
+  "weight": {
+    "summary": "252 requests • 3.4 MiB",
+    "total": 3534312,
+    "image": 652081,
+    "imageCount": 93,
+    "script": 2227682,
+    "scriptCount": 67,
+    "document": 123477,
+    "font": 273883,
+    "fontCount": 6,
+    "stylesheet": 0,
+    "stylesheetCount": 0,
+    "thirdParty": 1712322,
+    "thirdPartyCount": 67
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 4,
+    "+weight.total": 5,
+    "-weight.document": 6,
+    "+weight.document": 3,
+    "-weight.script": 7,
+    "+weight.script": 2,
+    "-weight.image": 4,
+    "+weight.image": 5,
+    "-weight.font": 5,
+    "+weight.font": 4,
+    "+weight.fontCount": 3,
+    "-timeToFirstByte": 5,
+    "-totalBlockingTime": 8,
+    "-largestContentfulPaint": 4
+  },
+  "axe": {
+    "error": "{\"name\":\"TimeoutError\"}"
+  }
+}

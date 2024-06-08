@@ -1,0 +1,67 @@
+{
+  "url": "https://www.jollibeefoods.com/",
+  "requestedUrl": "https://www.jollibeefoods.com/",
+  "timestamp": 1717580733774,
+  "ranks": {
+    "hundos": 1,
+    "performance": 1,
+    "accessibility": 3,
+    "cumulative": 1
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.58,
+    "accessibility": 0.95,
+    "bestPractices": 0.78,
+    "seo": 0.92,
+    "total": 323
+  },
+  "firstContentfulPaint": 1147.4944999999998,
+  "firstMeaningfulPaint": 1147.4944999999998,
+  "speedIndex": 8040.554514993059,
+  "largestContentfulPaint": 5814.659549999999,
+  "totalBlockingTime": 520.0000000000009,
+  "cumulativeLayoutShift": 0.015777699711604205,
+  "timeToInteractive": 15503.865500000004,
+  "maxPotentialFirstInputDelay": 157,
+  "timeToFirstByte": 29.48100000000011,
+  "weight": {
+    "summary": "124 requests • 2.3 MiB",
+    "total": 2417510,
+    "image": 405882,
+    "imageCount": 19,
+    "script": 1137975,
+    "scriptCount": 53,
+    "document": 28574,
+    "font": 142564,
+    "fontCount": 5,
+    "stylesheet": 21971,
+    "stylesheetCount": 3,
+    "thirdParty": 1659246,
+    "thirdPartyCount": 18
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 2,
+    "+weight.total": 7,
+    "-weight.document": 1,
+    "+weight.document": 8,
+    "-weight.script": 1,
+    "+weight.script": 8,
+    "-weight.image": 1,
+    "+weight.image": 8,
+    "-weight.font": 4,
+    "+weight.font": 5,
+    "+weight.fontCount": 4,
+    "-timeToFirstByte": 3,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 2
+  },
+  "axe": {
+    "passes": 766,
+    "violations": 4
+  }
+}

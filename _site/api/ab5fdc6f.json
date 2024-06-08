@@ -1,43 +1,43 @@
 {
   "url": "https://www.polaroid.com/",
   "requestedUrl": "https://www.polaroid.com/",
-  "timestamp": 1717408372583,
+  "timestamp": 1717680909227,
   "ranks": {
     "hundos": 2,
-    "performance": 1,
+    "performance": 2,
     "accessibility": 4,
     "cumulative": 2
   },
   "lighthouse": {
     "version": "11.7.1",
-    "performance": 0.58,
+    "performance": 0.42,
     "accessibility": 0.8,
-    "bestPractices": 0.74,
-    "seo": 0.89,
-    "total": 301
+    "bestPractices": 0.78,
+    "seo": 0.9,
+    "total": 290
   },
-  "firstContentfulPaint": 1210.0235,
-  "firstMeaningfulPaint": 1289.5235,
-  "speedIndex": 20932.896915306002,
-  "largestContentfulPaint": 2325.7505,
-  "totalBlockingTime": 3674.972000000007,
-  "cumulativeLayoutShift": 0.003190953351648086,
-  "timeToInteractive": 22331.94350000001,
-  "maxPotentialFirstInputDelay": 565,
-  "timeToFirstByte": 1966.0679999999998,
+  "firstContentfulPaint": 1243.0140000000001,
+  "firstMeaningfulPaint": 1656.9370000000004,
+  "speedIndex": 16103.650195497521,
+  "largestContentfulPaint": 4988.563,
+  "totalBlockingTime": 3876.6199999999953,
+  "cumulativeLayoutShift": 0.007311357072792219,
+  "timeToInteractive": 21737.361,
+  "maxPotentialFirstInputDelay": 680,
+  "timeToFirstByte": 270.605,
   "weight": {
-    "summary": "158 requests • 2.4 MiB",
-    "total": 2515666,
-    "image": 250097,
-    "imageCount": 31,
-    "script": 1726104,
-    "scriptCount": 53,
-    "document": 53215,
-    "font": 126546,
+    "summary": "150 requests • 2.4 MiB",
+    "total": 2474446,
+    "image": 186230,
+    "imageCount": 27,
+    "script": 1735319,
+    "scriptCount": 54,
+    "document": 53083,
+    "font": 126667,
     "fontCount": 3,
-    "stylesheet": 21941,
+    "stylesheet": 22038,
     "stylesheetCount": 2,
-    "thirdParty": 1704726,
+    "thirdParty": 1649724,
     "thirdPartyCount": 19
   },
   "run": {
@@ -58,9 +58,15 @@
     "+weight.fontCount": 4,
     "-timeToFirstByte": 3,
     "-totalBlockingTime": 3,
-    "-largestContentfulPaint": 1
+    "-largestContentfulPaint": 2
   },
   "axe": {
     "error": "{\"name\":\"TimeoutError\"}"
+  },
+  "previousRanks": {
+    "hundos": 1,
+    "performance": 1,
+    "accessibility": 4,
+    "cumulative": 1
   }
 }

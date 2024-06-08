@@ -1,0 +1,67 @@
+{
+  "url": "https://www.laurageller.com/",
+  "requestedUrl": "https://www.laurageller.com/",
+  "timestamp": 1717576304013,
+  "ranks": {
+    "hundos": 23,
+    "performance": 17,
+    "accessibility": 24,
+    "cumulative": 23
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.25,
+    "accessibility": 0.72,
+    "bestPractices": 0.52,
+    "seo": 0.79,
+    "total": 228
+  },
+  "firstContentfulPaint": 13334.320762786863,
+  "firstMeaningfulPaint": 13334.320762786863,
+  "speedIndex": 49612.71066297022,
+  "largestContentfulPaint": 23353.93399999999,
+  "totalBlockingTime": 25335.24649999996,
+  "cumulativeLayoutShift": 0.001348113252874616,
+  "timeToInteractive": 73746.56749999995,
+  "maxPotentialFirstInputDelay": 3106.999999999978,
+  "timeToFirstByte": 808.893,
+  "weight": {
+    "summary": "555 requests • 10.1 MiB",
+    "total": 10553760,
+    "image": 3551957,
+    "imageCount": 122,
+    "script": 4983508,
+    "scriptCount": 192,
+    "document": 185672,
+    "font": 278141,
+    "fontCount": 8,
+    "stylesheet": 355154,
+    "stylesheetCount": 27,
+    "thirdParty": 7006933,
+    "thirdPartyCount": 76
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 20,
+    "+weight.total": 7,
+    "-weight.document": 18,
+    "+weight.document": 9,
+    "-weight.script": 26,
+    "+weight.script": 1,
+    "-weight.image": 22,
+    "+weight.image": 5,
+    "-weight.font": 18,
+    "+weight.font": 9,
+    "+weight.fontCount": 8,
+    "-timeToFirstByte": 21,
+    "-totalBlockingTime": 25,
+    "-largestContentfulPaint": 23
+  },
+  "axe": {
+    "passes": 2139,
+    "violations": 48
+  }
+}

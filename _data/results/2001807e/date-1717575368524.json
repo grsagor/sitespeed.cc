@@ -1,0 +1,67 @@
+{
+  "url": "https://www.corsair.com/ww/en",
+  "requestedUrl": "https://www.corsair.com/",
+  "timestamp": 1717579829670,
+  "ranks": {
+    "hundos": 1,
+    "performance": 1,
+    "accessibility": 1,
+    "cumulative": 1
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.35,
+    "accessibility": 1,
+    "bestPractices": 0.74,
+    "seo": 0.89,
+    "total": 298
+  },
+  "firstContentfulPaint": 3249.3060000000005,
+  "firstMeaningfulPaint": 3249.3060000000005,
+  "speedIndex": 19155.930015400078,
+  "largestContentfulPaint": 5388.626000000002,
+  "totalBlockingTime": 2883.060750000006,
+  "cumulativeLayoutShift": 0.04350838409585614,
+  "timeToInteractive": 27481.601000000006,
+  "maxPotentialFirstInputDelay": 638,
+  "timeToFirstByte": 470.81100000000004,
+  "weight": {
+    "summary": "215 requests • 4.6 MiB",
+    "total": 4803785,
+    "image": 1221464,
+    "imageCount": 66,
+    "script": 2011763,
+    "scriptCount": 50,
+    "document": 261024,
+    "font": 227163,
+    "fontCount": 7,
+    "stylesheet": 150515,
+    "stylesheetCount": 9,
+    "thirdParty": 1500042,
+    "thirdPartyCount": 24
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 1,
+    "+weight.total": 2,
+    "-weight.document": 2,
+    "+weight.document": 1,
+    "-weight.script": 2,
+    "+weight.script": 1,
+    "-weight.image": 1,
+    "+weight.image": 2,
+    "-weight.font": 1,
+    "+weight.font": 2,
+    "+weight.fontCount": 2,
+    "-timeToFirstByte": 2,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 1
+  },
+  "axe": {
+    "passes": 115,
+    "violations": 12
+  }
+}

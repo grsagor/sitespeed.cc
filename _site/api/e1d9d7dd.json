@@ -1,67 +1,73 @@
 {
   "url": "https://www.elgato.com/ww/en",
   "requestedUrl": "https://www.elgato.com/",
-  "timestamp": 1717406871426,
+  "timestamp": 1717677099795,
   "ranks": {
-    "hundos": 8,
-    "performance": 15,
-    "accessibility": 15,
-    "cumulative": 8
+    "hundos": 12,
+    "performance": 20,
+    "accessibility": 21,
+    "cumulative": 11
   },
   "lighthouse": {
     "version": "11.7.1",
-    "performance": 0.27,
-    "accessibility": 0.82,
+    "performance": 0.22,
+    "accessibility": 0.78,
     "bestPractices": 0.74,
     "seo": 0.9,
-    "total": 273
+    "total": 264
   },
-  "firstContentfulPaint": 3366.227,
-  "firstMeaningfulPaint": 12504.858000000002,
-  "speedIndex": 31107.888552966368,
-  "largestContentfulPaint": 20796.378000000004,
-  "totalBlockingTime": 29682.999999999996,
-  "cumulativeLayoutShift": 0.0916884090989784,
-  "timeToInteractive": 44343.159,
-  "maxPotentialFirstInputDelay": 3377.0000000000036,
-  "timeToFirstByte": 1018.405,
+  "firstContentfulPaint": 4111.405000000001,
+  "firstMeaningfulPaint": 12074.609999999997,
+  "speedIndex": 26256.021601611912,
+  "largestContentfulPaint": 17733.62999999999,
+  "totalBlockingTime": 23849.288,
+  "cumulativeLayoutShift": 0.13027552097948641,
+  "timeToInteractive": 40093.0395,
+  "maxPotentialFirstInputDelay": 2193.0000000000036,
+  "timeToFirstByte": 349.097,
   "weight": {
-    "summary": "170 requests • 5.8 MiB",
-    "total": 6056281,
-    "image": 1240397,
+    "summary": "174 requests • 5.2 MiB",
+    "total": 5431777,
+    "image": 1478586,
     "imageCount": 30,
-    "script": 3008838,
+    "script": 3018246,
     "scriptCount": 60,
-    "document": 257577,
-    "font": 91246,
+    "document": 190325,
+    "font": 91047,
     "fontCount": 3,
-    "stylesheet": 118261,
+    "stylesheet": 119378,
     "stylesheetCount": 15,
-    "thirdParty": 3928363,
+    "thirdParty": 3298551,
     "thirdPartyCount": 21
   },
   "run": {
-    "number": 3,
+    "number": 1,
     "total": 3
   },
   "sidequests": {
     "-weight.total": 17,
     "+weight.total": 10,
-    "-weight.document": 24,
-    "+weight.document": 3,
+    "-weight.document": 19,
+    "+weight.document": 8,
     "-weight.script": 21,
     "+weight.script": 6,
-    "-weight.image": 13,
-    "+weight.image": 14,
+    "-weight.image": 17,
+    "+weight.image": 10,
     "-weight.font": 5,
     "+weight.font": 22,
-    "+weight.fontCount": 13,
-    "-timeToFirstByte": 24,
-    "-totalBlockingTime": 22,
-    "-largestContentfulPaint": 22
+    "+weight.fontCount": 11,
+    "-timeToFirstByte": 18,
+    "-totalBlockingTime": 24,
+    "-largestContentfulPaint": 21
   },
   "axe": {
-    "passes": 114,
-    "violations": 12
+    "passes": 142,
+    "violations": 11
+  },
+  "previousRanks": {
+    "hundos": 10,
+    "performance": 14,
+    "accessibility": 21,
+    "cumulative": 10
   }
 }

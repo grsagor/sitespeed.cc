@@ -1,44 +1,44 @@
 {
   "url": "https://www.turtlebeach.com/",
   "requestedUrl": "https://www.turtlebeach.com/",
-  "timestamp": 1717408301118,
+  "timestamp": 1717680840097,
   "ranks": {
-    "hundos": 1,
-    "performance": 2,
+    "hundos": 3,
+    "performance": 4,
     "accessibility": 2,
-    "cumulative": 1
+    "cumulative": 3
   },
   "lighthouse": {
     "version": "11.7.1",
-    "performance": 0.57,
+    "performance": 0.32,
     "accessibility": 0.86,
-    "bestPractices": 1,
+    "bestPractices": 0.74,
     "seo": 0.86,
-    "total": 329
+    "total": 278
   },
-  "firstContentfulPaint": 5176.5015,
-  "firstMeaningfulPaint": 5176.5015,
-  "speedIndex": 9650.208870305294,
-  "largestContentfulPaint": 7810.396500000002,
-  "totalBlockingTime": 97,
+  "firstContentfulPaint": 5339.7829999999985,
+  "firstMeaningfulPaint": 5339.7829999999985,
+  "speedIndex": 12991.381777029677,
+  "largestContentfulPaint": 8141.086999999999,
+  "totalBlockingTime": 1200.5,
   "cumulativeLayoutShift": 0.0028631881823301744,
-  "timeToInteractive": 9275.329000000002,
-  "maxPotentialFirstInputDelay": 169,
-  "timeToFirstByte": 2557.086,
+  "timeToInteractive": 18740.602500000005,
+  "maxPotentialFirstInputDelay": 355,
+  "timeToFirstByte": 2434.588,
   "weight": {
-    "summary": "84 requests • 2.7 MiB",
-    "total": 2853991,
-    "image": 2012898,
-    "imageCount": 33,
-    "script": 566576,
-    "scriptCount": 34,
-    "document": 105814,
-    "font": 106938,
+    "summary": "161 requests • 3.7 MiB",
+    "total": 3916068,
+    "image": 2014388,
+    "imageCount": 55,
+    "script": 1508525,
+    "scriptCount": 54,
+    "document": 106958,
+    "font": 106331,
     "fontCount": 4,
-    "stylesheet": 42036,
-    "stylesheetCount": 4,
-    "thirdParty": 2728495,
-    "thirdPartyCount": 8
+    "stylesheet": 41966,
+    "stylesheetCount": 7,
+    "thirdParty": 3694338,
+    "thirdPartyCount": 30
   },
   "run": {
     "number": 2,
@@ -47,8 +47,8 @@
   "sidequests": {
     "-weight.total": 2,
     "+weight.total": 3,
-    "-weight.document": 4,
-    "+weight.document": 1,
+    "-weight.document": 3,
+    "+weight.document": 2,
     "-weight.script": 1,
     "+weight.script": 4,
     "-weight.image": 4,
@@ -61,7 +61,13 @@
     "-largestContentfulPaint": 3
   },
   "axe": {
-    "passes": 866,
-    "violations": 35
+    "passes": 861,
+    "violations": 39
+  },
+  "previousRanks": {
+    "hundos": 3,
+    "performance": 3,
+    "accessibility": 2,
+    "cumulative": 3
   }
 }

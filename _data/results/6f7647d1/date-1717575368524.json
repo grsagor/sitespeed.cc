@@ -1,0 +1,67 @@
+{
+  "url": "https://waxcenter.com/",
+  "requestedUrl": "https://waxcenter.com/",
+  "timestamp": 1717576887380,
+  "ranks": {
+    "hundos": 12,
+    "performance": 9,
+    "accessibility": 11,
+    "cumulative": 12
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.3,
+    "accessibility": 0.9,
+    "bestPractices": 0.52,
+    "seo": 0.93,
+    "total": 265
+  },
+  "firstContentfulPaint": 3079.654,
+  "firstMeaningfulPaint": 3079.654,
+  "speedIndex": 21321.060117892433,
+  "largestContentfulPaint": 18106.345777038572,
+  "totalBlockingTime": 2973.341689422612,
+  "cumulativeLayoutShift": 0.05070439391640096,
+  "timeToInteractive": 30073.33199468994,
+  "maxPotentialFirstInputDelay": 502,
+  "timeToFirstByte": 23.06499999999994,
+  "weight": {
+    "summary": "281 requests • 4.5 MiB",
+    "total": 4692076,
+    "image": 802384,
+    "imageCount": 31,
+    "script": 2563162,
+    "scriptCount": 102,
+    "document": 70169,
+    "font": 193107,
+    "fontCount": 10,
+    "stylesheet": 88426,
+    "stylesheetCount": 53,
+    "thirdParty": 3438436,
+    "thirdPartyCount": 34
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 11,
+    "+weight.total": 16,
+    "-weight.document": 7,
+    "+weight.document": 20,
+    "-weight.script": 13,
+    "+weight.script": 14,
+    "-weight.image": 10,
+    "+weight.image": 17,
+    "-weight.font": 16,
+    "+weight.font": 11,
+    "+weight.fontCount": 6,
+    "-timeToFirstByte": 6,
+    "-totalBlockingTime": 6,
+    "-largestContentfulPaint": 20
+  },
+  "axe": {
+    "passes": 1465,
+    "violations": 12
+  }
+}

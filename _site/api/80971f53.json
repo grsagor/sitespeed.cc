@@ -1,67 +1,73 @@
 {
   "url": "https://colourpop.com/",
   "requestedUrl": "https://colourpop.com/",
-  "timestamp": 1717404181070,
+  "timestamp": 1717676371453,
   "ranks": {
     "hundos": 14,
-    "performance": 11,
-    "accessibility": 20,
+    "performance": 9,
+    "accessibility": 19,
     "cumulative": 14
   },
   "lighthouse": {
     "version": "11.7.1",
-    "performance": 0.28,
+    "performance": 0.3,
     "accessibility": 0.8,
     "bestPractices": 0.59,
     "seo": 0.92,
-    "total": 259
+    "total": 261
   },
-  "firstContentfulPaint": 3502.7544658645875,
-  "firstMeaningfulPaint": 3728.686922151447,
-  "speedIndex": 27996.49609479221,
-  "largestContentfulPaint": 10460.88530058975,
-  "totalBlockingTime": 5436.000000000001,
-  "cumulativeLayoutShift": 0.0003783263424658023,
-  "timeToInteractive": 36537.6711383109,
-  "maxPotentialFirstInputDelay": 1163.0000000000073,
-  "timeToFirstByte": 24.470000000000013,
+  "firstContentfulPaint": 3361.746299999999,
+  "firstMeaningfulPaint": 3928.272713111013,
+  "speedIndex": 25254.313199237105,
+  "largestContentfulPaint": 11009.483150000004,
+  "totalBlockingTime": 2852.500000000002,
+  "cumulativeLayoutShift": 0.002040763077115713,
+  "timeToInteractive": 32451.384938961804,
+  "maxPotentialFirstInputDelay": 530.9999999999964,
+  "timeToFirstByte": 25.019999999999996,
   "weight": {
-    "summary": "416 requests • 4.4 MiB",
-    "total": 4623109,
-    "image": 1832464,
+    "summary": "418 requests • 4.2 MiB",
+    "total": 4407374,
+    "image": 1679297,
     "imageCount": 126,
-    "script": 1773519,
-    "scriptCount": 98,
-    "document": 136668,
-    "font": 119560,
+    "script": 1782222,
+    "scriptCount": 99,
+    "document": 138655,
+    "font": 119120,
     "fontCount": 5,
-    "stylesheet": 48367,
+    "stylesheet": 48047,
     "stylesheetCount": 18,
-    "thirdParty": 2270446,
-    "thirdPartyCount": 37
+    "thirdParty": 2202583,
+    "thirdPartyCount": 36
   },
   "run": {
-    "number": 2,
+    "number": 1,
     "total": 3
   },
   "sidequests": {
-    "-weight.total": 11,
-    "+weight.total": 16,
+    "-weight.total": 10,
+    "+weight.total": 17,
     "-weight.document": 15,
     "+weight.document": 12,
     "-weight.script": 6,
     "+weight.script": 21,
-    "-weight.image": 20,
-    "+weight.image": 7,
+    "-weight.image": 18,
+    "+weight.image": 9,
     "-weight.font": 10,
     "+weight.font": 17,
-    "+weight.fontCount": 11,
-    "-timeToFirstByte": 13,
-    "-totalBlockingTime": 14,
+    "+weight.fontCount": 9,
+    "-timeToFirstByte": 7,
+    "-totalBlockingTime": 8,
     "-largestContentfulPaint": 9
   },
   "axe": {
-    "passes": 8000,
-    "violations": 291
+    "passes": 7993,
+    "violations": 292
+  },
+  "previousRanks": {
+    "hundos": 13,
+    "performance": 10,
+    "accessibility": 20,
+    "cumulative": 13
   }
 }

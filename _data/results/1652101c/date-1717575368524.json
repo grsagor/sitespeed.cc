@@ -1,0 +1,67 @@
+{
+  "url": "https://mielleorganics.com/",
+  "requestedUrl": "https://mielleorganics.com/",
+  "timestamp": 1717577632508,
+  "ranks": {
+    "hundos": 21,
+    "performance": 22,
+    "accessibility": 4,
+    "cumulative": 20
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.13,
+    "accessibility": 0.97,
+    "bestPractices": 0.52,
+    "seo": 0.83,
+    "total": 245
+  },
+  "firstContentfulPaint": 1997.2446499999992,
+  "firstMeaningfulPaint": 2154.861949999999,
+  "speedIndex": 33932.472987110574,
+  "largestContentfulPaint": 37816.844,
+  "totalBlockingTime": 25299.732650000016,
+  "cumulativeLayoutShift": 0.4605225082640784,
+  "timeToInteractive": 43732.209250000014,
+  "maxPotentialFirstInputDelay": 6804.999999999998,
+  "timeToFirstByte": 23.350000000000023,
+  "weight": {
+    "summary": "298 requests • 3.8 MiB",
+    "total": 4011998,
+    "image": 576041,
+    "imageCount": 84,
+    "script": 2185350,
+    "scriptCount": 108,
+    "document": 204319,
+    "font": 98260,
+    "fontCount": 6,
+    "stylesheet": 110712,
+    "stylesheetCount": 9,
+    "thirdParty": 2629460,
+    "thirdPartyCount": 33
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 6,
+    "+weight.total": 21,
+    "-weight.document": 21,
+    "+weight.document": 6,
+    "-weight.script": 10,
+    "+weight.script": 17,
+    "-weight.image": 7,
+    "+weight.image": 20,
+    "-weight.font": 6,
+    "+weight.font": 21,
+    "+weight.fontCount": 10,
+    "-timeToFirstByte": 7,
+    "-totalBlockingTime": 24,
+    "-largestContentfulPaint": 25
+  },
+  "axe": {
+    "passes": 3782,
+    "violations": 0
+  }
+}

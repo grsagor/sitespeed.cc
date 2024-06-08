@@ -1,67 +1,73 @@
 {
   "url": "https://www.manscaped.com/",
   "requestedUrl": "https://www.manscaped.com/",
-  "timestamp": 1717406304097,
+  "timestamp": 1717676618804,
   "ranks": {
-    "hundos": 6,
-    "performance": 4,
-    "accessibility": 5,
-    "cumulative": 5
+    "hundos": 10,
+    "performance": 10,
+    "accessibility": 4,
+    "cumulative": 9
   },
   "lighthouse": {
     "version": "11.7.1",
-    "performance": 0.38,
+    "performance": 0.29,
     "accessibility": 0.96,
     "bestPractices": 0.48,
     "seo": 0.92,
-    "total": 274
+    "total": 265
   },
-  "firstContentfulPaint": 2277.555,
-  "firstMeaningfulPaint": 2277.555,
-  "speedIndex": 18193.444116364666,
-  "largestContentfulPaint": 5185.315,
-  "totalBlockingTime": 11641.499999999998,
-  "cumulativeLayoutShift": 0.0048531628722483285,
-  "timeToInteractive": 35484.318575000005,
-  "maxPotentialFirstInputDelay": 1357,
-  "timeToFirstByte": 310.529,
+  "firstContentfulPaint": 2327.1939999999995,
+  "firstMeaningfulPaint": 2337.1939999999995,
+  "speedIndex": 19834.86161744497,
+  "largestContentfulPaint": 8601.247,
+  "totalBlockingTime": 10481.500000000011,
+  "cumulativeLayoutShift": 0.1129355619647173,
+  "timeToInteractive": 38000.26500000003,
+  "maxPotentialFirstInputDelay": 1482.0000000000027,
+  "timeToFirstByte": 375.18399999999997,
   "weight": {
-    "summary": "250 requests • 4.0 MiB",
-    "total": 4156954,
-    "image": 215678,
-    "imageCount": 47,
-    "script": 3090886,
-    "scriptCount": 97,
-    "document": 169821,
-    "font": 189637,
+    "summary": "289 requests • 4.1 MiB",
+    "total": 4331179,
+    "image": 225383,
+    "imageCount": 52,
+    "script": 3122552,
+    "scriptCount": 98,
+    "document": 169872,
+    "font": 298384,
     "fontCount": 8,
-    "stylesheet": 1033,
-    "stylesheetCount": 2,
-    "thirdParty": 2392949,
-    "thirdPartyCount": 62
+    "stylesheet": 2517,
+    "stylesheetCount": 4,
+    "thirdParty": 2548388,
+    "thirdPartyCount": 64
   },
   "run": {
-    "number": 2,
-    "total": 2
+    "number": 1,
+    "total": 3
   },
   "sidequests": {
-    "-weight.total": 7,
-    "+weight.total": 20,
+    "-weight.total": 9,
+    "+weight.total": 18,
     "-weight.document": 17,
     "+weight.document": 10,
     "-weight.script": 22,
     "+weight.script": 5,
     "-weight.image": 1,
     "+weight.image": 26,
-    "-weight.font": 16,
-    "+weight.font": 11,
-    "+weight.fontCount": 8,
+    "-weight.font": 20,
+    "+weight.font": 7,
+    "+weight.fontCount": 6,
     "-timeToFirstByte": 19,
-    "-totalBlockingTime": 17,
-    "-largestContentfulPaint": 3
+    "-totalBlockingTime": 18,
+    "-largestContentfulPaint": 7
   },
   "axe": {
     "passes": 127,
     "violations": 1
+  },
+  "previousRanks": {
+    "hundos": 9,
+    "performance": 6,
+    "accessibility": 5,
+    "cumulative": 8
   }
 }

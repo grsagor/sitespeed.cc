@@ -1,0 +1,66 @@
+{
+  "url": "https://www.puravidabracelets.com/",
+  "requestedUrl": "https://www.puravidabracelets.com/",
+  "timestamp": 1717673120320,
+  "ranks": {
+    "hundos": 17,
+    "performance": 15,
+    "accessibility": 23,
+    "cumulative": 17
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.29,
+    "accessibility": 0.76,
+    "bestPractices": 0.56,
+    "seo": 0.86,
+    "total": 247
+  },
+  "firstContentfulPaint": 3287.0735,
+  "firstMeaningfulPaint": 3850.3415000000014,
+  "speedIndex": 35148.71874222945,
+  "largestContentfulPaint": 16303.405499999988,
+  "totalBlockingTime": 11560,
+  "cumulativeLayoutShift": 0.007114249500611962,
+  "timeToInteractive": 55717.54721932984,
+  "maxPotentialFirstInputDelay": 3450.0000000000146,
+  "timeToFirstByte": 19.921000000000003,
+  "weight": {
+    "summary": "509 requests • 13.4 MiB",
+    "total": 14008040,
+    "image": 9627593,
+    "imageCount": 134,
+    "script": 3091411,
+    "scriptCount": 150,
+    "document": 226463,
+    "font": 113969,
+    "fontCount": 4,
+    "stylesheet": 50725,
+    "stylesheetCount": 12,
+    "thirdParty": 9564850,
+    "thirdPartyCount": 45
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 23,
+    "+weight.total": 5,
+    "-weight.document": 22,
+    "+weight.document": 6,
+    "-weight.script": 21,
+    "+weight.script": 7,
+    "-weight.image": 27,
+    "+weight.image": 1,
+    "-weight.font": 11,
+    "+weight.font": 17,
+    "+weight.fontCount": 9,
+    "-timeToFirstByte": 9,
+    "-totalBlockingTime": 20,
+    "-largestContentfulPaint": 21
+  },
+  "axe": {
+    "error": "{\"name\":\"TimeoutError\"}"
+  }
+}

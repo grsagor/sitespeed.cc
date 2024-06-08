@@ -1,10 +1,10 @@
 {
   "url": "https://petalandpup.com.au/",
   "requestedUrl": "https://petalandpup.com/",
-  "timestamp": 1717498662718,
+  "timestamp": 1717671611507,
   "ranks": {
     "hundos": 19,
-    "performance": 24,
+    "performance": 22,
     "accessibility": 13,
     "cumulative": 19
   },
@@ -16,57 +16,57 @@
     "seo": 0.79,
     "total": 246
   },
-  "firstContentfulPaint": 17009.964687499996,
-  "firstMeaningfulPaint": 18093.74423,
-  "speedIndex": 32020.11220723601,
-  "largestContentfulPaint": 54716.70239999997,
-  "totalBlockingTime": 13967.999999999978,
+  "firstContentfulPaint": 21194.726257808266,
+  "firstMeaningfulPaint": 21719.695257808267,
+  "speedIndex": 36263.05850472569,
+  "largestContentfulPaint": 57273.22482999999,
+  "totalBlockingTime": 19047.803443664532,
   "cumulativeLayoutShift": 0.011161488729996795,
-  "timeToInteractive": 64812.30654155637,
-  "maxPotentialFirstInputDelay": 4047,
-  "timeToFirstByte": 21.601,
+  "timeToInteractive": 72239.18249256085,
+  "maxPotentialFirstInputDelay": 5147.000000000029,
+  "timeToFirstByte": 568.385,
   "weight": {
-    "summary": "659 requests • 11.8 MiB",
-    "total": 12379324,
-    "image": 5940980,
-    "imageCount": 248,
-    "script": 4138026,
+    "summary": "659 requests • 11.9 MiB",
+    "total": 12439310,
+    "image": 6212710,
+    "imageCount": 259,
+    "script": 4144972,
     "scriptCount": 180,
-    "document": 304296,
-    "font": 404245,
+    "document": 304234,
+    "font": 404119,
     "fontCount": 8,
-    "stylesheet": 228348,
+    "stylesheet": 227977,
     "stylesheetCount": 14,
-    "thirdParty": 10612492,
-    "thirdPartyCount": 76
+    "thirdParty": 10669125,
+    "thirdPartyCount": 75
   },
   "run": {
-    "number": 2,
+    "number": 1,
     "total": 3
   },
   "sidequests": {
-    "-weight.total": 21,
-    "+weight.total": 7,
-    "-weight.document": 25,
-    "+weight.document": 3,
+    "-weight.total": 22,
+    "+weight.total": 6,
+    "-weight.document": 26,
+    "+weight.document": 2,
     "-weight.script": 27,
     "+weight.script": 1,
-    "-weight.image": 25,
-    "+weight.image": 3,
+    "-weight.image": 26,
+    "+weight.image": 2,
     "-weight.font": 24,
     "+weight.font": 4,
     "+weight.fontCount": 5,
-    "-timeToFirstByte": 9,
-    "-totalBlockingTime": 26,
+    "-timeToFirstByte": 23,
+    "-totalBlockingTime": 25,
     "-largestContentfulPaint": 27
   },
   "axe": {
     "error": "{\"name\":\"TimeoutError\"}"
   },
   "previousRanks": {
-    "hundos": 25,
-    "performance": 26,
+    "hundos": 19,
+    "performance": 24,
     "accessibility": 13,
-    "cumulative": 25
+    "cumulative": 19
   }
 }

@@ -1,67 +1,73 @@
 {
   "url": "https://soldejaneiro.com/",
   "requestedUrl": "https://soldejaneiro.com/",
-  "timestamp": 1717404264761,
+  "timestamp": 1717676456026,
   "ranks": {
     "hundos": 25,
     "performance": 24,
-    "accessibility": 10,
+    "accessibility": 14,
     "cumulative": 25
   },
   "lighthouse": {
     "version": "11.7.1",
-    "performance": 0.04,
-    "accessibility": 0.88,
+    "performance": 0.09,
+    "accessibility": 0.85,
     "bestPractices": 0.48,
     "seo": 0.77,
-    "total": 217
+    "total": 222
   },
-  "firstContentfulPaint": 3356.0595000000003,
-  "firstMeaningfulPaint": 3356.0595000000003,
-  "speedIndex": 28685.60763846834,
-  "largestContentfulPaint": 49977.519134999995,
-  "totalBlockingTime": 39285.18884999998,
-  "cumulativeLayoutShift": 1.1286242170613707,
-  "timeToInteractive": 67121.35880707702,
-  "maxPotentialFirstInputDelay": 5046.999999999982,
-  "timeToFirstByte": 13.916,
+  "firstContentfulPaint": 2893.982,
+  "firstMeaningfulPaint": 2893.982,
+  "speedIndex": 34141.691880833525,
+  "largestContentfulPaint": 6333.883999999999,
+  "totalBlockingTime": 8298.999999999995,
+  "cumulativeLayoutShift": 0.9331241373615354,
+  "timeToInteractive": 54248.71920707702,
+  "maxPotentialFirstInputDelay": 1697,
+  "timeToFirstByte": 414.677,
   "weight": {
-    "summary": "590 requests • 25.1 MiB",
-    "total": 26343939,
-    "image": 4790873,
-    "imageCount": 173,
-    "script": 3550207,
-    "scriptCount": 151,
-    "document": 145647,
-    "font": 289550,
-    "fontCount": 15,
-    "stylesheet": 173116,
+    "summary": "573 requests • 9.9 MiB",
+    "total": 10338071,
+    "image": 4793503,
+    "imageCount": 170,
+    "script": 3544277,
+    "scriptCount": 152,
+    "document": 145155,
+    "font": 280090,
+    "fontCount": 14,
+    "stylesheet": 175569,
     "stylesheetCount": 52,
-    "thirdParty": 25196256,
-    "thirdPartyCount": 93
+    "thirdParty": 9242668,
+    "thirdPartyCount": 88
   },
   "run": {
-    "number": 2,
+    "number": 1,
     "total": 3
   },
   "sidequests": {
-    "-weight.total": 24,
-    "+weight.total": 3,
+    "-weight.total": 19,
+    "+weight.total": 8,
     "-weight.document": 16,
     "+weight.document": 11,
     "-weight.script": 24,
     "+weight.script": 3,
     "-weight.image": 24,
     "+weight.image": 3,
-    "-weight.font": 20,
-    "+weight.font": 7,
-    "+weight.fontCount": 2,
-    "-timeToFirstByte": 4,
-    "-totalBlockingTime": 24,
-    "-largestContentfulPaint": 26
+    "-weight.font": 19,
+    "+weight.font": 8,
+    "+weight.fontCount": 3,
+    "-timeToFirstByte": 20,
+    "-totalBlockingTime": 16,
+    "-largestContentfulPaint": 5
   },
   "axe": {
-    "passes": 3613,
-    "violations": 28
+    "passes": 3641,
+    "violations": 29
+  },
+  "previousRanks": {
+    "hundos": 25,
+    "performance": 24,
+    "accessibility": 12,
+    "cumulative": 25
   }
 }

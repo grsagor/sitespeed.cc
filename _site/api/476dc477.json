@@ -1,47 +1,47 @@
 {
   "url": "https://www.wearfigs.com/",
   "requestedUrl": "https://www.wearfigs.com/",
-  "timestamp": 1717497653669,
+  "timestamp": 1717673822745,
   "ranks": {
     "hundos": 2,
-    "performance": 17,
+    "performance": 10,
     "accessibility": 9,
     "cumulative": 2
   },
   "lighthouse": {
     "version": "11.7.1",
-    "performance": 0.28,
+    "performance": 0.32,
     "accessibility": 0.89,
     "bestPractices": 0.78,
     "seo": 0.86,
-    "total": 281
+    "total": 285
   },
-  "firstContentfulPaint": 2567.931992707999,
-  "firstMeaningfulPaint": 4562.046191249599,
-  "speedIndex": 10232.110113775287,
-  "largestContentfulPaint": 6074.577180311598,
-  "totalBlockingTime": 3379.917003646001,
-  "cumulativeLayoutShift": 0.16936934482707613,
-  "timeToInteractive": 14653.573346039193,
-  "maxPotentialFirstInputDelay": 1177,
-  "timeToFirstByte": 786.2830000000001,
+  "firstContentfulPaint": 2626.2829999999994,
+  "firstMeaningfulPaint": 4324.253199999999,
+  "speedIndex": 9699.656130184605,
+  "largestContentfulPaint": 6017.69893,
+  "totalBlockingTime": 2511.9256000000014,
+  "cumulativeLayoutShift": 0.13664910710204406,
+  "timeToInteractive": 13989.612299999993,
+  "maxPotentialFirstInputDelay": 987,
+  "timeToFirstByte": 238.71399999999994,
   "weight": {
-    "summary": "94 requests • 1.9 MiB",
-    "total": 2017519,
-    "image": 586508,
-    "imageCount": 57,
-    "script": 1093379,
+    "summary": "93 requests • 1.9 MiB",
+    "total": 2009123,
+    "image": 604814,
+    "imageCount": 56,
+    "script": 1066808,
     "scriptCount": 22,
-    "document": 82938,
-    "font": 187011,
+    "document": 83525,
+    "font": 186972,
     "fontCount": 3,
     "stylesheet": 0,
     "stylesheetCount": 0,
-    "thirdParty": 815363,
+    "thirdParty": 801922,
     "thirdPartyCount": 7
   },
   "run": {
-    "number": 2,
+    "number": 3,
     "total": 3
   },
   "sidequests": {
@@ -51,23 +51,23 @@
     "+weight.document": 22,
     "-weight.script": 1,
     "+weight.script": 27,
-    "-weight.image": 5,
-    "+weight.image": 23,
+    "-weight.image": 6,
+    "+weight.image": 22,
     "-weight.font": 17,
     "+weight.font": 11,
     "+weight.fontCount": 10,
-    "-timeToFirstByte": 26,
-    "-totalBlockingTime": 12,
-    "-largestContentfulPaint": 6
+    "-timeToFirstByte": 17,
+    "-totalBlockingTime": 5,
+    "-largestContentfulPaint": 3
   },
   "axe": {
-    "passes": 2499,
+    "passes": 2553,
     "violations": 5
   },
   "previousRanks": {
-    "hundos": 5,
-    "performance": 24,
+    "hundos": 2,
+    "performance": 17,
     "accessibility": 9,
-    "cumulative": 4
+    "cumulative": 2
   }
 }

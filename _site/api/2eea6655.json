@@ -1,72 +1,72 @@
 {
   "url": "https://www.neweracap.com/",
   "requestedUrl": "https://www.neweracap.com/",
-  "timestamp": 1717499699086,
+  "timestamp": 1717674523110,
   "ranks": {
     "hundos": 27,
-    "performance": 11,
+    "performance": 8,
     "accessibility": 27,
     "cumulative": 27
   },
   "lighthouse": {
     "version": "11.7.1",
-    "performance": 0.34,
+    "performance": 0.33,
     "accessibility": null,
     "bestPractices": 0.74,
     "seo": 0.93,
-    "total": 201
+    "total": 200
   },
-  "firstContentfulPaint": 1914.9151,
-  "firstMeaningfulPaint": 1914.9151,
-  "speedIndex": 24907.476866382887,
-  "largestContentfulPaint": 9914.47215,
-  "totalBlockingTime": 6261.797817499999,
+  "firstContentfulPaint": 2042.7779,
+  "firstMeaningfulPaint": 2042.7779,
+  "speedIndex": 21546.859893973127,
+  "largestContentfulPaint": 9936.9508125,
+  "totalBlockingTime": 5278.9999999999945,
   "cumulativeLayoutShift": 0,
-  "timeToInteractive": 39059.10973483889,
-  "maxPotentialFirstInputDelay": 965.0000000000036,
-  "timeToFirstByte": 24.711000000000013,
+  "timeToInteractive": 36290.13049499999,
+  "maxPotentialFirstInputDelay": 567.0000000000036,
+  "timeToFirstByte": 16.19500000000005,
   "weight": {
-    "summary": "413 requests • 5.8 MiB",
-    "total": 6082210,
-    "image": 2059981,
+    "summary": "405 requests • 5.8 MiB",
+    "total": 6054002,
+    "image": 2175072,
     "imageCount": 113,
-    "script": 2608051,
-    "scriptCount": 100,
-    "document": 256220,
-    "font": 93799,
+    "script": 2546606,
+    "scriptCount": 98,
+    "document": 256488,
+    "font": 94211,
     "fontCount": 6,
-    "stylesheet": 117834,
-    "stylesheetCount": 41,
-    "thirdParty": 3521876,
-    "thirdPartyCount": 50
+    "stylesheet": 109042,
+    "stylesheetCount": 40,
+    "thirdParty": 3354959,
+    "thirdPartyCount": 52
   },
   "run": {
     "number": 3,
     "total": 3
   },
   "sidequests": {
-    "-weight.total": 12,
-    "+weight.total": 16,
+    "-weight.total": 13,
+    "+weight.total": 15,
     "-weight.document": 24,
     "+weight.document": 4,
     "-weight.script": 16,
     "+weight.script": 12,
-    "-weight.image": 20,
-    "+weight.image": 8,
+    "-weight.image": 21,
+    "+weight.image": 7,
     "-weight.font": 9,
     "+weight.font": 19,
     "+weight.fontCount": 7,
-    "-timeToFirstByte": 12,
-    "-totalBlockingTime": 20,
-    "-largestContentfulPaint": 14
+    "-timeToFirstByte": 3,
+    "-totalBlockingTime": 15,
+    "-largestContentfulPaint": 15
   },
   "axe": {
-    "passes": 3137,
-    "violations": 65
+    "passes": 3155,
+    "violations": 66
   },
   "previousRanks": {
     "hundos": 27,
-    "performance": 2,
+    "performance": 11,
     "accessibility": 27,
     "cumulative": 27
   }

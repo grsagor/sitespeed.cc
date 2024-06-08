@@ -1,26 +1,4 @@
 {
-  "https://jeffreestarcosmetics.com/": {
-    "requestedUrl": "https://jeffreestarcosmetics.com/",
-    "url": "https://jeffreestarcosmetics.com/",
-    "hash": "14dcae87",
-    "categories": [
-      "adult",
-      "antiques_collectibles",
-      "apparel",
-      "autos_vehicles",
-      "beauty_fitness",
-      "books_literature",
-      "computers",
-      "consumer_electronics",
-      "food_drink",
-      "gifts_special_events",
-      "home_garden",
-      "other categories",
-      "smoking-vaping",
-      "toys_hobbies"
-    ],
-    "vertical": "adult"
-  },
   "https://mielleorganics.com/": {
     "requestedUrl": "https://mielleorganics.com/",
     "url": "https://mielleorganics.com/",
@@ -47,6 +25,28 @@
     "requestedUrl": "https://www.keenfootwear.com/",
     "url": "https://www.keenfootwear.com/",
     "hash": "1903e57b",
+    "categories": [
+      "adult",
+      "antiques_collectibles",
+      "apparel",
+      "autos_vehicles",
+      "beauty_fitness",
+      "books_literature",
+      "computers",
+      "consumer_electronics",
+      "food_drink",
+      "gifts_special_events",
+      "home_garden",
+      "other categories",
+      "smoking-vaping",
+      "toys_hobbies"
+    ],
+    "vertical": "adult"
+  },
+  "https://jeffreestarcosmetics.com/": {
+    "requestedUrl": "https://jeffreestarcosmetics.com/",
+    "url": "https://jeffreestarcosmetics.com/",
+    "hash": "14dcae87",
     "categories": [
       "adult",
       "antiques_collectibles",
@@ -197,6 +197,28 @@
     ],
     "vertical": "adult"
   },
+  "https://www.rainbowshops.com/": {
+    "requestedUrl": "https://www.rainbowshops.com/",
+    "url": "https://www.rainbowshops.com/",
+    "hash": "2fe11d34",
+    "categories": [
+      "adult",
+      "antiques_collectibles",
+      "apparel",
+      "autos_vehicles",
+      "beauty_fitness",
+      "books_literature",
+      "computers",
+      "consumer_electronics",
+      "food_drink",
+      "gifts_special_events",
+      "home_garden",
+      "other categories",
+      "smoking-vaping",
+      "toys_hobbies"
+    ],
+    "vertical": "adult"
+  },
   "https://www.thespicehouse.com/": {
     "requestedUrl": "https://www.thespicehouse.com/",
     "url": "https://www.thespicehouse.com/",
@@ -223,28 +245,6 @@
     "requestedUrl": "https://hasbropulse.com/",
     "url": "https://hasbropulse.com/",
     "hash": "3b80156e",
-    "categories": [
-      "adult",
-      "antiques_collectibles",
-      "apparel",
-      "autos_vehicles",
-      "beauty_fitness",
-      "books_literature",
-      "computers",
-      "consumer_electronics",
-      "food_drink",
-      "gifts_special_events",
-      "home_garden",
-      "other categories",
-      "smoking-vaping",
-      "toys_hobbies"
-    ],
-    "vertical": "adult"
-  },
-  "https://www.rainbowshops.com/": {
-    "requestedUrl": "https://www.rainbowshops.com/",
-    "url": "https://www.rainbowshops.com/",
-    "hash": "2fe11d34",
     "categories": [
       "adult",
       "antiques_collectibles",
@@ -350,10 +350,10 @@
     ],
     "vertical": "adult"
   },
-  "https://soldejaneiro.com/": {
-    "requestedUrl": "https://soldejaneiro.com/",
-    "url": "https://soldejaneiro.com/",
-    "hash": "468003d1",
+  "https://skims.com/": {
+    "requestedUrl": "https://skims.com/",
+    "url": "https://skims.com/",
+    "hash": "43de393b",
     "categories": [
       "adult",
       "antiques_collectibles",
@@ -372,10 +372,10 @@
     ],
     "vertical": "adult"
   },
-  "https://skims.com/": {
-    "requestedUrl": "https://skims.com/",
-    "url": "https://skims.com/",
-    "hash": "43de393b",
+  "https://soldejaneiro.com/": {
+    "requestedUrl": "https://soldejaneiro.com/",
+    "url": "https://soldejaneiro.com/",
+    "hash": "468003d1",
     "categories": [
       "adult",
       "antiques_collectibles",
@@ -768,6 +768,11 @@
     ],
     "vertical": "adult"
   },
+  "undefined": {
+    "url": "https://cava.com/",
+    "hash": "83c827e1",
+    "categories": []
+  },
   "https://www.goodamerican.com/": {
     "requestedUrl": "https://www.goodamerican.com/",
     "url": "https://www.goodamerican.com/en-bd/",
@@ -789,11 +794,6 @@
       "toys_hobbies"
     ],
     "vertical": "adult"
-  },
-  "undefined": {
-    "url": "https://cava.com/",
-    "hash": "83c827e1",
-    "categories": []
   },
   "https://loveamika.com/": {
     "requestedUrl": "https://loveamika.com/",
@@ -905,10 +905,10 @@
     ],
     "vertical": "adult"
   },
-  "https://www.alexandani.com/": {
-    "requestedUrl": "https://www.alexandani.com/",
-    "url": "https://www.alexandani.com/",
-    "hash": "9205e1d0",
+  "https://kith.com/": {
+    "requestedUrl": "https://kith.com/",
+    "url": "https://kith.com/",
+    "hash": "8e778ca",
     "categories": [
       "adult",
       "antiques_collectibles",
@@ -927,10 +927,10 @@
     ],
     "vertical": "adult"
   },
-  "https://kith.com/": {
-    "requestedUrl": "https://kith.com/",
-    "url": "https://kith.com/",
-    "hash": "8e778ca",
+  "https://www.alexandani.com/": {
+    "requestedUrl": "https://www.alexandani.com/",
+    "url": "https://www.alexandani.com/",
+    "hash": "9205e1d0",
     "categories": [
       "adult",
       "antiques_collectibles",

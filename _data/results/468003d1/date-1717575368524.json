@@ -1,0 +1,66 @@
+{
+  "url": "https://soldejaneiro.com/",
+  "requestedUrl": "https://soldejaneiro.com/",
+  "timestamp": 1717578276156,
+  "ranks": {
+    "hundos": 25,
+    "performance": 24,
+    "accessibility": 12,
+    "cumulative": 25
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.06,
+    "accessibility": 0.88,
+    "bestPractices": 0.48,
+    "seo": 0.77,
+    "total": 222
+  },
+  "firstContentfulPaint": 3023.7737500000007,
+  "firstMeaningfulPaint": 3023.7737500000007,
+  "speedIndex": 31476.569952200156,
+  "largestContentfulPaint": 8142.157499999997,
+  "totalBlockingTime": 10104.499999999993,
+  "cumulativeLayoutShift": 0.9331241373615354,
+  "timeToInteractive": 55779.25484999998,
+  "maxPotentialFirstInputDelay": 2181.9999999999854,
+  "timeToFirstByte": 24.837000000000003,
+  "weight": {
+    "summary": "596 requests • 10.0 MiB",
+    "total": 10530427,
+    "image": 4959861,
+    "imageCount": 173,
+    "script": 3540044,
+    "scriptCount": 152,
+    "document": 146894,
+    "font": 279437,
+    "fontCount": 14,
+    "stylesheet": 175175,
+    "stylesheetCount": 52,
+    "thirdParty": 9277079,
+    "thirdPartyCount": 94
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 19,
+    "+weight.total": 8,
+    "-weight.document": 16,
+    "+weight.document": 11,
+    "-weight.script": 24,
+    "+weight.script": 3,
+    "-weight.image": 24,
+    "+weight.image": 3,
+    "-weight.font": 19,
+    "+weight.font": 8,
+    "+weight.fontCount": 3,
+    "-timeToFirstByte": 8,
+    "-totalBlockingTime": 18,
+    "-largestContentfulPaint": 6
+  },
+  "axe": {
+    "error": "{\"name\":\"TimeoutError\"}"
+  }
+}

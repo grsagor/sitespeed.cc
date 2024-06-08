@@ -1,0 +1,67 @@
+{
+  "url": "https://www.turtlebeach.com/",
+  "requestedUrl": "https://www.turtlebeach.com/",
+  "timestamp": 1717680840097,
+  "ranks": {
+    "hundos": 3,
+    "performance": 4,
+    "accessibility": 2,
+    "cumulative": 3
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.32,
+    "accessibility": 0.86,
+    "bestPractices": 0.74,
+    "seo": 0.86,
+    "total": 278
+  },
+  "firstContentfulPaint": 5339.7829999999985,
+  "firstMeaningfulPaint": 5339.7829999999985,
+  "speedIndex": 12991.381777029677,
+  "largestContentfulPaint": 8141.086999999999,
+  "totalBlockingTime": 1200.5,
+  "cumulativeLayoutShift": 0.0028631881823301744,
+  "timeToInteractive": 18740.602500000005,
+  "maxPotentialFirstInputDelay": 355,
+  "timeToFirstByte": 2434.588,
+  "weight": {
+    "summary": "161 requests • 3.7 MiB",
+    "total": 3916068,
+    "image": 2014388,
+    "imageCount": 55,
+    "script": 1508525,
+    "scriptCount": 54,
+    "document": 106958,
+    "font": 106331,
+    "fontCount": 4,
+    "stylesheet": 41966,
+    "stylesheetCount": 7,
+    "thirdParty": 3694338,
+    "thirdPartyCount": 30
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 2,
+    "+weight.total": 3,
+    "-weight.document": 3,
+    "+weight.document": 2,
+    "-weight.script": 1,
+    "+weight.script": 4,
+    "-weight.image": 4,
+    "+weight.image": 1,
+    "-weight.font": 1,
+    "+weight.font": 4,
+    "+weight.fontCount": 3,
+    "-timeToFirstByte": 4,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 3
+  },
+  "axe": {
+    "passes": 861,
+    "violations": 39
+  }
+}

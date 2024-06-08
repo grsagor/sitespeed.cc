@@ -1,0 +1,67 @@
+{
+  "url": "https://www.fashionnova.com/",
+  "requestedUrl": "https://www.fashionnova.com/",
+  "timestamp": 1717670211674,
+  "ranks": {
+    "hundos": 16,
+    "performance": 21,
+    "accessibility": 14,
+    "cumulative": 16
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.25,
+    "accessibility": 0.85,
+    "bestPractices": 0.48,
+    "seo": 0.93,
+    "total": 251
+  },
+  "firstContentfulPaint": 6251.072,
+  "firstMeaningfulPaint": 8066.9270000000015,
+  "speedIndex": 31023.408068141645,
+  "largestContentfulPaint": 14373.996000000003,
+  "totalBlockingTime": 12837.006250000026,
+  "cumulativeLayoutShift": 0.05391556798210682,
+  "timeToInteractive": 49363.29306559755,
+  "maxPotentialFirstInputDelay": 1249,
+  "timeToFirstByte": 13.801999999999992,
+  "weight": {
+    "summary": "411 requests • 6.6 MiB",
+    "total": 6933674,
+    "image": 1677914,
+    "imageCount": 95,
+    "script": 3588780,
+    "scriptCount": 121,
+    "document": 201762,
+    "font": 170383,
+    "fontCount": 5,
+    "stylesheet": 128089,
+    "stylesheetCount": 7,
+    "thirdParty": 3891304,
+    "thirdPartyCount": 58
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 16,
+    "+weight.total": 12,
+    "-weight.document": 21,
+    "+weight.document": 7,
+    "-weight.script": 26,
+    "+weight.script": 2,
+    "-weight.image": 14,
+    "+weight.image": 14,
+    "-weight.font": 14,
+    "+weight.font": 14,
+    "+weight.fontCount": 8,
+    "-timeToFirstByte": 1,
+    "-totalBlockingTime": 21,
+    "-largestContentfulPaint": 20
+  },
+  "axe": {
+    "passes": 2577,
+    "violations": 129
+  }
+}

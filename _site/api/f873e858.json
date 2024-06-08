@@ -1,12 +1,12 @@
 {
   "url": "https://www.glossier.com/en-bd/",
   "requestedUrl": "https://www.glossier.com/",
-  "timestamp": 1717404338876,
+  "timestamp": 1717676520333,
   "ranks": {
-    "hundos": 15,
-    "performance": 22,
-    "accessibility": 11,
-    "cumulative": 15
+    "hundos": 16,
+    "performance": 21,
+    "accessibility": 12,
+    "cumulative": 16
   },
   "lighthouse": {
     "version": "11.7.1",
@@ -16,52 +16,58 @@
     "seo": 0.98,
     "total": 257
   },
-  "firstContentfulPaint": 4899.4973534240735,
-  "firstMeaningfulPaint": 5637.9123534240725,
-  "speedIndex": 12781.656491154006,
-  "largestContentfulPaint": 17167.91025,
-  "totalBlockingTime": 4486.000000000007,
+  "firstContentfulPaint": 5077.262843887331,
+  "firstMeaningfulPaint": 5659.53259388733,
+  "speedIndex": 11839.166555702523,
+  "largestContentfulPaint": 16818.965325714722,
+  "totalBlockingTime": 3762.2305508819536,
   "cumulativeLayoutShift": 0.1577457649827484,
-  "timeToInteractive": 29950.280199890152,
-  "maxPotentialFirstInputDelay": 378.0000000000018,
-  "timeToFirstByte": 23.442,
+  "timeToInteractive": 28821.971970559694,
+  "maxPotentialFirstInputDelay": 464,
+  "timeToFirstByte": 781.809,
   "weight": {
-    "summary": "336 requests • 19.4 MiB",
-    "total": 20358478,
-    "image": 556936,
-    "imageCount": 33,
-    "script": 1982008,
-    "scriptCount": 108,
-    "document": 128508,
-    "font": 134183,
-    "fontCount": 14,
-    "stylesheet": 86086,
-    "stylesheetCount": 9,
-    "thirdParty": 19643030,
-    "thirdPartyCount": 32
+    "summary": "335 requests • 25.5 MiB",
+    "total": 26708789,
+    "image": 560755,
+    "imageCount": 31,
+    "script": 2021082,
+    "scriptCount": 109,
+    "document": 128873,
+    "font": 134360,
+    "fontCount": 16,
+    "stylesheet": 86375,
+    "stylesheetCount": 10,
+    "thirdParty": 25990029,
+    "thirdPartyCount": 31
   },
   "run": {
-    "number": 2,
+    "number": 1,
     "total": 3
   },
   "sidequests": {
-    "-weight.total": 23,
-    "+weight.total": 4,
-    "-weight.document": 13,
-    "+weight.document": 14,
-    "-weight.script": 8,
-    "+weight.script": 19,
+    "-weight.total": 24,
+    "+weight.total": 3,
+    "-weight.document": 14,
+    "+weight.document": 13,
+    "-weight.script": 9,
+    "+weight.script": 18,
     "-weight.image": 5,
     "+weight.image": 22,
     "-weight.font": 13,
     "+weight.font": 14,
-    "+weight.fontCount": 3,
-    "-timeToFirstByte": 12,
+    "+weight.fontCount": 2,
+    "-timeToFirstByte": 23,
     "-totalBlockingTime": 11,
-    "-largestContentfulPaint": 17
+    "-largestContentfulPaint": 20
   },
   "axe": {
-    "passes": 1156,
+    "passes": 1168,
     "violations": 9
+  },
+  "previousRanks": {
+    "hundos": 15,
+    "performance": 21,
+    "accessibility": 13,
+    "cumulative": 15
   }
 }

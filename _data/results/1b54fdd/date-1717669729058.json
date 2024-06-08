@@ -1,0 +1,67 @@
+{
+  "url": "https://www.schwinnbikes.com/",
+  "requestedUrl": "https://www.schwinnbikes.com/",
+  "timestamp": 1717677173968,
+  "ranks": {
+    "hundos": 1,
+    "performance": 1,
+    "accessibility": 1,
+    "cumulative": 1
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.81,
+    "accessibility": 1,
+    "bestPractices": 0.78,
+    "seo": 0.82,
+    "total": 341
+  },
+  "firstContentfulPaint": 1459.2350000000001,
+  "firstMeaningfulPaint": 1459.2350000000001,
+  "speedIndex": 8528.199030870395,
+  "largestContentfulPaint": 2600.235,
+  "totalBlockingTime": 314,
+  "cumulativeLayoutShift": 0.000378423263983786,
+  "timeToInteractive": 9856.307,
+  "maxPotentialFirstInputDelay": 179,
+  "timeToFirstByte": 171.334,
+  "weight": {
+    "summary": "107 requests • 4.3 MiB",
+    "total": 4457148,
+    "image": 788316,
+    "imageCount": 20,
+    "script": 912933,
+    "scriptCount": 31,
+    "document": 52383,
+    "font": 125707,
+    "fontCount": 3,
+    "stylesheet": 37995,
+    "stylesheetCount": 2,
+    "thirdParty": 3231169,
+    "thirdPartyCount": 16
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 11,
+    "+weight.total": 16,
+    "-weight.document": 3,
+    "+weight.document": 24,
+    "-weight.script": 4,
+    "+weight.script": 23,
+    "-weight.image": 9,
+    "+weight.image": 18,
+    "-weight.font": 11,
+    "+weight.font": 16,
+    "+weight.fontCount": 11,
+    "-timeToFirstByte": 14,
+    "-totalBlockingTime": 2,
+    "-largestContentfulPaint": 1
+  },
+  "axe": {
+    "passes": 1268,
+    "violations": 13
+  }
+}

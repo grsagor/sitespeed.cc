@@ -1,12 +1,12 @@
 {
   "url": "https://www.quince.com/",
   "requestedUrl": "https://www.quince.com/",
-  "timestamp": 1717409630828,
+  "timestamp": 1717681383904,
   "ranks": {
-    "hundos": 6,
-    "performance": 4,
+    "hundos": 7,
+    "performance": 3,
     "accessibility": 5,
-    "cumulative": 6
+    "cumulative": 7
   },
   "lighthouse": {
     "version": "11.7.1",
@@ -16,32 +16,32 @@
     "seo": 0.85,
     "total": 262
   },
-  "firstContentfulPaint": 2673.7889,
-  "firstMeaningfulPaint": 2673.7889,
-  "speedIndex": 13310.737053133844,
-  "largestContentfulPaint": 6108.324850000001,
-  "totalBlockingTime": 6326.243199999995,
+  "firstContentfulPaint": 2816.9943000000003,
+  "firstMeaningfulPaint": 2816.9943000000003,
+  "speedIndex": 15753.94428472357,
+  "largestContentfulPaint": 5805.327649999999,
+  "totalBlockingTime": 7370.500000000002,
   "cumulativeLayoutShift": 0,
-  "timeToInteractive": 29972.772150000004,
-  "maxPotentialFirstInputDelay": 1748.0000000000018,
-  "timeToFirstByte": 28.447000000000003,
+  "timeToInteractive": 31026.307099999998,
+  "maxPotentialFirstInputDelay": 2743,
+  "timeToFirstByte": 95.34300000000007,
   "weight": {
-    "summary": "248 requests • 3.4 MiB",
-    "total": 3567079,
-    "image": 673419,
-    "imageCount": 92,
-    "script": 2239773,
-    "scriptCount": 66,
-    "document": 123673,
-    "font": 273861,
+    "summary": "247 requests • 3.4 MiB",
+    "total": 3533431,
+    "image": 650419,
+    "imageCount": 90,
+    "script": 2226856,
+    "scriptCount": 67,
+    "document": 123867,
+    "font": 273867,
     "fontCount": 6,
     "stylesheet": 0,
     "stylesheetCount": 0,
-    "thirdParty": 1729201,
-    "thirdPartyCount": 65
+    "thirdParty": 1711841,
+    "thirdPartyCount": 63
   },
   "run": {
-    "number": 3,
+    "number": 1,
     "total": 3
   },
   "sidequests": {
@@ -49,18 +49,24 @@
     "+weight.total": 5,
     "-weight.document": 6,
     "+weight.document": 3,
-    "-weight.script": 6,
-    "+weight.script": 3,
-    "-weight.image": 3,
-    "+weight.image": 6,
+    "-weight.script": 7,
+    "+weight.script": 2,
+    "-weight.image": 4,
+    "+weight.image": 5,
     "-weight.font": 5,
     "+weight.font": 4,
     "+weight.fontCount": 3,
-    "-timeToFirstByte": 2,
-    "-totalBlockingTime": 7,
-    "-largestContentfulPaint": 3
+    "-timeToFirstByte": 4,
+    "-totalBlockingTime": 8,
+    "-largestContentfulPaint": 1
   },
   "axe": {
     "error": "{\"name\":\"TimeoutError\"}"
+  },
+  "previousRanks": {
+    "hundos": 7,
+    "performance": 7,
+    "accessibility": 5,
+    "cumulative": 7
   }
 }

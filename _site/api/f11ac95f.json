@@ -1,52 +1,52 @@
 {
   "url": "https://vuoriclothing.com/",
   "requestedUrl": "https://vuoriclothing.com/",
-  "timestamp": 1717497802270,
+  "timestamp": 1717673985000,
   "ranks": {
-    "hundos": 4,
+    "hundos": 1,
     "performance": 1,
     "accessibility": 15,
-    "cumulative": 4
+    "cumulative": 1
   },
   "lighthouse": {
     "version": "11.7.1",
-    "performance": 0.46,
+    "performance": 0.59,
     "accessibility": 0.85,
     "bestPractices": 0.52,
     "seo": 0.93,
-    "total": 276
+    "total": 289
   },
-  "firstContentfulPaint": 1203.732,
-  "firstMeaningfulPaint": 22857.761749999998,
-  "speedIndex": 29527.16437843436,
-  "largestContentfulPaint": 4139.21825,
-  "totalBlockingTime": 9742.87665500001,
+  "firstContentfulPaint": 1275.0067999999999,
+  "firstMeaningfulPaint": 1275.0067999999999,
+  "speedIndex": 25064.50320060356,
+  "largestContentfulPaint": 2127.730135,
+  "totalBlockingTime": 15730.999999999993,
   "cumulativeLayoutShift": 0.023690882328916803,
-  "timeToInteractive": 43523.209012499996,
-  "maxPotentialFirstInputDelay": 4093.0000000000073,
-  "timeToFirstByte": 297.99299999999994,
+  "timeToInteractive": 44288.54259999996,
+  "maxPotentialFirstInputDelay": 4254.000000000004,
+  "timeToFirstByte": 267.297,
   "weight": {
-    "summary": "354 requests • 5.5 MiB",
-    "total": 5722360,
-    "image": 1852644,
-    "imageCount": 76,
-    "script": 2557320,
-    "scriptCount": 139,
-    "document": 74364,
-    "font": 737881,
+    "summary": "361 requests • 5.5 MiB",
+    "total": 5717907,
+    "image": 1884583,
+    "imageCount": 77,
+    "script": 2535346,
+    "scriptCount": 137,
+    "document": 73722,
+    "font": 737909,
     "fontCount": 4,
-    "stylesheet": 43157,
+    "stylesheet": 42805,
     "stylesheetCount": 8,
-    "thirdParty": 4524298,
+    "thirdParty": 4537330,
     "thirdPartyCount": 48
   },
   "run": {
-    "number": 2,
+    "number": 3,
     "total": 3
   },
   "sidequests": {
-    "-weight.total": 10,
-    "+weight.total": 18,
+    "-weight.total": 11,
+    "+weight.total": 17,
     "-weight.document": 5,
     "+weight.document": 23,
     "-weight.script": 15,
@@ -56,17 +56,17 @@
     "-weight.font": 27,
     "+weight.font": 1,
     "+weight.fontCount": 9,
-    "-timeToFirstByte": 19,
+    "-timeToFirstByte": 18,
     "-totalBlockingTime": 23,
-    "-largestContentfulPaint": 2
+    "-largestContentfulPaint": 1
   },
   "axe": {
     "error": "{\"name\":\"TimeoutError\"}"
   },
   "previousRanks": {
-    "hundos": 8,
-    "performance": 9,
+    "hundos": 4,
+    "performance": 1,
     "accessibility": 15,
-    "cumulative": 8
+    "cumulative": 4
   }
 }

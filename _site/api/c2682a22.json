@@ -1,12 +1,12 @@
 {
   "url": "https://www.benchmade.com/",
   "requestedUrl": "https://www.benchmade.com/",
-  "timestamp": 1717406913199,
+  "timestamp": 1717678268058,
   "ranks": {
-    "hundos": 16,
+    "hundos": 17,
     "performance": 5,
     "accessibility": 16,
-    "cumulative": 16
+    "cumulative": 17
   },
   "lighthouse": {
     "version": "11.7.1",
@@ -16,37 +16,37 @@
     "seo": 0.86,
     "total": 255
   },
-  "firstContentfulPaint": 1364.346,
-  "firstMeaningfulPaint": 1364.346,
-  "speedIndex": 26437.03632842521,
-  "largestContentfulPaint": 16613.536000000007,
-  "totalBlockingTime": 5164.904749999989,
-  "cumulativeLayoutShift": 0.0007054734201389877,
-  "timeToInteractive": 39898.46918415832,
-  "maxPotentialFirstInputDelay": 1012.9999999999927,
-  "timeToFirstByte": 14.655999999999949,
+  "firstContentfulPaint": 1348.9128539631045,
+  "firstMeaningfulPaint": 1348.9128539631045,
+  "speedIndex": 27933.972552930838,
+  "largestContentfulPaint": 12770.375148805986,
+  "totalBlockingTime": 4460.500000000004,
+  "cumulativeLayoutShift": 0.0004336018991903477,
+  "timeToInteractive": 40559.92107785116,
+  "maxPotentialFirstInputDelay": 660.9999999999927,
+  "timeToFirstByte": 16.496000000000038,
   "weight": {
-    "summary": "363 requests • 26.8 MiB",
-    "total": 28114196,
-    "image": 3834541,
-    "imageCount": 66,
-    "script": 2772388,
+    "summary": "357 requests • 24.0 MiB",
+    "total": 25137823,
+    "image": 4006727,
+    "imageCount": 65,
+    "script": 2782677,
     "scriptCount": 137,
-    "document": 231231,
-    "font": 357290,
+    "document": 229682,
+    "font": 357191,
     "fontCount": 9,
-    "stylesheet": 73250,
+    "stylesheet": 73225,
     "stylesheetCount": 7,
-    "thirdParty": 24458860,
+    "thirdParty": 21307778,
     "thirdPartyCount": 43
   },
   "run": {
-    "number": 3,
+    "number": 2,
     "total": 3
   },
   "sidequests": {
-    "-weight.total": 25,
-    "+weight.total": 2,
+    "-weight.total": 23,
+    "+weight.total": 4,
     "-weight.document": 22,
     "+weight.document": 5,
     "-weight.script": 18,
@@ -55,13 +55,19 @@
     "+weight.image": 4,
     "-weight.font": 23,
     "+weight.font": 4,
-    "+weight.fontCount": 7,
-    "-timeToFirstByte": 6,
+    "+weight.fontCount": 5,
+    "-timeToFirstByte": 2,
     "-totalBlockingTime": 13,
-    "-largestContentfulPaint": 14
+    "-largestContentfulPaint": 15
   },
   "axe": {
-    "passes": 1621,
+    "passes": 1625,
     "violations": 42
+  },
+  "previousRanks": {
+    "hundos": 16,
+    "performance": 5,
+    "accessibility": 17,
+    "cumulative": 16
   }
 }

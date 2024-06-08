@@ -1,67 +1,73 @@
 {
   "url": "https://www.opi.com/",
   "requestedUrl": "https://www.opi.com/",
-  "timestamp": 1717404099989,
+  "timestamp": 1717678661239,
   "ranks": {
-    "hundos": 4,
+    "hundos": 5,
     "performance": 23,
-    "accessibility": 8,
-    "cumulative": 4
+    "accessibility": 7,
+    "cumulative": 5
   },
   "lighthouse": {
     "version": "11.7.1",
-    "performance": 0.11,
+    "performance": 0.09,
     "accessibility": 0.93,
     "bestPractices": 0.93,
     "seo": 0.9,
-    "total": 287
+    "total": 285
   },
-  "firstContentfulPaint": 2633.6214,
-  "firstMeaningfulPaint": 2633.6214,
-  "speedIndex": 11851.801389211565,
-  "largestContentfulPaint": 12750.164499999999,
-  "totalBlockingTime": 1474.0000000000027,
-  "cumulativeLayoutShift": 1.0936603824786528,
-  "timeToInteractive": 18061.091467356877,
-  "maxPotentialFirstInputDelay": 296,
-  "timeToFirstByte": 620.248,
+  "firstContentfulPaint": 2806.5185,
+  "firstMeaningfulPaint": 2806.5185,
+  "speedIndex": 11839.147021790992,
+  "largestContentfulPaint": 11604.413999999997,
+  "totalBlockingTime": 1904.500000000001,
+  "cumulativeLayoutShift": 1.0983964899133287,
+  "timeToInteractive": 18940.068000000007,
+  "maxPotentialFirstInputDelay": 305,
+  "timeToFirstByte": 607.9200000000001,
   "weight": {
-    "summary": "171 requests • 3.0 MiB",
-    "total": 3191403,
-    "image": 1480437,
-    "imageCount": 48,
-    "script": 1117215,
+    "summary": "175 requests • 3.0 MiB",
+    "total": 3181799,
+    "image": 1463348,
+    "imageCount": 49,
+    "script": 1119269,
     "scriptCount": 46,
-    "document": 55525,
-    "font": 319162,
+    "document": 54963,
+    "font": 319172,
     "fontCount": 7,
-    "stylesheet": 35857,
+    "stylesheet": 35798,
     "stylesheetCount": 9,
-    "thirdParty": 2351332,
+    "thirdParty": 2342127,
     "thirdPartyCount": 11
   },
   "run": {
-    "number": 2,
+    "number": 3,
     "total": 3
   },
   "sidequests": {
     "-weight.total": 4,
     "+weight.total": 23,
-    "-weight.document": 5,
-    "+weight.document": 22,
+    "-weight.document": 4,
+    "+weight.document": 23,
     "-weight.script": 5,
     "+weight.script": 22,
-    "-weight.image": 17,
-    "+weight.image": 10,
+    "-weight.image": 16,
+    "+weight.image": 11,
     "-weight.font": 21,
     "+weight.font": 6,
-    "+weight.fontCount": 9,
-    "-timeToFirstByte": 22,
+    "+weight.fontCount": 7,
+    "-timeToFirstByte": 21,
     "-totalBlockingTime": 4,
-    "-largestContentfulPaint": 12
+    "-largestContentfulPaint": 13
   },
   "axe": {
-    "passes": 2248,
+    "passes": 2279,
     "violations": 5
+  },
+  "previousRanks": {
+    "hundos": 5,
+    "performance": 23,
+    "accessibility": 8,
+    "cumulative": 5
   }
 }

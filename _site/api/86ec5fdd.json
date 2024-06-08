@@ -1,66 +1,73 @@
 {
   "url": "https://www.gymshark.com/",
   "requestedUrl": "https://www.gymshark.com/",
-  "timestamp": 1717402294904,
+  "timestamp": 1717677439509,
   "ranks": {
-    "hundos": 10,
-    "performance": 14,
+    "hundos": 11,
+    "performance": 11,
     "accessibility": 25,
-    "cumulative": 11
+    "cumulative": 12
   },
   "lighthouse": {
     "version": "11.7.1",
-    "performance": 0.27,
+    "performance": 0.28,
     "accessibility": 0.72,
-    "bestPractices": 0.78,
-    "seo": 0.89,
-    "total": 266
+    "bestPractices": 0.74,
+    "seo": 0.9,
+    "total": 264
   },
-  "firstContentfulPaint": 3491.0525,
-  "firstMeaningfulPaint": 4868.184499999999,
-  "speedIndex": 23292.043635252496,
-  "largestContentfulPaint": 6752.972,
-  "totalBlockingTime": 21536.105399999993,
-  "cumulativeLayoutShift": 0.11526599333558729,
-  "timeToInteractive": 46811.149,
-  "maxPotentialFirstInputDelay": 2950,
-  "timeToFirstByte": 262.4359999999999,
+  "firstContentfulPaint": 3035.613,
+  "firstMeaningfulPaint": 3420.113,
+  "speedIndex": 20282.221732888665,
+  "largestContentfulPaint": 5715.5949999999975,
+  "totalBlockingTime": 15616.214499999996,
+  "cumulativeLayoutShift": 0.1412917503901354,
+  "timeToInteractive": 40724.649999999994,
+  "maxPotentialFirstInputDelay": 2045.9999999999982,
+  "timeToFirstByte": 267.15700000000004,
   "weight": {
-    "summary": "265 requests • 31.5 MiB",
-    "total": 33005149,
-    "image": 1527469,
-    "imageCount": 84,
-    "script": 2557114,
-    "scriptCount": 63,
-    "document": 120246,
-    "font": 105804,
+    "summary": "263 requests • 31.4 MiB",
+    "total": 32903120,
+    "image": 1402432,
+    "imageCount": 87,
+    "script": 2585356,
+    "scriptCount": 64,
+    "document": 123480,
+    "font": 105859,
     "fontCount": 5,
-    "stylesheet": 100631,
+    "stylesheet": 102222,
     "stylesheetCount": 5,
-    "thirdParty": 31998240,
-    "thirdPartyCount": 34
+    "thirdParty": 31686416,
+    "thirdPartyCount": 36
   },
   "run": {
-    "number": 1,
+    "number": 2,
     "total": 3
   },
   "sidequests": {
-    "-weight.total": 26,
-    "+weight.total": 1,
-    "-weight.document": 12,
-    "+weight.document": 15,
-    "-weight.script": 14,
-    "+weight.script": 13,
-    "-weight.image": 18,
-    "+weight.image": 9,
+    "-weight.total": 25,
+    "+weight.total": 2,
+    "-weight.document": 13,
+    "+weight.document": 14,
+    "-weight.script": 15,
+    "+weight.script": 12,
+    "-weight.image": 15,
+    "+weight.image": 12,
     "-weight.font": 8,
     "+weight.font": 19,
-    "+weight.fontCount": 11,
+    "+weight.fontCount": 9,
     "-timeToFirstByte": 16,
-    "-totalBlockingTime": 20,
-    "-largestContentfulPaint": 6
+    "-totalBlockingTime": 21,
+    "-largestContentfulPaint": 4
   },
   "axe": {
-    "error": "{\"name\":\"TimeoutError\"}"
+    "passes": 4746,
+    "violations": 115
+  },
+  "previousRanks": {
+    "hundos": 11,
+    "performance": 11,
+    "accessibility": 25,
+    "cumulative": 11
   }
 }

@@ -1,48 +1,48 @@
 {
   "url": "https://www.drsquatch.com/",
   "requestedUrl": "https://www.drsquatch.com/",
-  "timestamp": 1717406417815,
+  "timestamp": 1717677876343,
   "ranks": {
-    "hundos": 21,
-    "performance": 19,
-    "accessibility": 19,
+    "hundos": 19,
+    "performance": 17,
+    "accessibility": 18,
     "cumulative": 21
   },
   "lighthouse": {
     "version": "11.7.1",
     "performance": 0.25,
-    "accessibility": 0.81,
+    "accessibility": 0.82,
     "bestPractices": 0.52,
     "seo": 0.86,
-    "total": 244
+    "total": 250
   },
-  "firstContentfulPaint": 8586.0065,
-  "firstMeaningfulPaint": 10021.110499999999,
-  "speedIndex": 68592.34795743272,
-  "largestContentfulPaint": 19202.581000000013,
-  "totalBlockingTime": 40191.50000000001,
+  "firstContentfulPaint": 8550.375500000002,
+  "firstMeaningfulPaint": 9846.331000000002,
+  "speedIndex": 56384.51583592734,
+  "largestContentfulPaint": 16322.466000000011,
+  "totalBlockingTime": 20335.61463345639,
   "cumulativeLayoutShift": 0.0035315186563693564,
-  "timeToInteractive": 96405.2278584534,
-  "maxPotentialFirstInputDelay": 3407.9999999999927,
-  "timeToFirstByte": 301.162,
+  "timeToInteractive": 80700.88446654359,
+  "maxPotentialFirstInputDelay": 2650,
+  "timeToFirstByte": 331.45400000000006,
   "weight": {
-    "summary": "617 requests • 15.2 MiB",
-    "total": 15912992,
-    "image": 2814075,
-    "imageCount": 108,
-    "script": 4576643,
-    "scriptCount": 243,
-    "document": 286228,
-    "font": 237943,
-    "fontCount": 12,
-    "stylesheet": 269029,
-    "stylesheetCount": 28,
-    "thirdParty": 11233007,
-    "thirdPartyCount": 60
+    "summary": "649 requests • 16.3 MiB",
+    "total": 17074994,
+    "image": 2805452,
+    "imageCount": 116,
+    "script": 4525828,
+    "scriptCount": 253,
+    "document": 346464,
+    "font": 274360,
+    "fontCount": 14,
+    "stylesheet": 272415,
+    "stylesheetCount": 29,
+    "thirdParty": 11201721,
+    "thirdPartyCount": 63
   },
   "run": {
     "number": 2,
-    "total": 2
+    "total": 3
   },
   "sidequests": {
     "-weight.total": 22,
@@ -53,15 +53,20 @@
     "+weight.script": 2,
     "-weight.image": 21,
     "+weight.image": 6,
-    "-weight.font": 18,
-    "+weight.font": 9,
-    "+weight.fontCount": 4,
-    "-timeToFirstByte": 18,
-    "-totalBlockingTime": 25,
-    "-largestContentfulPaint": 20
+    "-weight.font": 17,
+    "+weight.font": 10,
+    "+weight.fontCount": 3,
+    "-timeToFirstByte": 17,
+    "-totalBlockingTime": 23,
+    "-largestContentfulPaint": 18
   },
   "axe": {
-    "passes": 1692,
-    "violations": 45
+    "error": "{\"name\":\"TimeoutError\"}"
+  },
+  "previousRanks": {
+    "hundos": 19,
+    "performance": 18,
+    "accessibility": 19,
+    "cumulative": 21
   }
 }

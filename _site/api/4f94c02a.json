@@ -1,67 +1,72 @@
 {
   "url": "https://fentybeauty.com/",
   "requestedUrl": "https://fentybeauty.com/",
-  "timestamp": 1717405650538,
+  "timestamp": 1717678364483,
   "ranks": {
     "hundos": 26,
     "performance": 26,
-    "accessibility": 13,
+    "accessibility": 15,
     "cumulative": 26
   },
   "lighthouse": {
     "version": "11.7.1",
-    "performance": 0,
+    "performance": 0.01,
     "accessibility": 0.83,
-    "bestPractices": 0.52,
+    "bestPractices": 0.48,
     "seo": 0.79,
-    "total": 214
+    "total": 211
   },
-  "firstContentfulPaint": 6694.609999999999,
-  "firstMeaningfulPaint": 6700.536499999999,
-  "speedIndex": 33375.83574623478,
-  "largestContentfulPaint": 16870.519249999998,
-  "totalBlockingTime": 16400.48450000002,
-  "cumulativeLayoutShift": 1.3336659049738016,
-  "timeToInteractive": 51018.017700000026,
-  "maxPotentialFirstInputDelay": 2806,
-  "timeToFirstByte": 19.041999999999973,
+  "firstContentfulPaint": 7928.3663,
+  "firstMeaningfulPaint": 7928.366300000001,
+  "speedIndex": 35952.42302422045,
+  "largestContentfulPaint": 11445.895899999994,
+  "totalBlockingTime": 12201.230600000014,
+  "cumulativeLayoutShift": 0.8492222350424649,
+  "timeToInteractive": 50385.82481830972,
+  "maxPotentialFirstInputDelay": 2323.0000000000073,
+  "timeToFirstByte": 30.129999999999995,
   "weight": {
-    "summary": "496 requests • 9.4 MiB",
-    "total": 9843558,
-    "image": 5815171,
-    "imageCount": 131,
-    "script": 2198645,
-    "scriptCount": 126,
-    "document": 248274,
-    "font": 132566,
+    "summary": "497 requests • 11.9 MiB",
+    "total": 12456912,
+    "image": 5009773,
+    "imageCount": 127,
+    "script": 2479284,
+    "scriptCount": 136,
+    "document": 260072,
+    "font": 132574,
     "fontCount": 5,
-    "stylesheet": 214145,
-    "stylesheetCount": 7,
-    "thirdParty": 6348414,
-    "thirdPartyCount": 27
+    "stylesheet": 236687,
+    "stylesheetCount": 8,
+    "thirdParty": 8777801,
+    "thirdPartyCount": 28
   },
   "run": {
     "number": 3,
     "total": 3
   },
   "sidequests": {
-    "-weight.total": 20,
-    "+weight.total": 7,
-    "-weight.document": 23,
-    "+weight.document": 4,
-    "-weight.script": 10,
-    "+weight.script": 17,
+    "-weight.total": 21,
+    "+weight.total": 6,
+    "-weight.document": 24,
+    "+weight.document": 3,
+    "-weight.script": 14,
+    "+weight.script": 13,
     "-weight.image": 25,
     "+weight.image": 2,
     "-weight.font": 12,
     "+weight.font": 15,
-    "+weight.fontCount": 11,
-    "-timeToFirstByte": 10,
-    "-totalBlockingTime": 18,
-    "-largestContentfulPaint": 15
+    "+weight.fontCount": 9,
+    "-timeToFirstByte": 9,
+    "-totalBlockingTime": 19,
+    "-largestContentfulPaint": 12
   },
   "axe": {
-    "passes": 2723,
-    "violations": 21
+    "error": "{\"name\":\"TimeoutError\"}"
+  },
+  "previousRanks": {
+    "hundos": 26,
+    "performance": 26,
+    "accessibility": 15,
+    "cumulative": 26
   }
 }

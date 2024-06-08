@@ -1,0 +1,66 @@
+{
+  "url": "https://www.keenfootwear.com/",
+  "requestedUrl": "https://www.keenfootwear.com/",
+  "timestamp": 1717672458571,
+  "ranks": {
+    "hundos": 8,
+    "performance": 3,
+    "accessibility": 12,
+    "cumulative": 8
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.35,
+    "accessibility": 0.86,
+    "bestPractices": 0.56,
+    "seo": 0.86,
+    "total": 263
+  },
+  "firstContentfulPaint": 1729.0710500000002,
+  "firstMeaningfulPaint": 1955.9717,
+  "speedIndex": 22027.71724104254,
+  "largestContentfulPaint": 7516.571750000001,
+  "totalBlockingTime": 9026.996750000002,
+  "cumulativeLayoutShift": 0.019343646073284735,
+  "timeToInteractive": 44437.804825735504,
+  "maxPotentialFirstInputDelay": 3893.000000000001,
+  "timeToFirstByte": 41.415,
+  "weight": {
+    "summary": "409 requests • 5.7 MiB",
+    "total": 6022000,
+    "image": 2173818,
+    "imageCount": 84,
+    "script": 2479479,
+    "scriptCount": 121,
+    "document": 142121,
+    "font": 183943,
+    "fontCount": 8,
+    "stylesheet": 90478,
+    "stylesheetCount": 29,
+    "thirdParty": 3093225,
+    "thirdPartyCount": 67
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 12,
+    "+weight.total": 16,
+    "-weight.document": 17,
+    "+weight.document": 11,
+    "-weight.script": 13,
+    "+weight.script": 15,
+    "-weight.image": 20,
+    "+weight.image": 8,
+    "-weight.font": 16,
+    "+weight.font": 12,
+    "+weight.fontCount": 5,
+    "-timeToFirstByte": 14,
+    "-totalBlockingTime": 19,
+    "-largestContentfulPaint": 10
+  },
+  "axe": {
+    "error": "{\"name\":\"TimeoutError\"}"
+  }
+}

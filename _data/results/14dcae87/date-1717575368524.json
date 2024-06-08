@@ -1,0 +1,67 @@
+{
+  "url": "https://jeffreestarcosmetics.com/",
+  "requestedUrl": "https://jeffreestarcosmetics.com/",
+  "timestamp": 1717578156447,
+  "ranks": {
+    "hundos": 6,
+    "performance": 13,
+    "accessibility": 9,
+    "cumulative": 6
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.27,
+    "accessibility": 0.92,
+    "bestPractices": 0.56,
+    "seo": 0.99,
+    "total": 274
+  },
+  "firstContentfulPaint": 1887.4406999999997,
+  "firstMeaningfulPaint": 2855.7884999999997,
+  "speedIndex": 17761.187447476408,
+  "largestContentfulPaint": 13035.419399999999,
+  "totalBlockingTime": 4565.63415,
+  "cumulativeLayoutShift": 0.15966657372369486,
+  "timeToInteractive": 27311.263049999994,
+  "maxPotentialFirstInputDelay": 1754,
+  "timeToFirstByte": 17.350000000000023,
+  "weight": {
+    "summary": "215 requests • 4.0 MiB",
+    "total": 4190676,
+    "image": 549353,
+    "imageCount": 19,
+    "script": 2567268,
+    "scriptCount": 70,
+    "document": 55503,
+    "font": 173208,
+    "fontCount": 7,
+    "stylesheet": 47505,
+    "stylesheetCount": 11,
+    "thirdParty": 3312700,
+    "thirdPartyCount": 30
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 7,
+    "+weight.total": 20,
+    "-weight.document": 5,
+    "+weight.document": 22,
+    "-weight.script": 14,
+    "+weight.script": 13,
+    "-weight.image": 5,
+    "+weight.image": 22,
+    "-weight.font": 14,
+    "+weight.font": 13,
+    "+weight.fontCount": 9,
+    "-timeToFirstByte": 3,
+    "-totalBlockingTime": 10,
+    "-largestContentfulPaint": 15
+  },
+  "axe": {
+    "passes": 2880,
+    "violations": 22
+  }
+}
